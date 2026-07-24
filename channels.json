@@ -1,0 +1,6121 @@
+{
+  "update_time": "2026-07-24T13:48:32.400387Z",
+  "channels": {
+    "index": "505",
+    "missing": [
+      33,
+      35,
+      36,
+      82,
+      86,
+      87,
+      89,
+      90,
+      92,
+      95,
+      98,
+      99,
+      112,
+      119,
+      120,
+      126,
+      130,
+      131,
+      136,
+      141,
+      148,
+      152,
+      153,
+      169,
+      173,
+      183,
+      184,
+      185,
+      195,
+      205,
+      206,
+      210,
+      215,
+      220,
+      221,
+      222,
+      223,
+      251,
+      254,
+      255,
+      259,
+      260,
+      262,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      272,
+      273,
+      275,
+      279,
+      280,
+      281,
+      283,
+      284,
+      285,
+      287,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475,
+      476,
+      477,
+      478,
+      486,
+      487,
+      488,
+      489,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496,
+      497,
+      500,
+      501,
+      502,
+      503
+    ],
+    "epgList": [
+      "https://epg.pw/api/epg.xml?lang=en&channel_id=105835",
+      "https://epg.pw/api/epg.xml?lang=en&channel_id=403926",
+      "https://epg.pw/api/epg.xml?lang=en&channel_id=403783",
+      "https://epg.pw/api/epg.xml?lang=en&channel_id=403522",
+      "https://epg.pw/api/epg.xml?lang=en&channel_id=412093",
+      "https://epg.pw/api/epg.xml?lang=en&channel_id=403527",
+      "https://epg.pw/api/epg.xml?lang=en&channel_id=369813",
+      "https://freem3u.xyz/static/epg/epg.xml"
+    ],
+    "group": [
+      {
+        "title": "Thể Thao"
+      },
+      {
+        "title": "Phim Truyện"
+      },
+      {
+        "title": "Thiếu Nhi"
+      },
+      {
+        "title": "Âm Nhạc"
+      },
+      {
+        "title": "Khám Phá"
+      },
+      {
+        "title": "Tin Tức"
+      },
+      {
+        "title": "VTV"
+      },
+      {
+        "title": "VTVCab"
+      },
+      {
+        "title": "SCTV"
+      },
+      {
+        "title": "HTV - TP.HCM"
+      },
+      {
+        "title": "THVL"
+      },
+      {
+        "title": "Quốc Tế"
+      },
+      {
+        "title": "Sự Kiện"
+      }
+    ],
+    "channels": [
+      {
+        "id": "vtv1",
+        "title": "VTV1",
+        "tvgId": "vtv1hd.VN",
+        "urls": [
+          {
+            "url": "https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/manifest.mpd"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/mean/VTV1_HD/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=230"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv1-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/vtv1-hd/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=vtv1",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv1.png",
+        "group": [
+          "VTV",
+          "Tin Tức"
+        ],
+        "channelIndex": 1
+      },
+      {
+        "id": "vtv2",
+        "title": "VTV2",
+        "tvgId": "vtv2hd.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/mean/VTV2_HD/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv2-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=vtv2",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv2.png",
+        "group": [
+          "VTV"
+        ],
+        "channelIndex": 2
+      },
+      {
+        "id": "vtv3",
+        "title": "VTV3",
+        "tvgId": "vtv3hd.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/mean/VTV3_HD/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv3-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=vtv3",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv3.png",
+        "group": [
+          "VTV"
+        ],
+        "channelIndex": 3
+      },
+      {
+        "id": "vtv4",
+        "title": "VTV4",
+        "tvgId": "vtv4hd.VN",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/mean/VTV4_HD/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv4-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=vtv4",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv4.png",
+        "group": [
+          "VTV"
+        ],
+        "channelIndex": 4
+      },
+      {
+        "id": "vtv5",
+        "title": "VTV5",
+        "tvgId": "vtv5hd.VN",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/mean/VTV5_HD/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=vtv5",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv5.png",
+        "group": [
+          "VTV"
+        ],
+        "channelIndex": 5
+      },
+      {
+        "id": "vtv5-tay-nam-bo",
+        "title": "VTV5 Tây Nam Bộ",
+        "tvgId": "vtv5hdtnb.VN",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8"
+          },
+          {
+            "url": "https://liveh12byt.vtvprime.vn/hls/VTV5_TNB/index.m3u8"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-tay-nam-bo/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=vtv5tnb",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv5_tnb.png",
+        "group": [
+          "VTV"
+        ],
+        "channelIndex": 6
+      },
+      {
+        "id": "vtv5-tay-nguyen",
+        "title": "VTV5 Tây Nguyên",
+        "tvgId": "vtv5hdtn.VN",
+        "urls": [
+          {
+            "url": "https://liveh12byt.vtvprime.vn/hls/VTV5_TN/index.m3u8"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-tay-nguyen/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv5_tn.png",
+        "group": [
+          "VTV"
+        ],
+        "channelIndex": 7
+      },
+      {
+        "id": "vtv6",
+        "tvgId": "vtv6hd.VN",
+        "title": "VTV6",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livebytsct.vtvprime.vn/livesnv2/VTV6/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
+          },
+          {
+            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=10043"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv6_new_2.png",
+        "group": [
+          "VTV",
+          "Thể Thao"
+        ],
+        "channelIndex": 34
+      },
+      {
+        "id": "vtv7",
+        "title": "VTV7",
+        "tvgId": "vtv7hd.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/mean/VTV7_HD/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv7-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=vtv7",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv7.png",
+        "group": [
+          "VTV"
+        ],
+        "channelIndex": 9
+      },
+      {
+        "id": "vtv8",
+        "title": "VTV8",
+        "tvgId": "vtv8hd.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/mean/VTV8_HD/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv8-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=vtv8",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv8.png",
+        "group": [
+          "VTV"
+        ],
+        "channelIndex": 10
+      },
+      {
+        "id": "vtv9",
+        "title": "VTV9",
+        "tvgId": "vtv9hd.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/mean/VTV9_HD/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=vtv9",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv9.png",
+        "group": [
+          "VTV"
+        ],
+        "channelIndex": 11
+      },
+      {
+        "id": "vtv-can-tho",
+        "title": "VTV10",
+        "tvgId": "vtvcantho.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/mean/VTV6_HD/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv-can-tho/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=vtvcantho",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv10.png",
+        "group": [
+          "VTV"
+        ],
+        "channelIndex": 8
+      },
+      {
+        "id": "vietnam_today",
+        "tvgId": "vietnamtoday.VN",
+        "title": "VietNam Today",
+        "thumbnail": "https://freem3u.xyz/static/images/vtv/vietnam_today.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9951"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/mean/VIETNAMTODAY/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=truyen-hinh-truc-tuyen/vietnam-today/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "group": [
+          "VTV"
+        ],
+        "channelIndex": 81
+      },
+      {
+        "id": "on-vie-giai-tri",
+        "title": "VTVCab 1 - ON Vie Giải Trí",
+        "tvgId": "onviegiaitri.VN",
+        "urls": [
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/vie-giai-tri-hd/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=180"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-1-vie-giai-tri-hd/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab1.png",
+        "group": [
+          "VTVCab"
+        ],
+        "channelIndex": 12
+      },
+      {
+        "id": "on-phim-viet",
+        "title": "VTVCab 2 - ON Phim Việt",
+        "tvgId": "onphimviet.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=175"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/PHIM_VIET/manifest.mpd&keys=7417db88928243fda4e03596bbd19a27:eebb689de1191ae1b207d32f0d5ca9fe",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-2-phim-viet-hd/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab2.png",
+        "group": [
+          "VTVCab",
+          "Phim Truyện"
+        ],
+        "channelIndex": 13
+      },
+      {
+        "id": "onsports",
+        "title": "VTVCab 3 - ON Sports HD",
+        "tvgId": "onsports.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livebytsct.vtvprime.vn/livesnv2/THETHAO_HD/manifest.mpd&keys=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339,bc5c30fc9f7e43e58887a2d8a7788a38:55bd66990fb745fd895f1aa71393e81f",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab3hd/ToChaThangVThanh"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab3.png",
+        "group": [
+          "VTVCab",
+          "Thể Thao"
+        ],
+        "channelIndex": 14
+      },
+      {
+        "id": "on-movies",
+        "title": "VTVCab 4 - ON Movies",
+        "tvgId": "onmovies.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/VAN_HOA/manifest.mpd&keys=2f571f6db60340e8a3cc3a5395d21611:553752778fe0d3ea79d434bf5f867f26",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-4-on-movies/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab4.png",
+        "group": [
+          "VTVCab",
+          "Phim Truyện"
+        ],
+        "channelIndex": 15
+      },
+      {
+        "id": "on-e-channel",
+        "title": "VTVCab 5 - ON E Channel",
+        "tvgId": "onechannel.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=182"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/E_CHANNEL/manifest.mpd&keys=04c8d53c9d4f48a78efdfd74888ffc38:8dfc9ea0293e3b94e5f44b8d9f2fac9f",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-5-e-channel-hd/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab5.png",
+        "group": [
+          "VTVCab"
+        ],
+        "channelIndex": 16
+      },
+      {
+        "id": "onsportsplus",
+        "title": "VTVCab 6 - ON Sports+",
+        "tvgId": "onsportsplus.VN",
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab6.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd&keys=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339,4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "VTVCab",
+          "Thể Thao"
+        ],
+        "channelIndex": 17
+      },
+      {
+        "id": "on-o2tv",
+        "title": "VTVCab 7 - ON O2TV",
+        "tvgId": "ono2tv.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=136"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/O2_TV/manifest.mpd&keys=1b5a915f267e417085e0f68200395a41:5544d7c1e523a53d404ab2823132ee7e",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab7hd/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab7.png",
+        "group": [
+          "VTVCab"
+        ],
+        "channelIndex": 18
+      },
+      {
+        "id": "on-bibi",
+        "title": "VTVCab 8 - ON BiBi",
+        "tvgId": "onbibi.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=178"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/BIBI/manifest.mpd&keys=4196ec8c5fca4f1cb50e8f2668c63b10:a52178cddaf1b8726aadf6fa697b5bf4",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-8-bi-bi-sd/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab8.png",
+        "group": [
+          "VTVCab",
+          "Thiếu Nhi"
+        ],
+        "channelIndex": 19
+      },
+      {
+        "id": "on-info-tv",
+        "title": "VTVCab 9 - ON Info TV",
+        "tvgId": "oninfotv.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=189"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/INFO_TV/manifest.mpd&keys=39425f1a9f7f4db985b5e7b2e65e4208:63e3aad2bc5bed77e59724ba8d2e94f0",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-9-infotv-hd/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab9.png",
+        "group": [
+          "VTVCab"
+        ],
+        "channelIndex": 20
+      },
+      {
+        "id": "on-cine",
+        "title": "VTVCab 10 - ON Cine",
+        "tvgId": "oncine.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=176"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/FILM_TV/manifest.mpd&keys=0aad542fff274b2685264603b5075632:7555eb438217938dbb48665863b46fa1",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab10-on-cine-hd/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab10.png",
+        "group": [
+          "VTVCab",
+          "Phim Truyện"
+        ],
+        "channelIndex": 21
+      },
+      {
+        "id": "on-style-tv",
+        "title": "VTVCab 12 - ON Style TV",
+        "tvgId": "onstyle.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=184"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/STYLE_TV_HD/manifest.mpd&keys=414a288afe3d4f3985407d9613ec21eb:31d12c6d561e208f4c79b4a6c280dd5b",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-12-styletv-hd/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab12.png",
+        "group": [
+          "VTVCab"
+        ],
+        "channelIndex": 22
+      },
+      {
+        "id": "vtvcab13hd-vtv-cab",
+        "tvgId": "onhomeshopping.VN",
+        "title": "VTVcab13 - On Homeshopping",
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab13.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/VTVCAB13/manifest.mpd&keys=2135c7e9270b43b38032d56807b23575:873b9f0fb133179a428655502be16ef0",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "VTVCab"
+        ],
+        "forcedAspectRatio": {
+          "width": 1280,
+          "height": 720
+        },
+        "channelIndex": 23
+      },
+      {
+        "id": "on-music",
+        "title": "VTVCab 15 - ON Music",
+        "tvgId": "onmusic.VN",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=185"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/M_CHANNEL/manifest.mpd&keys=e518bbb7e8614a7da4d8d974d62486da:b509751f1fa3c676f482cde476670dd6",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab15-on-music/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab15.png",
+        "group": [
+          "VTVCab",
+          "Âm Nhạc"
+        ],
+        "channelIndex": 24
+      },
+      {
+        "id": "onfootball",
+        "tvgId": "onfootball.VN",
+        "title": "VTVCab 16 - ON Football HD",
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab16.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd&keys=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339,5184162e30134a44afa1d591ffc2e736:09b20d5f9bbf41fdb8d3916c409470a8",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "VTVCab",
+          "Thể Thao"
+        ],
+        "channelIndex": 25
+      },
+      {
+        "id": "on-trending-tv",
+        "tvgId": "ontrending.VN",
+        "title": "VTVCab 17 - ON Trending TV",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=186"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/YEAH1_TV/manifest.mpd&keys=765c826c381e4d58849784bb206c8e90:2970317ebf86d70fa11434eab4c59c5d",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab17-trending-tv/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab17.png",
+        "group": [
+          "VTVCab"
+        ],
+        "channelIndex": 26
+      },
+      {
+        "id": "onsportsnews",
+        "tvgId": "onsportsnews.VN",
+        "title": "VTVCab 18 - ON Sports News",
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab18.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/THETHAO_TINTUC_HD/manifest.mpd&keys=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339,cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "VTVCab",
+          "Thể Thao"
+        ],
+        "channelIndex": 27
+      },
+      {
+        "id": "on-vie-dramas",
+        "tvgId": "onviedramas.VN",
+        "title": "VTVCab 19 - ON Vie DRAMAS",
+        "urls": [
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              },
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/vie-dramas-hd/&platform=web&ui=012021",
+              "method": "POST"
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=177"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab19-vie-dramas/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab19.png",
+        "group": [
+          "VTVCab",
+          "Phim Truyện"
+        ],
+        "channelIndex": 28
+      },
+      {
+        "id": "on-vfamily",
+        "tvgId": "onvfamily.VN",
+        "title": "VTVCab 20 - ON VFamily",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=187"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/VFAMILY/manifest.mpd&keys=c01b22c5f5b44d72b9902b33a4c36fb7:8fe81a99e5b1cc891bb9e9f848b6e2e7",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-20-v-family-hd/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab20.png",
+        "group": [
+          "VTVCab"
+        ],
+        "channelIndex": 29
+      },
+      {
+        "id": "vtvcab21hd-vtv-cab",
+        "title": "VTVcab 21 - On Kids HD",
+        "tvgId": "onkids.VN",
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab21.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=179"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/BIBI_PLUS_clear/manifest.mpd&keys=c07669233e07416594577b29d60372a6:e8cfcf678750f494312dfcbdaee5132e",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-21-cartoon-kids-hd/KenhCoBan.m3u8"
+          }
+        ],
+        "group": [
+          "VTVCab",
+          "Thiếu Nhi"
+        ],
+        "channelIndex": 30
+      },
+      {
+        "id": "vtvcab22hd-vtv-cab",
+        "title": "VTVcab 22 - Life TV HD",
+        "tvgId": "onlife.VN",
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab22.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=188"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/LIFE_TV/manifest.mpd&keys=ca9c781a5ba142f2b03a8028fcecb847:c69c101846413ae8faa8d353c7979121",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-22-life-tv-hd/KenhCoBan.m3u8"
+          }
+        ],
+        "group": [
+          "VTVCab"
+        ],
+        "channelIndex": 31
+      },
+      {
+        "id": "vtvcab23hd-vtv-cab",
+        "title": "VTVcab 23 - Golf Channel",
+        "tvgId": "ongolf.VN",
+        "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab23.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/THETHAO_GOLF_HD/manifest.mpd&keys=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339,5a323b53e0864492b0e04c70d591c564:843584bafaf2736c4fd1b76e1eee74d8",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "VTVCab",
+          "Thể Thao"
+        ],
+        "channelIndex": 32
+      },
+      {
+        "id": "htv1",
+        "title": "HTV1",
+        "tvgId": "htv1.VN",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=36"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=190"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/HTV1/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htv1.png",
+        "group": [
+          "HTV - TP.HCM"
+        ],
+        "forcedAspectRatio": {
+          "height": 720,
+          "width": 1280
+        },
+        "channelIndex": 37
+      },
+      {
+        "id": "htv2",
+        "title": "HTV2",
+        "tvgId": "htv2hd.VN",
+        "urls": [
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/vie-channel-htv2-hd/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://hplus.com.vn/iframe?content_id=2669&w=750&h=500",
+            "provider": "parser",
+            "startWith": "var iosUrl = \"",
+            "startWithIndex": 1,
+            "endWith": "\"",
+            "headers": {
+              "Referer": "https://www.htv.com.vn/"
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=37"
+          },
+          {
+            "url": "https://liveh12byt.vtvprime.vn/hls/HTV2/index.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=htv2",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htv2.png",
+        "group": [
+          "HTV - TP.HCM"
+        ],
+        "channelIndex": 38
+      },
+      {
+        "id": "htv3",
+        "title": "HTV3",
+        "tvgId": "htv3.VN",
+        "forcedAspectRatio": {
+          "height": 720,
+          "width": 1280
+        },
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://hplus.com.vn/iframe?content_id=2535&w=750&h=500",
+            "provider": "parser",
+            "startWith": "var iosUrl = \"",
+            "startWithIndex": 1,
+            "endWith": "\"",
+            "headers": {
+              "Referer": "https://www.htv.com.vn/"
+            }
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/htv3/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=38"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=192"
+          },
+          {
+            "url": "https://liveh12byt.vtvprime.vn/hls/HTV3/index.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htv3.png",
+        "group": [
+          "HTV - TP.HCM",
+          "Thiếu Nhi"
+        ],
+        "channelIndex": 39
+      },
+      {
+        "id": "htv-key",
+        "title": "HTV Key",
+        "tvgId": "htvkey.VN",
+        "urls": [
+          {
+            "url": "https://hplus.com.vn/iframe?content_id=2528&w=750&h=500",
+            "provider": "parser",
+            "startWith": "var iosUrl = \"",
+            "startWithIndex": 1,
+            "endWith": "\"",
+            "headers": {
+              "Referer": "https://www.htv.com.vn/"
+            }
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/htv-key/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=75"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9"
+          },
+          {
+            "url": "https://liveh12byt.vtvprime.vn/hls/HTVKey/index.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htv4.png",
+        "group": [
+          "HTV - TP.HCM"
+        ],
+        "forcedAspectRatio": {
+          "height": 720,
+          "width": 1280
+        },
+        "channelIndex": 40
+      },
+      {
+        "id": "htv5-bchannel",
+        "tvgId": "anvienhd.VN",
+        "title": "HTV5 | BChannel",
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htv5.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?fid=316"
+          }
+        ],
+        "group": [
+          "HTV - TP.HCM"
+        ],
+        "channelIndex": 88
+      },
+      {
+        "id": "htv7",
+        "title": "HTV7",
+        "tvgId": "htv7hd.VN",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://hplus.com.vn/iframe?content_id=256&w=750&h=500",
+            "provider": "parser",
+            "startWith": "var iosUrl = \"",
+            "startWithIndex": 1,
+            "endWith": "\"",
+            "headers": {
+              "Referer": "https://www.htv.com.vn/"
+            }
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/htv7-hd/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://liveh12byt.vtvprime.vn/hls/HTV7HD/index.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=19"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=193"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htv7.png",
+        "group": [
+          "HTV - TP.HCM"
+        ],
+        "channelIndex": 41
+      },
+      {
+        "id": "htv9",
+        "title": "HTV9",
+        "tvgId": "htv9hd.VN",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://hplus.com.vn/iframe?content_id=2667&w=750&h=500",
+            "provider": "parser",
+            "startWith": "var iosUrl = \"",
+            "startWithIndex": 1,
+            "endWith": "\"",
+            "headers": {
+              "Referer": "https://www.htv.com.vn/"
+            }
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/htv9-hd/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=20"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=194"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/HTV9/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htv9.png",
+        "group": [
+          "HTV - TP.HCM"
+        ],
+        "channelIndex": 42
+      },
+      {
+        "id": "htv-the-thao",
+        "title": "HTV Thể Thao",
+        "tvgId": "htvthethaohd.VN",
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htvthethao.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/htv-the-thao/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=195"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/HTV_THETHAO/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "HTV - TP.HCM",
+          "Thể Thao"
+        ],
+        "channelIndex": 43
+      },
+      {
+        "id": "htvc-ca-nhac",
+        "title": "HTVC Ca Nhạc",
+        "tvgId": "htvccanhachd.VN",
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htvccanhac.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=9"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/htvc-ca-nhac/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://liveh12byt.vtvprime.vn/hls/HTVCCANHAC/index.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=14"
+          }
+        ],
+        "group": [
+          "HTV - TP.HCM",
+          "Âm Nhạc"
+        ],
+        "channelIndex": 44
+      },
+      {
+        "id": "htvc-du-lich-va-cuoc-song",
+        "title": "HTVC Du Lịch và Cuộc Sống",
+        "tvgId": "htvcdulichhd.VN",
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htvcdulich.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/htvc-du-lich-cuoc-song/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=234"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=133"
+          },
+          {
+            "url": "https://liveh12byt.vtvprime.vn/hls/HTVCDLCS/index.m3u8"
+          }
+        ],
+        "group": [
+          "HTV - TP.HCM",
+          "Khám Phá"
+        ],
+        "channelIndex": 45
+      },
+      {
+        "id": "htvc-gia-dinh",
+        "title": "HTVC Gia Đình",
+        "tvgId": "htvcgiadinhhd.VN",
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htvcgiadinh.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/vie-dramas-hd/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=232"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=11"
+          },
+          {
+            "url": "https://liveh34.vtvprime.vn/hls/HTVGIADINH/index.m3u8"
+          }
+        ],
+        "group": [
+          "HTV - TP.HCM"
+        ],
+        "channelIndex": 46
+      },
+      {
+        "id": "htvc-phim",
+        "title": "HTVC Phim",
+        "tvgId": "htvcphimhd.VN",
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htvcphim.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/htvc-phim/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=15"
+          }
+        ],
+        "group": [
+          "HTV - TP.HCM",
+          "Phim Truyện"
+        ],
+        "channelIndex": 47
+      },
+      {
+        "id": "htvc-phu-nu",
+        "title": "HTVC Phụ Nữ",
+        "tvgId": "htvcphunuhd.VN",
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htvcphunu.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/htvc-phu-nu/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=233"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=12"
+          },
+          {
+            "url": "https://liveh34.vtvprime.vn/hls/HTVPHUNU/index.m3u8"
+          }
+        ],
+        "group": [
+          "HTV - TP.HCM"
+        ],
+        "channelIndex": 48
+      },
+      {
+        "id": "htvc-thuan-viet",
+        "title": "HTVC Thuần Việt",
+        "tvgId": "htvcthuanviethd.VN",
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htvcthuanviet.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=223"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=223&retry=1"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/htvc-thuan-viet-hd/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=190"
+          }
+        ],
+        "group": [
+          "HTV - TP.HCM"
+        ],
+        "channelIndex": 49
+      },
+      {
+        "id": "htvc-plus",
+        "title": "HTVC+",
+        "tvgId": "htvcplushd.VN",
+        "thumbnail": "https://freem3u.xyz/static/images/hplus/htvcplus.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/htvc-plus/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=219"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=132"
+          }
+        ],
+        "group": [
+          "HTV - TP.HCM"
+        ],
+        "channelIndex": 50
+      },
+      {
+        "id": "sctv1",
+        "title": "SCTV1",
+        "tvgId": "sctv1hd.VN",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv1.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV1/Live_DASHDRM/SCTV1.mpd&keys=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5&i=1",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv1",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV"
+        ],
+        "channelIndex": 51
+      },
+      {
+        "id": "sctv2",
+        "title": "SCTV2",
+        "tvgId": "sctv2hd.VN",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv2.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=201"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV2/Live_DASHDRM/SCTV2.mpd&keys=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv2",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV",
+          "Phim Truyện"
+        ],
+        "channelIndex": 52
+      },
+      {
+        "id": "sctv3",
+        "tvgId": "sctv3hd.VN",
+        "title": "SCTV3",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv3.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV3/Live_DASHDRM/SCTV3.mpd&keys=a14522dd463d490e8a43c6b5a3f7fdba:7f02f778be79436bb36293a238d28e30",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv3",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV",
+          "Thiếu Nhi"
+        ],
+        "channelIndex": 53
+      },
+      {
+        "id": "sctv4",
+        "tvgId": "sctv4hd.VN",
+        "title": "SCTV4",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv4.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV4/Live_DASHDRM/SCTV4.mpd&keys=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv4",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV",
+          "Phim Truyện"
+        ],
+        "channelIndex": 54
+      },
+      {
+        "id": "sctv5",
+        "tvgId": "sctv5hd.VN",
+        "title": "SCTV5",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv5.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv5",
+            "provider": "flow"
+          },
+          {
+            "url": "https://liveh12byt.vtvprime.vn/hls/SCTV5/index.m3u8"
+          }
+        ],
+        "group": [
+          "SCTV"
+        ],
+        "isHidden": true,
+        "channelIndex": 55
+      },
+      {
+        "id": "sctv6",
+        "tvgId": "sctv6hd.VN",
+        "title": "SCTV6",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv6.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=232"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV6/Live_DASHDRM/SCTV6.mpd&keys=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5",
+            "[provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv6",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV",
+          "Phim Truyện"
+        ],
+        "channelIndex": 56
+      },
+      {
+        "id": "sctv7",
+        "tvgId": "sctv7hd.VN",
+        "title": "SCTV7",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv7.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV7/Live_DASHDRM/SCTV7.mpd&keys=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv7",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV"
+        ],
+        "channelIndex": 57
+      },
+      {
+        "id": "sctv8",
+        "tvgId": "sctv8hd.VN",
+        "title": "SCTV8",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv8.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV8/Live_DASHDRM/SCTV8.mpd&keys=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv8",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV"
+        ],
+        "channelIndex": 58
+      },
+      {
+        "id": "sctv9",
+        "tvgId": "sctv9hd.VN",
+        "title": "SCTV9",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv9.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd&keys=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv9",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV",
+          "Phim Truyện"
+        ],
+        "channelIndex": 59
+      },
+      {
+        "id": "sctv10",
+        "tvgId": "sctv10hd",
+        "title": "SCTV10",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv10.png",
+        "urls": [
+          {
+            "url": "https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv10",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV"
+        ],
+        "forcedAspectRatio": {
+          "height": 720,
+          "width": 1280
+        },
+        "channelIndex": 60
+      },
+      {
+        "id": "sctv11",
+        "tvgId": "sctv11hd.VN",
+        "title": "SCTV11",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv11.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV11/Live_DASHDRM/SCTV11.mpd&keys=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv11",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV"
+        ],
+        "channelIndex": 61
+      },
+      {
+        "id": "sctv12",
+        "tvgId": "sctv12hd.VN",
+        "title": "SCTV12",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv12.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV12/Live_DASHDRM/SCTV12.mpd&keys=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv12",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV"
+        ],
+        "channelIndex": 62
+      },
+      {
+        "id": "sctv13",
+        "tvgId": "sctv13hd.VN",
+        "title": "SCTV13",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv13.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV13/Live_DASHDRM/SCTV13.mpd&keys=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv13",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV"
+        ],
+        "channelIndex": 63
+      },
+      {
+        "id": "sctv14",
+        "tvgId": "sctv14hd.VN",
+        "title": "SCTV14",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv14.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV14/Live_DASHDRM/SCTV14.mpd&keys=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv14",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV",
+          "Phim Truyện"
+        ],
+        "channelIndex": 64
+      },
+      {
+        "id": "sctv15",
+        "tvgId": "sctv15hd.VN",
+        "title": "SCTV15",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv15.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/SCTV15HD/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "SCTV",
+          "Thể Thao"
+        ],
+        "channelIndex": 65
+      },
+      {
+        "id": "sctv16",
+        "tvgId": "sctv16hd.VN",
+        "title": "SCTV16",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv16.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV16/Live_DASHDRM/SCTV16.mpd&keys=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv16",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV"
+        ],
+        "channelIndex": 66
+      },
+      {
+        "id": "sctv17",
+        "tvgId": "sctv17hd.VN",
+        "title": "SCTV17",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv17.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/SCTV17/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "SCTV",
+          "Thể Thao"
+        ],
+        "channelIndex": 67
+      },
+      {
+        "id": "sctv18",
+        "tvgId": "sctv18hd.VN",
+        "title": "SCTV18",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv18.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV18/Live_DASHDRM/SCTV18.mpd&keys=0233f235986e4964b105a6021f911b1d:d7ee829dd37649a488b9558b4dd209e6",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv18",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV"
+        ],
+        "channelIndex": 68
+      },
+      {
+        "id": "sctv19",
+        "tvgId": "sctv19hd.VN",
+        "title": "SCTV19",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv19.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV19/Live_DASHDRM/SCTV19.mpd&keys=6d08c26f63474f76b4dd91e1afef6b25:03b40f74bf224a1f8d4c7fb9faabcd04",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv19",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV"
+        ],
+        "channelIndex": 69
+      },
+      {
+        "id": "sctv20",
+        "tvgId": "sctv20hd.VN",
+        "title": "SCTV20",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv20.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV20/Live_DASHDRM/SCTV20.mpd&keys=57a515c8bff648f2b6c1286245d784ad:5741ebac27fb4285b0946293cd4be13a",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv20",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV"
+        ],
+        "channelIndex": 70
+      },
+      {
+        "id": "sctv21",
+        "tvgId": "sctv21hd.VN",
+        "title": "SCTV21",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv21.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV21/Live_DASHDRM/SCTV21.mpd&keys=25633622dd314f82a35fc1791b0d25c1:73718578146e43e4a9ff6d1f5e56650f",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv21",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV"
+        ],
+        "channelIndex": 71
+      },
+      {
+        "id": "sctv22",
+        "tvgId": "sctv22hd.VN",
+        "title": "SCTV22",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv22.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd&keys=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "SCTV",
+          "Thể Thao"
+        ],
+        "channelIndex": 72
+      },
+      {
+        "id": "sctvphimtonghop",
+        "tvgId": "sctvhdpth.VN",
+        "title": "SCTV Phim Tổng Hợp",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctvpth.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTVPHIM/Live_DASHDRM/SCTVPHIM.mpd&keys=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctvphim",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV",
+          "Phim Truyện"
+        ],
+        "channelIndex": 73
+      },
+      {
+        "id": "sctv4k",
+        "tvgId": "sctv4k",
+        "title": "SCTV 4K",
+        "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv4k.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv4k",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "SCTV"
+        ],
+        "isHidden": true,
+        "channelIndex": 505
+      },
+      {
+        "id": "antv-hd",
+        "tvgId": "antvhd.VN",
+        "title": "ANTV HD",
+        "thumbnail": "https://freem3u.xyz/static/images/thietyeu/antv.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=20"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/ANNINHTV/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=antv",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "Địa Phương"
+        ],
+        "channelIndex": 74
+      },
+      {
+        "id": "qpvn-hd",
+        "tvgId": "qpvnhd.VN",
+        "title": "QPVN HD",
+        "thumbnail": "https://freem3u.xyz/static/images/thietyeu/qpvn.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=19"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=211"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/QPTV/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=qpvn",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "Địa Phương"
+        ],
+        "channelIndex": 75
+      },
+      {
+        "id": "thvl1-th-vinh-long",
+        "tvgId": "thvl1hd.VN",
+        "title": "THVL1 | TH Vĩnh Long",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/vinhlong1.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/index.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?vl=thvl1-hd",
+            "provider": "flow"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/thvl1-hd/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=43"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "THVL",
+          "Miền Nam"
+        ],
+        "channelIndex": 76
+      },
+      {
+        "id": "thvl2-th-vinh-long",
+        "tvgId": "thvl2hd.VN",
+        "title": "THVL2 | TH Vĩnh Long",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/vinhlong2.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?vl=thvl2-hd",
+            "provider": "flow"
+          },
+          {
+            "url": "https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/index.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/thvl2-hd/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=237"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "THVL",
+          "Miền Nam"
+        ],
+        "channelIndex": 77
+      },
+      {
+        "id": "thvl3-th-vinh-long",
+        "tvgId": "thvl3hd.VN",
+        "title": "THVL3 | TH Vĩnh Long",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/vinhlong3.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?vl=thvl3-hd",
+            "provider": "flow"
+          },
+          {
+            "url": "https://live.fptplay53.net/live/media/vinhlong3/live247-hls-avc/index.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/thvl3-hd/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "THVL",
+          "Miền Nam"
+        ],
+        "channelIndex": 78
+      },
+      {
+        "id": "thvl4-th-vinh-long",
+        "tvgId": "thvl4hd.VN",
+        "title": "THVL4 | TH Vĩnh Long",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/vinhlong4.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?vl=thvl4-hd",
+            "provider": "flow"
+          },
+          {
+            "url": "https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/thvl4-hd/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "THVL",
+          "Miền Nam"
+        ],
+        "channelIndex": 79
+      },
+      {
+        "id": "thvl5-th-vinh-long",
+        "tvgId": "thvl5hd.VN",
+        "title": "THVL5 HD | TH Vĩnh Long",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/vinhlong5.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?vl=thvl5-hd",
+            "provider": "flow"
+          },
+          {
+            "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/tra-vinh-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "THVL",
+          "Miền Nam"
+        ],
+        "channelIndex": 97
+      },
+      {
+        "id": "tayninhtv",
+        "tvgId": "tayninh1.VN",
+        "title": "TN HD | TH Tây Ninh",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/tayninh.png",
+        "urls": [
+          {
+            "url": "https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8"
+          },
+          {
+            "url": "https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/long-an-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=47"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "Miền Nam"
+        ],
+        "forcedAspectRatio": {
+          "width": 1280,
+          "height": 720
+        },
+        "channelIndex": 83
+      },
+      {
+        "id": "atv1-th-an-giang",
+        "tvgId": "angiang1.VN",
+        "title": "ATV1 HD | TH An Giang",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/angiang1.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "Miền Nam"
+        ],
+        "channelIndex": 84
+      },
+      {
+        "id": "atv-hd-th-an-giang",
+        "tvgId": "angiang2.VN",
+        "title": "ATV2 HD | TH An Giang",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/angiang2.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/an-giang-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "Miền Nam"
+        ],
+        "channelIndex": 80
+      },
+      {
+        "id": "ktg1-hd-th-kien-giang",
+        "tvgId": "angiang3.VN",
+        "title": "ATV3 HD | TH An Giang",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/angiang3.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "Miền Nam"
+        ],
+        "channelIndex": 85
+      },
+      {
+        "id": "ltv-th-lam-dong",
+        "tvgId": "lamdong1.VN",
+        "title": "LTV1 HD | TH Lâm Đồng",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/lam-dong/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/lamdong_ltv1.png",
+        "group": [
+          "Địa Phương",
+          "Miền Trung"
+        ],
+        "channelIndex": 109
+      },
+      {
+        "id": "btv-hd-th-binh-thuan",
+        "tvgId": "lamdong2.VN",
+        "title": "LTV2 HD | TH Lâm Đồng - KV Bình Thuận",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/lamdong_ltv2.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/binh-thuan-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "Miền Trung"
+        ],
+        "channelIndex": 91
+      },
+      {
+        "id": "ctv-hd-th-ca-mau",
+        "tvgId": "camau.VN",
+        "title": "CTV HD | TH Cà Mau",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "http://tv.ctvcamau.vn/live/tv/tv.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/ca-mau-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/camau.png",
+        "group": [
+          "Địa Phương",
+          "Miền Nam"
+        ],
+        "channelIndex": 93
+      },
+      {
+        "id": "thtpc-hd-th-can-tho",
+        "tvgId": "cantho1.VN",
+        "title": "Cần Thơ TV 1 | TH Cần Thơ",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/cantho1_new.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=47"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/can-tho-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://live.canthotv.vn/live/tv/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "Miền Nam"
+        ],
+        "channelIndex": 94
+      },
+      {
+        "id": "hgtv-hd-th-hau-giang",
+        "tvgId": "cantho2.VN",
+        "title": "Cần Thơ TV 2 | TH Cần Thơ",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/hau-giang-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=61"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/cantho2_new.png",
+        "group": [
+          "Địa Phương",
+          "Miền Nam"
+        ],
+        "channelIndex": 105
+      },
+      {
+        "id": "stv-th-soc-trang-2",
+        "tvgId": "cantho3.VN",
+        "title": "Cần Thơ TV 3 | TH Cần Thơ",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/cantho3_new.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/soc-trang-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://live.canthotv.vn/cs3/tv/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "Miền Nam"
+        ],
+        "channelIndex": 96
+      },
+      {
+        "id": "dnrtv1-hd-th-dong-nai",
+        "tvgId": "dongnai1.VN",
+        "title": "ĐNRTV1 HD | TH Đồng Nai",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/dong-nai-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/binh-phuoc-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=202"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/dongnai1.png",
+        "group": [
+          "Địa Phương",
+          "Miền Nam"
+        ],
+        "channelIndex": 100
+      },
+      {
+        "id": "dnrtv2-hd-th-dong-nai",
+        "tvgId": "dongnai2.VN",
+        "title": "ĐNRTV2 HD | TH Đồng Nai",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/dong-nai-2/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/binh-phuoc-2/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=238"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/dongnai2.png",
+        "group": [
+          "Địa Phương",
+          "Miền Nam"
+        ],
+        "channelIndex": 101
+      },
+      {
+        "id": "dnrtv3-hd-th-dong-nai",
+        "title": "ĐNRTV3 HD | TH Đồng Nai",
+        "urls": [
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/dong-nai-3/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/dongnai3.png",
+        "group": [
+          "Địa Phương",
+          "Miền Nam"
+        ],
+        "channelIndex": 102
+      },
+      {
+        "id": "thdt1-hd-th-dong-thap",
+        "tvgId": "dongthap.VN",
+        "title": "THĐT1 HD | TH Đồng Tháp",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/dongthap1.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/dong-thap-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=132"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "Miền Nam"
+        ],
+        "channelIndex": 103
+      },
+      {
+        "id": "thdt2-hd-th-dong-thap",
+        "tvgId": "dongthap2.VN",
+        "title": "THĐT2 HD | TH Đồng Tháp",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/dong-thap-2/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=156"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/dongthap2.png",
+        "group": [
+          "Địa Phương",
+          "Miền Nam"
+        ],
+        "channelIndex": 104
+      },
+      {
+        "id": "da-nangtv1-hd",
+        "tvgId": "danang1.VN",
+        "title": "DaNangTV1 HD",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/danang1.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/da-nang-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=158"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "Miền Trung"
+        ],
+        "channelIndex": 107
+      },
+      {
+        "id": "da-nangtv2-hd",
+        "tvgId": "danang2.VN",
+        "title": "DaNangTV2 HD",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/da-nang-2/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=243"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/danang2.png",
+        "group": [
+          "Địa Phương",
+          "Miền Trung"
+        ],
+        "channelIndex": 108
+      },
+      {
+        "id": "drt-hd-dak-lak",
+        "tvgId": "daklak.VN",
+        "title": "DRT HD | TH Đắk Lắk",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/dak-lak/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=135"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/daklak.png",
+        "group": [
+          "Địa Phương",
+          "Miền Trung"
+        ],
+        "channelIndex": 111
+      },
+      {
+        "id": "thgl-hd-gia-lai",
+        "tvgId": "gialai.VN",
+        "title": "GTV | TH Gia Lai",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/gia-lai-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://tv.gialaitv.vn/tv.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/gialai.png",
+        "group": [
+          "Địa Phương",
+          "Miền Trung"
+        ],
+        "channelIndex": 113
+      },
+      {
+        "id": "trt-hd-thua-thien-hue",
+        "tvgId": "hue.VN",
+        "title": "HueTV | TH Thừa Thiên Huế",
+        "urls": [
+          {
+            "url": "https://live.huetv.com.vn/TRT-Online/playlist.m3u8"
+          },
+          {
+            "url": "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/thua-thien-hue-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/thuathienhue.png",
+        "group": [
+          "Địa Phương",
+          "Miền Trung"
+        ],
+        "forcedAspectRatio": {
+          "width": 1280,
+          "height": 720
+        },
+        "channelIndex": 114
+      },
+      {
+        "id": "ktv-hd-khanh-hoa",
+        "tvgId": "khanhhoa.VN",
+        "title": "KTV HD | TH Khánh Hòa",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/khanh-hoa-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=123"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/khanhhoa.png?t=1",
+        "group": [
+          "Địa Phương",
+          "Miền Trung"
+        ],
+        "channelIndex": 115
+      },
+      {
+        "id": "ntv-hd-ninh-thuan",
+        "tvgId": "khanhhoa1.VN",
+        "title": "KTV1 HD | TH Khánh Hòa",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/ninh-thuan-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/khanhhoa1.png",
+        "group": [
+          "Địa Phương",
+          "Miền Trung"
+        ],
+        "channelIndex": 117
+      },
+      {
+        "id": "ptq-hd-quang-ngai",
+        "tvgId": "quangngai.VN",
+        "title": "QuangNgaiTV1 | TH Quảng Ngãi",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/quang-ngai-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/quangngai_1.png?t=1",
+        "group": [
+          "Địa Phương",
+          "Miền Trung"
+        ],
+        "channelIndex": 121
+      },
+      {
+        "id": "quang-ngai-tv2",
+        "title": "QuangNgaiTV2 | TH Quảng Ngãi",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/quangngai_2.png?t=1",
+        "urls": [
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/kon-tum-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://live.fptplay53.net/epzsd1/quangngai01_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "Miền Trung"
+        ],
+        "channelIndex": 125
+      },
+      {
+        "id": "qrtv-hd-quang-tri",
+        "tvgId": "quangtri.VN",
+        "title": "QRTV HD | TH Quảng Trị",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/quangtri.png",
+        "group": [
+          "Địa Phương",
+          "Miền Trung"
+        ],
+        "channelIndex": 122
+      },
+      {
+        "id": "hanoi-tv1-hd",
+        "tvgId": "hanoi1.VN",
+        "title": "HanoiTV1 HD",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8"
+          },
+          {
+            "url": "https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/hanoi1.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 123
+      },
+      {
+        "id": "hanoi-tv2-hd",
+        "tvgId": "hanoi2.VN",
+        "title": "HanoiTV2 HD",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/hanoi2.png",
+        "urls": [
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/ha-noi-2-2021/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 124
+      },
+      {
+        "id": "btv-hd-bac-ninh",
+        "tvgId": "bacninh.VN",
+        "title": "BTN HD | TH Bắc Ninh",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/bac-giang-hd/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8"
+          },
+          {
+            "url": "https://bacninhtv.vn/",
+            "provider": "parser",
+            "startWith": "data-src=\"",
+            "startWithIndex": 1,
+            "endWith": "\"",
+            "headers": {
+              "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/bacninh.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 127
+      },
+      {
+        "id": "crtv-hd-cao-bang",
+        "tvgId": "caobang.VN",
+        "title": "CRTV HD | TH Cao Bằng",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://stream.thingnet.vn/live/smil:CRTV.smil/playlist.m3u8"
+          },
+          {
+            "url": "http://caobangtv.vn/Modules/video/PlayVideo.aspx?channelId=4",
+            "provider": "parser",
+            "startWith": "var playUrl = \"",
+            "startWithIndex": 1,
+            "endWith": "\""
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caobang.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 128
+      },
+      {
+        "id": "dtv-dien-bien",
+        "tvgId": "dienbien.VN",
+        "title": "ĐTV | TH Điện Biên",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/dienbien.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 129
+      },
+      {
+        "id": "httv-hd-ha-tinh",
+        "tvgId": "hatinh.VN",
+        "title": "BHTTV HD | TH Hà Tĩnh",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://wse.hatinhtv.net/live/httv1/playlist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=312"
+          },
+          {
+            "url": "https://liveh34.vtvprime.vn/hls/HATINH/index.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/hatinh_new.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 132
+      },
+      {
+        "id": "thp-hd-hai-phong",
+        "tvgId": "haiphong.VN",
+        "title": "THP HD | TH Hải Phòng",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/hai-phong-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/haiphong.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 134
+      },
+      {
+        "id": "thp-plus-hd-hai-phong",
+        "tvgId": "haiphongplus.VN",
+        "title": "THP3 HD | TH Hải Phòng",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/hai-phong--2/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/haiphong3.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 135
+      },
+      {
+        "id": "giong-ca-de-doi",
+        "title": "Giọng Ca Để Đời",
+        "thumbnail": "https://freem3u.xyz/static/images/internet/giongcadedoi.jpg",
+        "urls": [
+          {
+            "url": "http://dvrfl05.bozztv.com/vch_vchannel5/index.m3u8"
+          }
+        ],
+        "group": [
+          "Âm Nhạc"
+        ],
+        "channelIndex": 133
+      },
+      {
+        "id": "hy-hd-hung-yen",
+        "tvgId": "hungyen.VN",
+        "title": "HY HD | TH Hưng Yên",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8"
+          },
+          {
+            "url": "https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8"
+          },
+          {
+            "url": "https://hungyentv.vn/",
+            "provider": "parser",
+            "startWith": "data-src=\"",
+            "startWithIndex": 1,
+            "endWith": "\""
+          },
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/thaibinh_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/playlist.m3u8"
+          },
+          {
+            "url": "https://1d6415a734b5b32.cmccloud.com.vn/ThaibinhTV/thaibinhtv1.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/thai-binh-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/hungyen.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "forcedAspectRatio": {
+          "width": 1280,
+          "height": 720
+        },
+        "channelIndex": 137
+      },
+      {
+        "id": "ltv-hd-lai-chau",
+        "tvgId": "laichau.VN",
+        "title": "LTV HD | TH Lai Châu",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/laichau.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 138
+      },
+      {
+        "id": "lstv-hd-lang-son",
+        "tvgId": "langson.VN",
+        "title": "LSTV HD | TH Lạng Sơn",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/lang-son-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/langson.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 139
+      },
+      {
+        "id": "thlc-hd-lao-cai",
+        "tvgId": "laocai.VN",
+        "title": "THLC HD | TH Lào Cai",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://live.baolaocai.vn/channel2/stream.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/laocai.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 140
+      },
+      {
+        "id": "ntv-hd-nghe-an",
+        "tvgId": "nghean.VN",
+        "title": "NTV HD | TH Nghệ An",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/nghe-an-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://liveh12byt.vtvprime.vn/hls/NGHEANTV/index.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/nghean.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 142
+      },
+      {
+        "id": "ntv-hd-ninh-binh",
+        "tvgId": "ninhbinh.VN",
+        "title": "NTV HD | TH Ninh Bình",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/ninh-binh-11/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/ninhbinh.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 143
+      },
+      {
+        "id": "ptv-hd-phu-tho",
+        "tvgId": "phutho.VN",
+        "title": "PTV HD | TH Phú Thọ",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8",
+            "headers": {
+              "Referer": "https://phuthotv.vn/"
+            }
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/phu-tho/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/phutho.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 144
+      },
+      {
+        "id": "qtv1-hd-quang-ninh",
+        "tvgId": "quangninh1.VN",
+        "title": "QTV1 HD | TH Quảng Ninh",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://live.baoquangninh.vn/qtvlive/tv1live.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/quang-ninh-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://liveh12byt.vtvprime.vn/hls/QUANGNINHTV/index.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/quangninh1.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 145
+      },
+      {
+        "id": "qtv3-hd-quang-ninh",
+        "tvgId": "quangninh3.VN",
+        "title": "QTV3 HD | TH Quảng Ninh",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://live.baoquangninh.vn/qtvlive/tv3live.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/quang-ninh-3/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "https://liveh34.vtvprime.vn/hls/QUANGNINH3/index.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/quangninh3.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 146
+      },
+      {
+        "id": "stv-hd-son-la",
+        "tvgId": "sonla.VN",
+        "title": "STV HD | TH Sơn La",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/son-la/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/sonla.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "forcedAspectRatio": {
+          "width": 1280,
+          "height": 720
+        },
+        "channelIndex": 147
+      },
+      {
+        "id": "tn1-hd-thai-nguyen",
+        "tvgId": "thainguyen.VN",
+        "title": "TN1 HD | TH Thái Nguyên",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://streaming.thainguyentv.vn/hls/livestream.m3u8"
+          },
+          {
+            "url": "https://live.mediatech.vn/live/285743a79dd21fd4a838894125ec17fd168/playlist.m3u8"
+          },
+          {
+            "url": "https://esb.thainguyentv.vn/api/v1/category?type=live&app_id=vnism55brmdzTeX",
+            "provider": "json",
+            "jsonPath": "result.data[0].link"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/thainguyen.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 149
+      },
+      {
+        "id": "ttv-hd-thanh-hoa",
+        "tvgId": "thanhhoa.VN",
+        "title": "TTV HD | TH Thanh Hóa",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni"
+          },
+          {
+            "url": "https://c.baothanhhoa.vn/media/dembeds/1c334aa83c91f92e9338dba80/desktop?dapp=baothanhhoa.vn&ids=livetv-baothanhhoa%3Bliveradio-baothanhhoa",
+            "provider": "json",
+            "jsonPath": "data[0].src"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/thanhhoa.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "forcedAspectRatio": {
+          "width": 1280,
+          "height": 720
+        },
+        "channelIndex": 150
+      },
+      {
+        "id": "ttv-hd-tuyen-quang",
+        "tvgId": "tuyenquang.VN",
+        "title": "TTV HD | TH Tuyên Quang",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://luuchieu.truyenhinhso.vn/media/live/3F95C34B9C32223E48CFA12D/index.m3u8"
+          },
+          {
+            "url": "https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/tuyen-quang-1/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/tuyenquang.png",
+        "group": [
+          "Địa Phương",
+          "Miền Bắc"
+        ],
+        "channelIndex": 151
+      },
+      {
+        "id": "HiTV",
+        "tvgId": "hitv.VN",
+        "title": "HiTV",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=32"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/hanoicab/hitv.png",
+        "group": [
+          "Miền Bắc"
+        ],
+        "channelIndex": 154
+      },
+      {
+        "id": "YouTV",
+        "tvgId": "youtv.VN",
+        "title": "YouTV",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=31"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/hanoicab/youtv.png",
+        "group": [
+          "Miền Bắc"
+        ],
+        "forcedAspectRatio": {
+          "width": 1280,
+          "height": 720
+        },
+        "channelIndex": 155
+      },
+      {
+        "id": "tv360.sk1",
+        "tvgId": "tv360Plus1.VN",
+        "title": "TV360+ 1",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vidl=198"
+          }
+        ],
+        "isHidden": true,
+        "thumbnail": "https://freem3u.xyz/static/images/tv360/tv360plus1.png",
+        "group": [
+          "Sự Kiện"
+        ],
+        "channelIndex": 156
+      },
+      {
+        "id": "tv360.sk2",
+        "tvgId": "tv360Plus2.VN",
+        "title": "TV360+ 2",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vidl=199"
+          }
+        ],
+        "isHidden": true,
+        "thumbnail": "https://freem3u.xyz/static/images/tv360/tv360plus2.png",
+        "group": [
+          "Sự Kiện"
+        ],
+        "channelIndex": 157
+      },
+      {
+        "id": "tv360.sk3",
+        "tvgId": "tv360Plus3.VN",
+        "title": "TV360+ 3",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vidl=200"
+          }
+        ],
+        "isHidden": true,
+        "thumbnail": "https://freem3u.xyz/static/images/tv360/tv360plus3.png",
+        "group": [
+          "Sự Kiện"
+        ],
+        "channelIndex": 158
+      },
+      {
+        "id": "tv360.sk4",
+        "tvgId": "tv360Plus4.VN",
+        "title": "TV360+ 4",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vidl=201"
+          }
+        ],
+        "isHidden": true,
+        "thumbnail": "https://freem3u.xyz/static/images/tv360/tv360plus4.png",
+        "group": [
+          "Sự Kiện"
+        ],
+        "channelIndex": 159
+      },
+      {
+        "id": "tv360.sk5",
+        "tvgId": "tv360Plus5.VN",
+        "title": "TV360+ 5",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vidl=367"
+          }
+        ],
+        "isHidden": true,
+        "thumbnail": "https://freem3u.xyz/static/images/tv360/tv360plus5.png",
+        "group": [
+          "Sự Kiện"
+        ],
+        "channelIndex": 160
+      },
+      {
+        "id": "tv360.sk6",
+        "tvgId": "tv360Plus6.VN",
+        "title": "TV360+ 6",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vidl=368"
+          }
+        ],
+        "isHidden": true,
+        "thumbnail": "https://freem3u.xyz/static/images/tv360/tv360plus6.png",
+        "group": [
+          "Sự Kiện"
+        ],
+        "channelIndex": 161
+      },
+      {
+        "id": "tv360.sk7",
+        "tvgId": "tv360Plus7.VN",
+        "title": "TV360+ 7",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vidl=369"
+          }
+        ],
+        "isHidden": true,
+        "thumbnail": "https://freem3u.xyz/static/images/tv360/tv360plus7.png",
+        "group": [
+          "Sự Kiện"
+        ],
+        "channelIndex": 162
+      },
+      {
+        "id": "tv360.sk8",
+        "tvgId": "tv360Plus8.VN",
+        "title": "TV360+ 8",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vidl=370"
+          }
+        ],
+        "isHidden": true,
+        "thumbnail": "https://freem3u.xyz/static/images/tv360/tv360plus8.png",
+        "group": [
+          "Sự Kiện"
+        ],
+        "channelIndex": 163
+      },
+      {
+        "id": "tv360.sk9",
+        "tvgId": "tv360Plus9.VN",
+        "title": "TV360+ 9",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vidl=379"
+          }
+        ],
+        "isHidden": true,
+        "thumbnail": "https://freem3u.xyz/static/images/tv360/tv360plus9.png",
+        "group": [
+          "Sự Kiện"
+        ],
+        "channelIndex": 164
+      },
+      {
+        "id": "tv360.Mekong",
+        "tvgId": "tv360.mekong",
+        "title": "Mekong",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9902"
+          }
+        ],
+        "isHidden": true,
+        "thumbnail": "https://freem3u.xyz/static/images/tv360/mekong.png",
+        "group": [
+          "Phim Truyện"
+        ],
+        "channelIndex": 166
+      },
+      {
+        "id": "tv360.PhimAuMy",
+        "tvgId": "tv360.phimaumy",
+        "title": "Phim Âu Mỹ",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9903"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.PhimAuMy/KenhCoBan.m3u8"
+          }
+        ],
+        "isHidden": true,
+        "thumbnail": "https://freem3u.xyz/static/images/tv360/phim_au_my.png",
+        "group": [
+          "Phim Truyện"
+        ],
+        "channelIndex": 167
+      },
+      {
+        "id": "tvb-vietnam",
+        "title": "TVB Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/tvb/tvbv.png",
+        "urls": [
+          {
+            "url": "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Phim Truyện"
+        ],
+        "channelIndex": 480
+      },
+      {
+        "id": "warnertv",
+        "tvgId": "warnertvhd.VN",
+        "title": "Warner TV - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/warnertv.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keyId=086d09a40bff3a00aa6dd4dbaf9c13b2&key=34f1908cfe2e05ee060046d40f14aec9&videoUrl=https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Phim Truyện"
+        ],
+        "channelIndex": 174
+      },
+      {
+        "id": "hbo",
+        "tvgId": "hbohd.VN",
+        "title": "HBO - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/hbo.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keyId=09ddfe3d63863cafaeb79d0546b098ab&key=3de0f38dcf014827dfd5bec38743c6a2&videoUrl=https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Phim Truyện"
+        ],
+        "channelIndex": 175
+      },
+      {
+        "id": "cinemaworld",
+        "tvgId": "cinemaworldhd.VN",
+        "title": "CinemaWorld - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/cinemaworld.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keys=ee7915564d7439d09bd3556ffccc87a4:b35e12a75a42a6f9184723a90ff42d9c&videoUrl=https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Phim Truyện"
+        ],
+        "channelIndex": 176
+      },
+      {
+        "id": "axn",
+        "tvgId": "axnhd.VN",
+        "title": "AXN - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/axn.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keys=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20&videoUrl=https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 177
+      },
+      {
+        "id": "cinemax",
+        "tvgId": "cinemaxhd.VN",
+        "title": "Cinemax - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/cinemax.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keyId=acb4c23471063327adc732e283c0847f&key=e9868f5f473d0fd8699ede48d531c2b0&videoUrl=https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Phim Truyện"
+        ],
+        "channelIndex": 178
+      },
+      {
+        "id": "cartoonnetwork",
+        "tvgId": "cartoonhd.VN",
+        "title": "Cartoon Network - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/cartoon-network.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keyId=3c20166660a93a75ac77db81567389f7&key=3cc1add43aecce3fe31c9c6a2a5b8c21&videoUrl=https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd",
+            "provider": "webview"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?tid=cn"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Thiếu Nhi"
+        ],
+        "channelIndex": 179
+      },
+      {
+        "id": "cartoonito",
+        "tvgId": "boomerang.VN",
+        "title": "Cartoonito - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/cartoonito.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd&keys=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Thiếu Nhi"
+        ],
+        "channelIndex": 165
+      },
+      {
+        "id": "bbc-cbeebies",
+        "tvgId": "bbc.cbeebies.VN",
+        "title": "BBC Cbeebies - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/bbc-cbeebies.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keyId=cca73a006b4b39a595207ceb5ed9ca0a&key=b833d1f40c261ef78896f97e06f80cdc&videoUrl=https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Thiếu Nhi"
+        ],
+        "channelIndex": 180
+      },
+      {
+        "id": "dmax",
+        "tvgId": "dmax.VN",
+        "title": "Dmax - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/dmax.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keyId=53b26f904ae03a20b56477cfb9c5dca2&key=0c64ccfb978e7390bd33344075492aec&videoUrl=https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 181
+      },
+      {
+        "id": "dreamworks",
+        "tvgId": "dreamworks.VN",
+        "title": "Dreamworks - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/dreamworks.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keyId=67dae20527c63dadaaae609aa91577cb&key=59328f621d56767bc5ff9404a8940683&videoUrl=https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 182
+      },
+      {
+        "id": "davinci",
+        "tvgId": "davinci.VN",
+        "title": "DaVinci HD - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/davinci.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=214"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/davinci-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://liveh12.vtvprime.vn/hls/DAVINVY/index.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 479
+      },
+      {
+        "id": "hollywoodclassic",
+        "tvgId": "hollywoodclassics.VN",
+        "title": "Hollywood Classic - Việt Nam",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hollywood-classic-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=hollywood-classic",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/global/hollywood_classic.png",
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 168
+      },
+      {
+        "id": "kix",
+        "tvgId": "kix.VN",
+        "title": "Kix - Việt Nam",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/kix/KenhCoBan.m3u8"
+          },
+          {
+            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=9901"
+          },
+          {
+            "url": "https://liveh34.vtvprime.vn/hls/KIX/index.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/global/kix.png",
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 170
+      },
+      {
+        "id": "happykidshd",
+        "tvgId": "happykids.VN",
+        "title": "Happy Kids HD - Việt Nam",
+        "urls": [
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/happy-kids-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/HK/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
+          }
+        ],
+        "isHidden": true,
+        "thumbnail": "https://freem3u.xyz/static/images/global/happykid.png",
+        "group": [
+          "Quốc Tế",
+          "Thiếu Nhi"
+        ],
+        "channelIndex": 171
+      },
+      {
+        "id": "womanhd",
+        "tvgId": "woman.VN",
+        "title": "Woman HD - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/woman.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd&keys=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 172
+      },
+      {
+        "id": "animal-planet-vn",
+        "tvgId": "animalhd.VN",
+        "title": "Animal Planet - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/animal-planet.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keys=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875&videoUrl=https://freem3u.xyz/api/live/play.mpd?fl=096fde45d23058e1cb7e560726804c3993db6e38ae0a0e2fa8859d3d72464dd59bc766cacc6d3d9f7abc7a5b377b277c8e416091686e87cb210fef21919640f524ed2c2dd1ce",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Khám Phá"
+        ],
+        "channelIndex": 481
+      },
+      {
+        "id": "boxmusic",
+        "tvgId": "boxmusic.VN",
+        "title": "Box Music - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/music_box.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevliatmcdw.seenow.vn/live/data8/MUSICBOX/Live_DASHDRM/MUSICBOX.mpd&keys=781479be64c44fe6982dec13e573a69b:2ace72eba86a413fa4ef634eaf790b00",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/music-box/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=box-music",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Âm Nhạc"
+        ],
+        "channelIndex": 186
+      },
+      {
+        "id": "outdoorhd",
+        "tvgId": "outdoorhd.VN",
+        "title": "Outdoor HD - Việt Nam",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=216"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/outdoor-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/OUTDOORCHANNEL/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/global/outdoor.png",
+        "group": [
+          "Quốc Tế",
+          "Khám Phá"
+        ],
+        "channelIndex": 187
+      },
+      {
+        "id": "channelnewsasia",
+        "tvgId": "cna.VN",
+        "title": "Channel News Asia - Việt Nam",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=280"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=112"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/channel-news-asia/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://liveh12.vtvprime.vn/hls/CAN/index.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=cna",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/global/cna.png",
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 188
+      },
+      {
+        "id": "tv5",
+        "tvgId": "tv5monde.VN",
+        "title": "TV5 - Việt Nam",
+        "urls": [
+          {
+            "url": "https://liveh12.vtvprime.vn/hls/TV5/index.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=tv5",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/global/tv5monde.png",
+        "group": [
+          "Quốc Tế",
+          "Tin Tức"
+        ],
+        "forcedAspectRatio": {
+          "width": 1280,
+          "height": 720
+        },
+        "channelIndex": 189
+      },
+      {
+        "id": "discovery",
+        "tvgId": "discoveryhd.VN",
+        "title": "Discovery - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/discovery-channel.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keys=eb4160ea553a321d899553e4e796fec2:bea5a07157e0c4d17b11ab399517f952&videoUrl=https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Khám Phá"
+        ],
+        "channelIndex": 190
+      },
+      {
+        "id": "tlc",
+        "tvgId": "tlchd.VN",
+        "title": "Travel Living Channel - TLC - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/tlc.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd&keys=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Khám Phá"
+        ],
+        "channelIndex": 498
+      },
+      {
+        "id": "discoveryasia",
+        "tvgId": "discoveryasiahd.VN",
+        "title": "Discovery Asia - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/discovery-asia.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keys=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515&videoUrl=https://freem3u.xyz/api/live/play.mpd?fl=096fde45d23058e1cb7e560726804c3993db6e38ae0a0e2fa8859d3d72464dd59bc766cacc6d3d9f7abc7a5b377b277c8e416592257c99cb2c0ef12d969309fdf9dcd9c14f9b1d1c87891c",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Khám Phá"
+        ],
+        "channelIndex": 482
+      },
+      {
+        "id": "fashiontv",
+        "tvgId": "fashionhd.VN",
+        "title": "Fashion - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/fashiontv.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keys=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8&videoUrl=https://freem3u.xyz/api/live/play.mpd?fl=096fde45d23058e1cb7e560726804c3993db6e38ae0a0e2fa8859d3d72464dd59bc766cacc6d3d9f7abc7a5b377b277c8e416795303399cf244cad2d9e914ff6daad2e663e968c",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 483
+      },
+      {
+        "id": "afnhd",
+        "tvgId": "afnhd.VN",
+        "title": "Asia Food Network HD (AFN HD) - Việt Nam",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=215"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/afn-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://liveh12byt.vtvprime.vn/hls/AFC/index.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/global/afn.png",
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 191
+      },
+      {
+        "id": "hgtv",
+        "tvgId": "hgtv.VN",
+        "title": "HGTV - Việt Nam",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.mpd?vid=99"
+          },
+          {
+            "url": "https://freem3u.xyz/api/v1/live/play.mpd?fl=https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hgtv/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://liveh34.vtvprime.vn/hls/HGTV/index.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/global/hgtv.png",
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 192
+      },
+      {
+        "id": "kbsworld",
+        "tvgId": "kbsworld.VN",
+        "title": "KBS World - Việt Nam",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=239"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/kbs-world/KenhCoBan.m3u8"
+          },
+          {
+            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=213"
+          },
+          {
+            "url": "https://liveh12byt.vtvprime.vn/hls/KBS/index.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=kbsworld",
+            "provider": "flow"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/global/kbsworld.png",
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 193
+      },
+      {
+        "id": "nhk",
+        "tvgId": "nhkworld.VN",
+        "title": "NHK World Japan - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/nhkworldjp.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=292"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/nhk/KenhCoBan.m3u8"
+          },
+          {
+            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=106"
+          },
+          {
+            "url": "hhttps://liveh12.vtvprime.vn/hls/NHKWORLD/index.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 194
+      },
+      {
+        "id": "france24",
+        "tvgId": "france24eng.VN",
+        "title": "France 24 - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/france24_fr.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=291"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=96"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/france-24/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://liveh34.vtvprime.vn/hls/FRANCE24/index.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=france-24",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Tin Tức"
+        ],
+        "channelIndex": 196
+      },
+      {
+        "id": "cnbcsd",
+        "tvgId": "369813",
+        "title": "CNBC SD - Việt Nam",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9855"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/cnbc-sd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://liveh34.vtvprime.vn/hls/CNBC/index.m3u8"
+          }
+        ],
+        "thumbnail": "https://freem3u.xyz/static/images/global/cnbc.png?t=1",
+        "group": [
+          "Quốc Tế",
+          "Tin Tức"
+        ],
+        "forcedAspectRatio": {
+          "width": 1280,
+          "height": 720
+        },
+        "channelIndex": 197
+      },
+      {
+        "id": "historyhd",
+        "tvgId": "historyhd.VN",
+        "title": "History HD - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/history.png",
+        "urls": [
+          {
+            "url": "https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/history-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9856"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Khám Phá"
+        ],
+        "channelIndex": 198
+      },
+      {
+        "id": "dw",
+        "tvgId": "dw.VN",
+        "title": "DW - Deutsche Welle  - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/dw.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=281"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=109"
+          },
+          {
+            "url": "https://liveh12.vtvprime.vn/hls/DW/index.m3u8"
+          },
+          {
+            "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=dw",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Tin Tức"
+        ],
+        "channelIndex": 199
+      },
+      {
+        "id": "cnn",
+        "tvgId": "cnn.VN",
+        "title": "CNN - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/cnn.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keys=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1&videoUrl=https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Tin Tức"
+        ],
+        "channelIndex": 499
+      },
+      {
+        "id": "arirang",
+        "tvgId": "arirang.VN",
+        "title": "Arirang - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/arirang.png",
+        "urls": [
+          {
+            "url": "https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?fid=306"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=111"
+          },
+          {
+            "url": "https://liveh12.vtvprime.vn/hls/ARIRANG/index.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=arirang",
+            "provider": "flow"
+          }
+        ],
+        "forcedAspectRatio": {
+          "width": 1280,
+          "height": 720
+        },
+        "group": [
+          "Quốc Tế",
+          "Âm Nhạc"
+        ],
+        "channelIndex": 202
+      },
+      {
+        "id": "boxmovie",
+        "tvgId": "boxmovie1.VN",
+        "title": "Box Movie - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/boxmovies.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/OnliveTV/box-movie-1-hd/Free.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?sid=box-movie-1",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Phim Truyện"
+        ],
+        "channelIndex": 203
+      },
+      {
+        "id": "boxhits",
+        "tvgId": "boxhits.VN",
+        "title": "Box Hits - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/boxhits.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/OnliveTV/box-hits/Free.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Âm Nhạc"
+        ],
+        "channelIndex": 204
+      },
+      {
+        "id": "bloomberg",
+        "tvgId": "bloomberg.VN",
+        "title": "Lloomberg - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/bloomberg.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd&keys=1071393f8fc237f3a9a28028142110f7:7a0f8c3c72e0ffff811d534c929c57c2",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Tin Tức"
+        ],
+        "channelIndex": 236
+      },
+      {
+        "id": "bbclifestyle",
+        "tvgId": "bbc.lifestyle.VN",
+        "title": "BBC Lifestyle - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/bbc-lifestyle.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd&keys=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Tin Tức"
+        ],
+        "channelIndex": 237
+      },
+      {
+        "id": "bbcnews",
+        "tvgId": "bbc.news.VN",
+        "title": "BBC World News - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/bbc-news.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keys=c7ba46086dda345a929e29bf155e459c:d374b8f39904bf572689ea347ae86591&videoUrl=https://freem3u.xyz/api/live/play.mpd?fl=096fde45d23058e1cb7b50022e9f1c6940d850580b7ed4182e886023d18c23432c6df618544e3b3955afa4fd641ac06ce15ceaf64934f430a5cabde478ae6cb1e186fd7913f82920a5f606bb10",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Tin Tức"
+        ],
+        "channelIndex": 240
+      },
+      {
+        "id": "bbcearth",
+        "tvgId": "bbc.earth.VN",
+        "title": "BBC Earth - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/bbc-earth.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keys=5014941a2c42379880b5edf72304c165:f3fa0fe3cd39a52f4eefd36ff7161e89&videoUrl=https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Tin Tức"
+        ],
+        "channelIndex": 242
+      },
+      {
+        "id": "abcaustralia",
+        "tvgId": "abc.australia.VN",
+        "title": "ABC Australia - Việt Nam",
+        "thumbnail": "https://freem3u.xyz/static/images/global/abc-australia.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keys=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c&videoUrl=https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Tin Tức"
+        ],
+        "channelIndex": 247
+      },
+      {
+        "id": "vov1",
+        "tvgId": "vov1.VN",
+        "title": "VOV1",
+        "thumbnail": "https://freem3u.xyz/static/images/vov/vov1.png",
+        "isAudio": true,
+        "urls": [
+          {
+            "url": "https://audio-lss.vov.vn/live/vov1.m3u8"
+          },
+          {
+            "url": "https://stream.vovlive.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Radio VOV"
+        ],
+        "channelIndex": 216
+      },
+      {
+        "id": "vov2",
+        "title": "VOV2",
+        "isAudio": true,
+        "thumbnail": "https://freem3u.xyz/static/images/vov/vov2.png",
+        "urls": [
+          {
+            "url": "https://audio-lss.vov.vn/live/vov2.m3u8"
+          }
+        ],
+        "group": [
+          "Radio VOV"
+        ],
+        "channelIndex": 217
+      },
+      {
+        "id": "vov3",
+        "tvgId": "vov3.VN",
+        "title": "VOV3",
+        "isAudio": true,
+        "thumbnail": "https://freem3u.xyz/static/images/vov/vov3.png",
+        "urls": [
+          {
+            "url": "https://audio-lss.vov.vn/live/vov3.m3u8"
+          },
+          {
+            "url": "https://stream.vovlive.vn/vovlive/vov3.sdp_aac/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Radio VOV"
+        ],
+        "channelIndex": 218
+      },
+      {
+        "id": "vov4",
+        "title": "VOV4",
+        "isAudio": true,
+        "thumbnail": "https://freem3u.xyz/static/images/vov/vov4.png",
+        "urls": [
+          {
+            "url": "https://audio-lss.vov.vn/live/vov4.m3u8"
+          }
+        ],
+        "group": [
+          "Radio VOV"
+        ],
+        "channelIndex": 219
+      },
+      {
+        "id": "vov_world_service",
+        "title": "VOV5 WORLD",
+        "isAudio": true,
+        "thumbnail": "https://freem3u.xyz/static/images/vov/vov5.png",
+        "urls": [
+          {
+            "url": "https://audio-lss.vov.vn/live/vov5.m3u8"
+          }
+        ],
+        "group": [
+          "Radio VOV"
+        ],
+        "channelIndex": 224
+      },
+      {
+        "id": "vov_english_service",
+        "title": "VOV5 ENGLISH 24/7",
+        "isAudio": true,
+        "thumbnail": "https://freem3u.xyz/static/images/vov/vov5_english.png",
+        "urls": [
+          {
+            "url": "https://audio-lss.vov.vn/live/vov24_7.m3u8"
+          },
+          {
+            "url": "https://stream.vovlive.vn/vovlive/vov247vov5English.sdp_aac/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Radio VOV"
+        ],
+        "channelIndex": 225
+      },
+      {
+        "id": "vovgt_hanoi",
+        "tvgId": "vovgtHN.VN",
+        "title": "VOVGT HANOI",
+        "isAudio": true,
+        "thumbnail": "https://freem3u.xyz/static/images/vov/vovgthn.png",
+        "urls": [
+          {
+            "url": "https://play.vovgiaothong.vn/live/gthn/playlist.m3u8"
+          },
+          {
+            "url": "https://stream.vovlive.vn/vovlive/vovGTHN.sdp_aac/playlist.m3u8"
+          },
+          {
+            "url": "https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8"
+          }
+        ],
+        "group": [
+          "Radio VOV"
+        ],
+        "channelIndex": 226
+      },
+      {
+        "id": "vovgt_tphcm",
+        "tvgId": "vovgtHCM.VN",
+        "title": "VOVGT TPHCM",
+        "isAudio": true,
+        "thumbnail": "https://freem3u.xyz/static/images/vov/vovgthcm.png",
+        "urls": [
+          {
+            "url": "https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8"
+          },
+          {
+            "url": "https://stream.vovlive.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?audioUrl=https://stream.vovmedia.vn/vovgt-hcm",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Radio VOV"
+        ],
+        "channelIndex": 227
+      },
+      {
+        "id": "vov_mekongfm",
+        "tvgId": "vovgtMeKong.VN",
+        "isAudio": true,
+        "title": "VOVGT MEKONG",
+        "thumbnail": "https://freem3u.xyz/static/images/vov/vovgtmk.png",
+        "urls": [
+          {
+            "url": "https://play.vovgiaothong.vn/live/mekong/playlist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?audioUrl=https://stream.vovmedia.vn/vovmekong",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Radio VOV"
+        ],
+        "channelIndex": 228
+      },
+      {
+        "id": "vov_radio3260",
+        "isAudio": true,
+        "title": "VOVGT DUYEN HAI",
+        "thumbnail": "https://freem3u.xyz/static/images/vov/vovgtdh.png",
+        "urls": [
+          {
+            "url": "https://play.vovgiaothong.vn/live/gthn/playlist.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?audioUrl=https://stream.vovmedia.vn/gtduyenhai",
+            "provider": "webview"
+          }
+        ],
+        "group": [
+          "Radio VOV"
+        ],
+        "channelIndex": 229
+      },
+      {
+        "id": "voh-fm-999mhz",
+        "tvgId": "voh.FM99_9.VN",
+        "isAudio": false,
+        "title": "VOH FM 99.9Mhz",
+        "thumbnail": "https://freem3u.xyz/static/images/voh/voh_fm99_9.png",
+        "urls": [
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/voh-fm-99-9-mhz/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=10037"
+          },
+          {
+            "url": "https://strm.voh.com.vn/radio/channel3/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Radio VOH"
+        ],
+        "channelIndex": 230
+      },
+      {
+        "id": "voh-fm-956mhz",
+        "tvgId": "voh.FM95_6.VN",
+        "isAudio": false,
+        "title": "VOH FM 95.6Mhz",
+        "thumbnail": "https://freem3u.xyz/static/images/voh/voh_fm95_6.png",
+        "urls": [
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/voh-fm-95-6-mhz/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=10039"
+          },
+          {
+            "url": "https://strm.voh.com.vn/radio/channel1/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Radio VOH"
+        ],
+        "channelIndex": 231
+      },
+      {
+        "id": "voh-fm-877mhz",
+        "tvgId": "voh.FM87_7.VN",
+        "isAudio": false,
+        "title": "VOH FM 87.7Mhz",
+        "thumbnail": "https://freem3u.xyz/static/images/voh/voh_fm87_7.png",
+        "urls": [
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/voh-fm-87-7-mhz/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=10038"
+          },
+          {
+            "url": "https://strm.voh.com.vn/radio/channel5/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Radio VOH"
+        ],
+        "channelIndex": 232
+      },
+      {
+        "id": "voh-am-610khz",
+        "tvgId": "voh.AM610.VN",
+        "isAudio": false,
+        "title": "VOH AM 610Khz",
+        "thumbnail": "https://freem3u.xyz/static/images/voh/voh_am.png",
+        "urls": [
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/voh-am-610-mhz/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=10036"
+          },
+          {
+            "url": "https://strm.voh.com.vn/radio/channel2/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Radio VOH"
+        ],
+        "channelIndex": 233
+      },
+      {
+        "id": "voh-m-fm92-5mhz",
+        "title": "VOH-M (FM 92-92.5MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/voh/voh_m.jpg",
+        "urls": [
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/vohm-fm-92-92-5-mhz/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          },
+          {
+            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=10040"
+          },
+          {
+            "url": "https://strm.voh.com.vn/radio/channel6/playlist.m3u8"
+          }
+        ],
+        "isAudio": false,
+        "group": [
+          "Radio VOH"
+        ],
+        "channelIndex": 276
+      },
+      {
+        "id": "khanhhoa-fm106mhz",
+        "isAudio": true,
+        "title": "KHANH HOA (FM106MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/khanhhoa_106.png",
+        "urls": [
+          {
+            "url": "https://cdnbaokhanhhoa.com/live/feb79f5c374d.m3u8?vhost=audio"
+          }
+        ],
+        "group": [
+          "Radio Miền Trung"
+        ],
+        "channelIndex": 211
+      },
+      {
+        "id": "khanhhoa-fm95mhz",
+        "isAudio": true,
+        "title": "KHANH HOA (FM95MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/khanhhoa_95.png",
+        "urls": [
+          {
+            "url": "https://cdnbaokhanhhoa.com/live/fdb4128cecf1.m3u8?vhost=audio"
+          }
+        ],
+        "group": [
+          "Radio Miền Trung"
+        ],
+        "channelIndex": 212
+      },
+      {
+        "id": "phu-tho-fm96mhz",
+        "title": "PHU THO (FM105MHz - FM106MHz)",
+        "urls": [
+          {
+            "url": "https://cdn.3ssoft.vn/audio/phuthotv/phuthotv/index.m3u8",
+            "headers": {
+              "Referer": "https://phuthotv.vn/"
+            }
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 234
+      },
+      {
+        "id": "son-la-fm96mhz",
+        "tvgId": "sonla.FM96.VN",
+        "title": "SON LA (FM96MHz)",
+        "thumbnail": "",
+        "urls": [
+          {
+            "url": "https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8"
+          },
+          {
+            "url": "https://sonlatv.vn/",
+            "provider": "parser",
+            "startWith": "data-src=\"",
+            "startWithIndex": 1,
+            "endWith": "\"",
+            "headers": {
+              "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+            }
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 235
+      },
+      {
+        "id": "thanh-hoa-fm",
+        "title": "THANH HOA RADIO (FM92.3MHz)",
+        "thumbnail": "",
+        "urls": [
+          {
+            "url": "https://c.baothanhhoa.vn/media/dembeds/1c334aa83c91f92e9338dba80/desktop?dapp=baothanhhoa.vn&ids=livetv-baothanhhoa%3Bliveradio-baothanhhoa",
+            "provider": "json",
+            "jsonPath": "data[1].src"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 213
+      },
+      {
+        "id": "tuyen-quang-radio-fm956mhz",
+        "title": "TUYEN QUANG RADIO (FM95.6MHz)",
+        "thumbnail": "",
+        "urls": [
+          {
+            "url": "https://streaming.tuyenquangtv.vn/channel/tuyenquang_radio/chunks.m3u8"
+          },
+          {
+            "url": "https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 238
+      },
+      {
+        "id": "thai-nguyen-fm1065mhz",
+        "title": "THAI NGUYEN (FM106.5MHz)",
+        "thumbnail": "",
+        "urls": [
+          {
+            "url": "https://live.mediatech.vn/live/28528cfdcd6bc7c44359b22e7a3a69c5857/playlist.m3u8"
+          },
+          {
+            "url": "https://esb.thainguyentv.vn/api/v1/category?type=live&app_id=vnism55brmdzTeX",
+            "provider": "json",
+            "jsonPath": "result.data[1].link"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 239
+      },
+      {
+        "id": "lang-son-fm886mhz",
+        "title": "LANG SON (FM88.6MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/langson.png",
+        "urls": [
+          {
+            "url": "https://live-hq.evgcdn.net/live/285dabcfc94f52b458688fe7f601524816e/playlist.m3u8"
+          },
+          {
+            "url": "https://langsontv.vn/audio",
+            "provider": "parser",
+            "startWith": "video_src = '",
+            "startWithIndex": 1,
+            "endWith": "'",
+            "headers": {
+              "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+            }
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 241
+      },
+      {
+        "id": "qnr1-fm978mhz",
+        "tvgId": "quangninh.FM97_8.VN",
+        "title": "QNR1 (FM97.8MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/quangninh1.png",
+        "urls": [
+          {
+            "url": "https://live.baoquangninh.vn/qtvlive/qnr1.m3u8"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 243
+      },
+      {
+        "id": "qnr2-fm947mhz",
+        "tvgId": "quangninh.FM91_7.VN",
+        "title": "QNR2 (FM94.7MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/quangninh2.png",
+        "urls": [
+          {
+            "url": "https://live.baoquangninh.vn/qtvlive/qnr2.m3u8"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 244
+      },
+      {
+        "id": "hanoi90",
+        "tvgId": "hanoi.FM90.VN",
+        "title": "HANOI FM90",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/hanoi_fm90.png",
+        "urls": [
+          {
+            "url": "https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9905"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 245
+      },
+      {
+        "id": "hanoi96",
+        "tvgId": "hanoi.FM96.VN",
+        "title": "HANOI FM96",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/hanoi_fm96.png",
+        "urls": [
+          {
+            "url": "https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9906"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 246
+      },
+      {
+        "id": "hai-phong-fm937",
+        "tvgId": "haiphong.FM93_7.VN",
+        "title": "HAI PHONG FM93.7",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/haiphong_93_7.png",
+        "urls": [
+          {
+            "url": "https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8"
+          },
+          {
+            "url": "https://live-hq.evgcdn.net/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8"
+          },
+          {
+            "url": "https://thhp.vn/phat-thanh?channel=FM93",
+            "provider": "parser",
+            "startWith": "data-src=\"",
+            "startWithIndex": 1,
+            "endWith": "\"",
+            "headers": {
+              "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+            }
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 248
+      },
+      {
+        "id": "hai-phong-fm1022",
+        "tvgId": "haiphong.FM102_2.VN",
+        "title": "HAI PHONG FM102.2",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/haiphong_102_2.png",
+        "urls": [
+          {
+            "url": "https://live-hq.evgcdn.net/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8"
+          },
+          {
+            "url": "https://thhp.vn/phat-thanh?channel=FM102",
+            "provider": "parser",
+            "startWith": "data-src=\"",
+            "startWithIndex": 1,
+            "endWith": "\"",
+            "headers": {
+              "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+            }
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 249
+      },
+      {
+        "id": "hung-yen-radio-fm927mhz",
+        "tvgId": "hungyen.FM92_7.VN",
+        "title": "HUNG YEN RADIO (FM92.7MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/hungyen.png",
+        "urls": [
+          {
+            "url": "https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8"
+          },
+          {
+            "url": "https://hungyentv.vn/",
+            "provider": "parser",
+            "startWith": "data-src=\"",
+            "startWithIndex": 2,
+            "endWith": "\"",
+            "headers": {
+              "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+            }
+          }
+        ],
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 250
+      },
+      {
+        "id": "bac-ninh-fm92-1mhz",
+        "title": "BAC NINH FM92.1MHz - FM98.4MHz",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/bacninh.png",
+        "urls": [
+          {
+            "url": "https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/playlist.m3u8"
+          },
+          {
+            "url": "https://bacninhtv.vn/",
+            "provider": "parser",
+            "startWith": "data-src=\"",
+            "startWithIndex": 3,
+            "endWith": "\"",
+            "headers": {
+              "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+            }
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 252
+      },
+      {
+        "id": "lao-cai-fm",
+        "title": "LAO CAI (FM97MHz - FM98.3 MHz - FM 91 MHz)",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?audioUrl=https://baolaocai.vn/radio",
+            "provider": "webview"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 214
+      },
+      {
+        "id": "ninh-binh-fm-fm98-1mhz",
+        "tvgId": "ninhbinh.FM98_1.VN",
+        "title": "NINH BINH FM (FM98.1MHz)",
+        "isAudio": true,
+        "thumbnail": "https://freem3u.xyz/static/images/radio/ninhbinh.png",
+        "urls": [
+          {
+            "url": "https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Radio Miền Bắc"
+        ],
+        "channelIndex": 256
+      },
+      {
+        "id": "nghe-an-fm99-6mhz",
+        "tvgId": "nghean.FM99_6.VN",
+        "title": "NGHE AN (FM99.6MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/nghean.png",
+        "urls": [
+          {
+            "url": "https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Trung"
+        ],
+        "channelIndex": 257
+      },
+      {
+        "id": "ha-tinh-fm97-8mhz",
+        "tvgId": "hatinh.FM97_8.VN",
+        "title": "HA TINH (FM97.8MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/hatinh.png",
+        "urls": [
+          {
+            "url": "https://wse.hatinhtv.net/radio/voht/playlist.m3u8"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Trung"
+        ],
+        "channelIndex": 258
+      },
+      {
+        "id": "danang-radio-fm98-5mhz",
+        "title": "DANANG RADIO (FM98.5MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/danang.png",
+        "urls": [
+          {
+            "url": "https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8"
+          }
+        ],
+        "group": [
+          "Radio Miền Trung"
+        ],
+        "channelIndex": 261
+      },
+      {
+        "id": "hue-radio-fm93mhz",
+        "title": "HUE RADIO (FM93.0MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/hue.png",
+        "urls": [
+          {
+            "url": "https://live.huetv.com.vn/Radio-online/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Radio Miền Trung"
+        ],
+        "channelIndex": 504
+      },
+      {
+        "id": "ptq-radio-quang-ngai-fm102-9mhz",
+        "tvgId": "quangngai.FM102_9.VN",
+        "title": "QUANG NGAI FM 102.9MHz",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/quangngai.png",
+        "urls": [
+          {
+            "url": "https://live.mediatech.vn/live/2853bb18b89d074498c81d7a0deb32a3755/playlist.m3u8"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Trung"
+        ],
+        "channelIndex": 263
+      },
+      {
+        "id": "quang-tri-fm",
+        "tvgId": "quangtri.FM96_1.VN",
+        "title": "QUANG TRI FM 96.1MHz - 92.5MHz",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/quangtri.png",
+        "urls": [
+          {
+            "url": "https://tructuyen.baoquangtri.vn:5443/WebRTCAppEE/streams/9GwZb90MRel72veq246724788395010.m3u8"
+          }
+        ],
+        "group": [
+          "Radio Miền Trung"
+        ],
+        "channelIndex": 253
+      },
+      {
+        "id": "gia-lai-fm102mhz",
+        "title": "GIA LAI (FM102MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/gialai.png",
+        "urls": [
+          {
+            "url": "https://tv.gialaitv.vn/radio.m3u8"
+          }
+        ],
+        "isAudio": false,
+        "group": [
+          "Radio Miền Trung"
+        ],
+        "channelIndex": 270
+      },
+      {
+        "id": "dak-lak-fm-fm92-4mhz-fm94-7mhz",
+        "tvgId": "daklak.FM92_4.VN",
+        "title": "DAK LAK FM (FM92.4MHz & FM94.7MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/daklak.png",
+        "urls": [
+          {
+            "url": "https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Trung"
+        ],
+        "channelIndex": 271
+      },
+      {
+        "id": "lam-dong-fm97mhz",
+        "tvgId": "lamdong.FM97.VN",
+        "title": "LAM DONG (FM97MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/lamdong.png",
+        "urls": [
+          {
+            "url": "https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist.m3u8"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Trung"
+        ],
+        "channelIndex": 274
+      },
+      {
+        "id": "dong-nai-radio-fm97-5mhz",
+        "title": "DONG NAI RADIO (FM97.5MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/dongnai.png",
+        "urls": [
+          {
+            "url": "http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Nam"
+        ],
+        "channelIndex": 277
+      },
+      {
+        "id": "vinh-long-fm90-2mhz",
+        "tvgId": "vinhlong.FM90_2.VN",
+        "title": "VINH LONG (FM90.2MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/vinhlong.png",
+        "urls": [
+          {
+            "url": "https://api-ott.admon.com.vn/api/tenant/thvli/detail/7bf43e25-e9e9-4aa6-8554-38de13c5263d",
+            "provider": "json",
+            "jsonPath": "data.link_play"
+          },
+          {
+            "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
+            "provider": "json",
+            "jsonPath": "link_play",
+            "httpConfig": {
+              "body": "livetv_slug=/truyen-hinh-truc-tuyen/vinh-long-audio/&platform=web&ui=012021",
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded"
+              }
+            }
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Nam",
+          "THVL"
+        ],
+        "channelIndex": 278
+      },
+      {
+        "id": "dong-thap-fm98-4mhz",
+        "tvgId": "dongthap.FM98_4.VN",
+        "title": "DONG THAP (FM98.4MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/dongthap.png",
+        "urls": [
+          {
+            "url": "https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Radio Miền Nam"
+        ],
+        "channelIndex": 282
+      },
+      {
+        "id": "can-tho-fm97-3mhz",
+        "title": "CAN THO (FM97.3MHz)",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/cantho.png",
+        "urls": [
+          {
+            "url": "https://live.canthotv.vn/live/radio/playlist.m3u8"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Nam"
+        ],
+        "channelIndex": 286
+      },
+      {
+        "id": "an-giang-fm99-4mhz",
+        "tvgId": "angiang.FM99_4.VN",
+        "title": "AN GIANG FM 99.4MHz",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/ATV_FM_99.4.png",
+        "urls": [
+          {
+            "url": "https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8"
+          }
+        ],
+        "group": [
+          "Radio Miền Nam"
+        ],
+        "channelIndex": 288
+      },
+      {
+        "id": "an-giang-fm93-1mhz",
+        "tvgId": "angiang.FM93_1.VN",
+        "title": "AN GIANG FM 93.1MHz",
+        "thumbnail": "https://freem3u.xyz/static/images/radio/ATV_FM_93.1.png",
+        "urls": [
+          {
+            "url": "https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8"
+          }
+        ],
+        "group": [
+          "Radio Miền Nam"
+        ],
+        "channelIndex": 289
+      },
+      {
+        "id": "ca-mau-fm94-6mhz",
+        "tvgId": "camau.FM94_6.VN",
+        "title": "CA MAU FM (FM94.6MHz)",
+        "thumbnail": "",
+        "urls": [
+          {
+            "url": "http://tv.ctvcamau.vn/live/radio/radio.m3u8"
+          }
+        ],
+        "isAudio": true,
+        "group": [
+          "Radio Miền Nam"
+        ],
+        "channelIndex": 290
+      },
+      {
+        "id": "cnn-tieng-anh",
+        "tvgId": "cnn",
+        "title": "CNN - Tiếng Anh",
+        "thumbnail": "https://freem3u.xyz/static/images/global/cnn.png",
+        "urls": [
+          {
+            "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Tin Tức"
+        ],
+        "channelIndex": 200
+      },
+      {
+        "id": "abc-news",
+        "title": "ABC News - Tiếng Anh",
+        "thumbnail": "https://freem3u.xyz/static/images/global/abc_news.png",
+        "urls": [
+          {
+            "url": "https://c.mjh.nz/abc-nsw.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Tin Tức"
+        ],
+        "channelIndex": 201
+      },
+      {
+        "id": "ack_tv_main",
+        "title": "ACK TV - Tiếng Anh",
+        "thumbnail": "https://freem3u.xyz/static/images/global/ack_tv.png",
+        "urls": [
+          {
+            "url": "https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 207
+      },
+      {
+        "id": "ack_tv_meethb",
+        "title": "ACK TV - Meet the Breeds",
+        "thumbnail": "https://freem3u.xyz/static/images/global/ack_tv.png",
+        "urls": [
+          {
+            "url": "https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 208
+      },
+      {
+        "id": "ack_tv_puppies",
+        "title": "ACK TV - Puppies 24/7 - Tiếng Anh",
+        "thumbnail": "https://freem3u.xyz/static/images/global/ack_tv.png",
+        "urls": [
+          {
+            "url": "https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 209
+      },
+      {
+        "id": "bloomberg-tieng-anh",
+        "title": "BLOOMBERG - Tiếng Anh",
+        "thumbnail": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true",
+        "urls": [
+          {
+            "url": "https://pubads.g.doubleclick.net/ssai/event/PwTJe4aZRvSBjbWY7_VSzA/streams",
+            "provider": "json",
+            "jsonPath": "stream_manifest",
+            "httpConfig": {
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded",
+                "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+              }
+            }
+          },
+          {
+            "url": "https://pubads.g.doubleclick.net/ssai/event/crO2xItzS0K0Mznc1p0yPA/streams",
+            "provider": "json",
+            "jsonPath": "stream_manifest",
+            "httpConfig": {
+              "method": "POST",
+              "headers": {
+                "content-type": "application/x-www-form-urlencoded",
+                "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
+              }
+            }
+          },
+          {
+            "url": "http://fl5.moveonjoy.com/BLOOMBERG/index.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Tin Tức"
+        ],
+        "channelIndex": 306
+      },
+      {
+        "id": "spotv-1",
+        "title": "SPOTV 1 - Tiếng Anh",
+        "thumbnail": "https://freem3u.xyz/static/images/global/spotv.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keys=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e&videoUrl=https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd",
+            "provider": "webview",
+            "headers": {
+              "user-agent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+            }
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Thể Thao"
+        ],
+        "channelIndex": 484
+      },
+      {
+        "id": "spotv-2",
+        "title": "SPOTV 2 - Tiếng Anh",
+        "thumbnail": "https://freem3u.xyz/static/images/global/spotv.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/shaka.html?keys=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed&videoUrl=https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd",
+            "provider": "webview",
+            "headers": {
+              "user-agent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+            }
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Thể Thao"
+        ],
+        "channelIndex": 485
+      },
+      {
+        "id": "abc-kids-tieng-anh",
+        "title": "ABC Kids - Tiếng Anh",
+        "thumbnail": "https://freem3u.xyz/static/images/global/abc-kids.png",
+        "urls": [
+          {
+            "url": "https://c.mjh.nz/abc-kids.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế",
+          "Thiếu Nhi"
+        ],
+        "channelIndex": 490
+      },
+      {
+        "id": "cgtn",
+        "title": "CGTN - China Global Television Network",
+        "thumbnail": "https://freem3u.xyz/static/images/china/CGTN.png",
+        "urls": [
+          {
+            "url": "https://english-livebkali.cgtn.com/live/encgtn_0.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 106
+      },
+      {
+        "id": "cgtn-english",
+        "title": "CGTN Documentary - China Global Television Network",
+        "thumbnail": "https://freem3u.xyz/static/images/china/CGTN_Documentary.png",
+        "urls": [
+          {
+            "url": "https://english-livebkali.cgtn.com/live/encgtn_0.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 110
+      },
+      {
+        "id": "cgtn-france",
+        "title": "CGTN Francais - China Global Television Network",
+        "thumbnail": "https://freem3u.xyz/static/images/china/CGTN_France.png",
+        "urls": [
+          {
+            "url": "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 116
+      },
+      {
+        "id": "cgtn-rusian",
+        "title": "CGTN Русский - China Global Television Network",
+        "thumbnail": "https://freem3u.xyz/static/images/china/CGTN_Rusian.png",
+        "urls": [
+          {
+            "url": "https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8"
+          }
+        ],
+        "group": [
+          "Quốc Tế"
+        ],
+        "channelIndex": 118
+      }
+    ]
+  }
+}
