@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-01T04:33:04.626751Z",
+  "update_time": "2026-08-01T07:07:23.555598Z",
   "channels": {
     "index": "505",
     "missing": [
@@ -323,20 +323,17 @@
         "tvgId": "vtv1hd.VN",
         "urls": [
           {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv1-hd/KenhCoBan.m3u8"
+          },
+          {
             "url": "https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/manifest.mpd"
           },
           {
-            "url": "https://liveh12.vtvprime.vn/hls/VTV1_HD/index.m3u8"
-          },
-          {
-            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/mean/VTV1_HD/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/VTV1_HD/manifest.mpd&keys=cca908f736f54dfc90ec844fe123942c:9fea9e1b52e1e87a7d4c1dec0c46307f",
             "provider": "webview"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.m3u8?fid=230"
-          },
-          {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv1-hd/KenhCoBan.m3u8"
           },
           {
             "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
@@ -368,11 +365,11 @@
         "tvgId": "vtv2hd.VN",
         "urls": [
           {
-            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livezenatm.vtvprime.vn/live/data8/VTV2_HD/Live_DASHDRM/VTV2_HD.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
-            "provider": "webview"
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv2-hd/KenhCoBan.m3u8"
           },
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv2-hd/KenhCoBan.m3u8"
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/VTV2_HD/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv2",
@@ -391,11 +388,11 @@
         "tvgId": "vtv3hd.VN",
         "urls": [
           {
-            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livebytatm.vtvprime.vn/live/data8/VTV3_HD/Live_DASHDRM/VTV3_HD.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
-            "provider": "webview"
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv3-hd/KenhCoBan.m3u8"
           },
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv3-hd/KenhCoBan.m3u8"
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livebytatm.vtvprime.vn/live/data8/VTV3_HD/Live_DASHDRM/VTV3_HD.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv3",
@@ -417,14 +414,11 @@
             "url": "https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8"
           },
           {
-            "url": "https://liveh12.vtvprime.vn/hls/VTV4_HD/index.m3u8"
-          },
-          {
-            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/mean/VTV4_HD/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
-            "provider": "webview"
-          },
-          {
             "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv4-hd/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/VTV4_HD/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv4",
@@ -446,11 +440,11 @@
             "url": "https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8"
           },
           {
-            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/mean/VTV5_HD/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
-            "provider": "webview"
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-hd/KenhCoBan.m3u8"
           },
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-hd/KenhCoBan.m3u8"
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_HD/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "provider": "webview"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv5",
@@ -475,10 +469,11 @@
             "url": "https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8"
           },
           {
-            "url": "https://liveh12byt.vtvprime.vn/hls/VTV5_TNB/index.m3u8"
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-tay-nam-bo/KenhCoBan.m3u8"
           },
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-tay-nam-bo/KenhCoBan.m3u8"
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_TNB/manifest.mpd&keys=6e3b28cfcb3b4eb8b993c67e93ff9b43:a320388a40b54ff788c846043c50083f",
+            "provider": "webview"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv5tnb",
@@ -501,6 +496,10 @@
           },
           {
             "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-tay-nguyen/KenhCoBan.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_TN/manifest.mpd&keys=ea293eba54ad4ca0b028576afcee88c2:18ac6a360d0e48979d4b6c612f04b31f",
+            "provider": "webview"
           }
         ],
         "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv5_tn.png",
@@ -515,11 +514,14 @@
         "title": "VTV6",
         "urls": [
           {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv6-hd/KenhCoBan.m3u8"
+          },
+          {
             "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livebytatm.vtvprime.vn/live/data8/VTV6/Live_DASHDRM/VTV6.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
             "provider": "webview"
           },
           {
-            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=10043"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=10043"
           }
         ],
         "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv6_new_2.png",
@@ -535,11 +537,11 @@
         "tvgId": "vtv7hd.VN",
         "urls": [
           {
-            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livezenatm.vtvprime.vn/live/data8/VTV7_HD/Live_DASHDRM/VTV7_HD.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
-            "provider": "webview"
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv7-hd/KenhCoBan.m3u8"
           },
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv7-hd/KenhCoBan.m3u8"
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livezenatm.vtvprime.vn/live/data8/VTV7_HD/Live_DASHDRM/VTV7_HD.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv7",
@@ -558,11 +560,11 @@
         "tvgId": "vtv8hd.VN",
         "urls": [
           {
-            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livezenatm.vtvprime.vn/live/data8/VTV8_HD/Live_DASHDRM/VTV8_HD.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
-            "provider": "webview"
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv8-hd/KenhCoBan.m3u8"
           },
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv8-hd/KenhCoBan.m3u8"
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/VTV8_HD/manifest.mpd&keys=73a685e226374dc7b756a12c270744b5:95504c377fb04cab81ba5e955f4ae189",
+            "provider": "webview"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv8",
@@ -581,11 +583,11 @@
         "tvgId": "vtv9hd.VN",
         "urls": [
           {
-            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livezenatm.vtvprime.vn/live/data8/VTV9_HD/Live_DASHDRM/VTV9_HD.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
-            "provider": "webview"
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8"
           },
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8"
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livezenatm.vtvprime.vn/live/data8/VTV9_HD/Live_DASHDRM/VTV9_HD.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv9",
@@ -604,11 +606,11 @@
         "tvgId": "vtvcantho.VN",
         "urls": [
           {
-            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livezenatm.vtvprime.vn/live/data8/VTV6_HD/Live_DASHDRM/VTV6_HD.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
-            "provider": "webview"
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv-can-tho/KenhCoBan.m3u8"
           },
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv-can-tho/KenhCoBan.m3u8"
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livezenatm.vtvprime.vn/live/data8/VTV6_HD/Live_DASHDRM/VTV6_HD.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
+            "provider": "webview"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtvcantho",
@@ -634,8 +636,7 @@
             "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9951"
           },
           {
-            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/mean/VIETNAMTODAY/manifest.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
-            "provider": "webview"
+            "url": "https://liveh12.vtvprime.vn/hls/VIETNAMTODAY/index.m3u8"
           },
           {
             "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
@@ -737,11 +738,11 @@
             "url": "https://liveh12.vtvprime.vn/hls/VAN_HOA/index.m3u8"
           },
           {
-            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/VAN_HOA/manifest.mpd&keys=2f571f6db60340e8a3cc3a5395d21611:553752778fe0d3ea79d434bf5f867f26",
-            "provider": "webview"
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-4-on-movies/KenhCoBan.m3u8"
           },
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-4-on-movies/KenhCoBan.m3u8"
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/livesnv2/VAN_HOA/manifest.mpd&keys=2f571f6db60340e8a3cc3a5395d21611:553752778fe0d3ea79d434bf5f867f26",
+            "provider": "webview"
           }
         ],
         "thumbnail": "https://freem3u.xyz/static/images/vtvcab/vtvcab4.png",
@@ -2240,6 +2241,9 @@
             "url": "https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/index.m3u8"
           },
           {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=25"
+          },
+          {
             "url": "https://freem3u.xyz/api/live/play.json?vl=thvl1-hd",
             "provider": "flow"
           },
@@ -2273,11 +2277,14 @@
         "thumbnail": "https://freem3u.xyz/static/images/diaphuong/vinhlong2.png",
         "urls": [
           {
+            "url": "https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/index.m3u8"
+          },
+          {
             "url": "https://freem3u.xyz/api/live/play.json?vl=thvl2-hd",
             "provider": "flow"
           },
           {
-            "url": "https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/index.m3u8"
+            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=26"
           },
           {
             "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
@@ -2309,11 +2316,14 @@
         "thumbnail": "https://freem3u.xyz/static/images/diaphuong/vinhlong3.png",
         "urls": [
           {
-            "url": "https://freem3u.xyz/api/live/play.json?vl=thvl3-hd",
-            "provider": "flow"
+            "url": "https://live.fptplay53.net/live/media/vinhlong3/live247-hls-avc/index.m3u8"
           },
           {
-            "url": "https://live.fptplay53.net/live/media/vinhlong3/live247-hls-avc/index.m3u8"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=219"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?vl=thvl3-hd",
+            "provider": "flow"
           },
           {
             "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
@@ -2342,11 +2352,14 @@
         "thumbnail": "https://freem3u.xyz/static/images/diaphuong/vinhlong4.png",
         "urls": [
           {
-            "url": "https://freem3u.xyz/api/live/play.json?vl=thvl4-hd",
-            "provider": "flow"
+            "url": "https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist.m3u8"
           },
           {
-            "url": "https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=220"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?vl=thvl4-hd",
+            "provider": "flow"
           },
           {
             "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
@@ -2375,11 +2388,14 @@
         "thumbnail": "https://freem3u.xyz/static/images/diaphuong/vinhlong5.png",
         "urls": [
           {
-            "url": "https://freem3u.xyz/api/live/play.json?vl=thvl5-hd",
-            "provider": "flow"
+            "url": "https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist.m3u8"
           },
           {
-            "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?vl=thvl5-hd",
+            "provider": "flow"
           },
           {
             "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
@@ -2449,7 +2465,11 @@
             "url": "https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8"
           },
           {
-            "url": "https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8"
+            "url": "https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8",
+            "headers": {
+              "Referer": "https://angiangtv.vn",
+              "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+            }
           }
         ],
         "group": [
@@ -2465,7 +2485,7 @@
         "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/angiang2.png",
         "urls": [
           {
-            "url": "https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8"
+            "url": "https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist.m3u8"
           },
           {
             "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
@@ -2480,7 +2500,11 @@
             }
           },
           {
-            "url": "https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8"
+            "url": "https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8",
+            "headers": {
+              "Referer": "https://angiangtv.vn",
+              "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+            }
           }
         ],
         "group": [
@@ -2499,7 +2523,11 @@
             "url": "https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist.m3u8"
           },
           {
-            "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8"
+            "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
+            "headers": {
+              "Referer": "https://angiangtv.vn",
+              "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+            }
           }
         ],
         "group": [
@@ -2568,12 +2596,27 @@
         "channelIndex": 91
       },
       {
+        "id": "btv6",
+        "title": "BTV6 - Shopping 24H",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/btv6_shopping24h.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9838"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "Miền Trung"
+        ],
+        "channelIndex": 33
+      },
+      {
         "id": "ctv-hd-th-ca-mau",
         "tvgId": "camau.VN",
         "title": "CTV HD | TH Cà Mau",
         "urls": [
           {
-            "url": "https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8"
+            "url": "https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist.m3u8"
           },
           {
             "url": "http://tv.ctvcamau.vn/live/tv/tv.m3u8"
@@ -2638,7 +2681,7 @@
         "title": "Cần Thơ TV 2 | TH Cần Thơ",
         "urls": [
           {
-            "url": "https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist.m3u8"
+            "url": "https://live.fptplay53.net/epzhd2/cantho02_vhls.smil/chunklist.m3u8"
           },
           {
             "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
@@ -3453,9 +3496,6 @@
             "endWith": "\""
           },
           {
-            "url": "https://live.fptplay53.net/fnxsd1/thaibinh_hls.smil/chunklist.m3u8"
-          },
-          {
             "url": "https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/playlist.m3u8"
           },
           {
@@ -4259,7 +4299,7 @@
             "url": "https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8"
           },
           {
-            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=214"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=214"
           },
           {
             "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/davinci-hd/KenhCoBan.m3u8"
@@ -4308,7 +4348,7 @@
             "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/kix/KenhCoBan.m3u8"
           },
           {
-            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=9901"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9901"
           },
           {
             "url": "https://liveh34.vtvprime.vn/hls/KIX/index.m3u8"
@@ -4381,7 +4421,7 @@
         "thumbnail": "https://freem3u.xyz/static/images/global/music_box.png",
         "urls": [
           {
-            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevliatmcdw.seenow.vn/live/data8/MUSICBOX/Live_DASHDRM/MUSICBOX.mpd&keys=781479be64c44fe6982dec13e573a69b:2ace72eba86a413fa4ef634eaf790b00",
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/MUSICBOX/manifest.mpd&keys=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae",
             "provider": "webview"
           },
           {
@@ -4606,7 +4646,7 @@
             "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/kbs-world/KenhCoBan.m3u8"
           },
           {
-            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=213"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=213"
           },
           {
             "url": "https://liveh12byt.vtvprime.vn/hls/KBS/index.m3u8"
@@ -4638,7 +4678,7 @@
             "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/nhk/KenhCoBan.m3u8"
           },
           {
-            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=106"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=106"
           },
           {
             "url": "hhttps://liveh12.vtvprime.vn/hls/NHKWORLD/index.m3u8"
@@ -4821,7 +4861,7 @@
         "thumbnail": "https://freem3u.xyz/static/images/global/boxmovies.png",
         "urls": [
           {
-            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/BM1/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
             "provider": "webview"
           },
           {
@@ -5148,7 +5188,7 @@
             }
           },
           {
-            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=10037"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=10037"
           },
           {
             "url": "https://strm.voh.com.vn/radio/channel3/playlist.m3u8"
@@ -5179,7 +5219,7 @@
             }
           },
           {
-            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=10039"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=10039"
           },
           {
             "url": "https://strm.voh.com.vn/radio/channel1/playlist.m3u8"
@@ -5210,7 +5250,7 @@
             }
           },
           {
-            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=10038"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=10038"
           },
           {
             "url": "https://strm.voh.com.vn/radio/channel5/playlist.m3u8"
@@ -5241,7 +5281,7 @@
             }
           },
           {
-            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=10036"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=10036"
           },
           {
             "url": "https://strm.voh.com.vn/radio/channel2/playlist.m3u8"
@@ -5270,7 +5310,7 @@
             }
           },
           {
-            "url": "http://freem3u.xyz/api/live/play.m3u8?vid=10040"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=10040"
           },
           {
             "url": "https://strm.voh.com.vn/radio/channel6/playlist.m3u8"
@@ -5862,7 +5902,11 @@
         "thumbnail": "https://freem3u.xyz/static/images/radio/ATV_FM_99.4.png",
         "urls": [
           {
-            "url": "https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8"
+            "url": "https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8",
+            "headers": {
+              "Referer": "https://angiangtv.vn",
+              "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+            }
           }
         ],
         "group": [
@@ -5877,7 +5921,11 @@
         "thumbnail": "https://freem3u.xyz/static/images/radio/ATV_FM_93.1.png",
         "urls": [
           {
-            "url": "https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8"
+            "url": "https://tv.angiangtv.vn/live/kgtv3/kgtv3.m3u8",
+            "headers": {
+              "Referer": "https://angiangtv.vn",
+              "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+            }
           }
         ],
         "group": [
