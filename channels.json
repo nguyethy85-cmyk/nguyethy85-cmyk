@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-01T14:38:55.276035Z",
+  "update_time": "2026-08-01T15:42:35.153372Z",
   "channels": {
     "index": "505",
     "missing": [
@@ -2610,6 +2610,10 @@
             "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9838"
           }
         ],
+        "forcedAspectRatio": {
+          "width": 1280,
+          "height": 720
+        },
         "group": [
           "Địa Phương",
           "Miền Trung"
@@ -2654,7 +2658,7 @@
         "thumbnail": "https://freem3u.xyz/static/images/diaphuong/caicach/cantho1_new.png",
         "urls": [
           {
-            "url": "https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8"
+            "url": "https://live.fptplay53.net/epzhd2/cantho01_vhls.smil/chunklist.m3u8"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.m3u8?vid=47"
