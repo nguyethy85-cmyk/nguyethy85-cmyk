@@ -4,32 +4,32 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 02/08/2026 19:10:54
-# Channels     : 156
-# Today Views  : 142
-# Total Views  : 2900
-# Unique IP   : 73
+# Updated      : 02/08/2026 20:51:02
+# Channels     : 155
+# Today Views  : 184
+# Total Views  : 2942
+# Unique IP   : 87
 # ======================================
 # THIS LIST IS COMPILED FROM IPTV LISTS ON THE WEBSITE.
 # PLEASE USE OTT NAVIGATOR TO WATCH.
 # ======================================
-# WM=MTcyLjIxNS4yMTcuMTkyfDAyLzA4LzIwMjYgMTk6MTA6NTQ=
-# IP=172.215.217.192
+# WM=NjQuMjM2LjE4Ny4yNDF8MDIvMDgvMjAyNiAyMDo1MTowMg==
+# IP=64.236.187.241
 # ======================================
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",EASPORT : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TODAY VIEWS : 142
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TODAY VIEWS : 184
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TOTAL VIEWS : 2900
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TOTAL VIEWS : 2942
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TOTAL CHANNEL : 156
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TOTAL CHANNEL : 155
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LAST UPDATE : 02/08/2026 19:10:54
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LAST UPDATE : 02/08/2026 20:51:02
 https://livesport.io.vn/spo.m3u8
 
 # ===== TNT SPORTS 1 =====
@@ -79,6 +79,18 @@ https://livesport.io.vn/link/stalk.php?id=skyaction
 # ===== SKY SPORTS MIX =====
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/smix.png" group-title="UK SPORTS" ,SKY SPORTS MIX
 https://livesport.io.vn/link/stalk.php?id=skymix
+
+# ===== PREMIER SPORTS 1 =====
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/pr1.png" group-title="UK SPORTS" ,PREMIER SPORTS 1
+https://livesport.io.vn/link/stalk.php?id=pre1
+
+# ===== PREMIER SPORTS 2 =====
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/pr2.png" group-title="UK SPORTS" ,PREMIER SPORTS 2
+https://livesport.io.vn/link/stalk.php?id=pre2
+
+# ===== MUTV =====
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-uk-mutv-114.png" group-title="UK SPORTS" ,MUTV
+https://livesport.io.vn/link/stalk.php?id=mutv
 
 # ===== BEIN SPORT 1 =====
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated-Flag-Saudi-Arabia.gif" tvg-logo="https://livesport.io.vn/logo/sport/be1.png" group-title="UAE SPORTS" ,BEIN SPORT 1
@@ -513,183 +525,167 @@ https://livesport.io.vn/link/smart.php?id=west
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-world-202.png" group-title="CANADA SPORTS" ,SPORTSNET WORLD
 https://livesport.io.vn/link/smart.php?id=world
 
-# ===== Ukrainian First League FC Victoria Mykolaivka 2-0 Kolos Kovalivka II =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Ukrainian First League FC Victoria Mykolaivka 2-0 Kolos Kovalivka II
-https://livesport.io.vn/event.php?id=sd-6Mwb79R4YNgq8N6QPH
+# ===== Norwegian 3.Divisjon Varegg 4-2 Fana =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Norwegian 3.Divisjon Varegg 4-2 Fana
+https://livesport.io.vn/event.php?id=sd-6MwdaTsk9hLRMDjid5
 
-# ===== Korean K League 1 Jeju SK FC 3-3 Incheon United Club =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Korean K League 1 Jeju SK FC 3-3 Incheon United Club
-https://livesport.io.vn/event.php?id=sd-6MvVcpXewoHEgbw8zj
-
-# ===== Korean K League 2 Jeonnam Dragons 0-2 Paju Frontier FC =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Korean K League 2 Jeonnam Dragons 0-2 Paju Frontier FC
-https://livesport.io.vn/event.php?id=sd-6MvVcmESaHAujJKZzw
-
-# ===== Korean K League 1 Daejeon Citizen 1-0 Gwangju Football Club =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Korean K League 1 Daejeon Citizen 1-0 Gwangju Football Club
-https://livesport.io.vn/event.php?id=sd-6MvVcpXfnLqnbBE6VD
-
-# ===== Korean K League 1 Ulsan HD FC 3-1 FC Anyang =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Korean K League 1 Ulsan HD FC 3-1 FC Anyang
-https://livesport.io.vn/event.php?id=sd-6MvVcpXfnJeJihQBLK
-
-# ===== Korean K League 2 Ansan Greeners FC 1-2 Gimhae City =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Korean K League 2 Ansan Greeners FC 1-2 Gimhae City
-https://livesport.io.vn/event.php?id=sd-6MvVcmESaEyRrpVer3
-
-# ===== Korean K League 2 Gimpo FC 1-1 Gyeongnam FC =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Korean K League 2 Gimpo FC 1-1 Gyeongnam FC
-https://livesport.io.vn/event.php?id=sd-6MvVcmESaKNPbn9V9q
-
-# ===== Korean K League 2 Busan I Park 1-1 Seoul E-Land FC =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Korean K League 2 Busan I Park 1-1 Seoul E-Land FC
-https://livesport.io.vn/event.php?id=sd-6MvVcmESaCmwzLfjh9
-
-# ===== Chinese Football League 1 Changchun Yatai 0-1 Shijiazhuang Gongfu =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Chinese Football League 1 Changchun Yatai 0-1 Shijiazhuang Gongfu
-https://livesport.io.vn/event.php?id=sd-6Mwd5ypTqiDKbfh28f
-
-# ===== Chinese Football League 1 Suzhou Dongwu 0-0 Meizhou Hakka =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Chinese Football League 1 Suzhou Dongwu 0-0 Meizhou Hakka
-https://livesport.io.vn/event.php?id=sd-6Mwd5ypTrEz3nPFrHD
-
-# ===== Chinese Football League 2 Guangzhou Dandelion Alpha 1-2 Wuhan Three Towns B =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Chinese Football League 2 Guangzhou Dandelion Alpha 1-2 Wuhan Three Towns B
-https://livesport.io.vn/event.php?id=sd-6MwcqG3PpXtY1uh2wZ
-
-# ===== RUS D3B KDV Tomsk 2-0 FK Orenburg-2 =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,RUS D3B KDV Tomsk 2-0 FK Orenburg-2
-https://livesport.io.vn/event.php?id=sd-6MwdaX8ma9tayR7MKm
-
-# ===== Chinese Football Assorciation U-20 League Shandong Taishan U20 1-1 Ningbo FC U20 =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Chinese Football Assorciation U-20 League Shandong Taishan U20 1-1 Ningbo FC U20
-https://livesport.io.vn/event.php?id=sd-6MwdpuKdpaRwtdfpYF
-
-# ===== Norwegian 3.Divisjon Bossekop 2-3 Harstad =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Norwegian 3.Divisjon Bossekop 2-3 Harstad
-https://livesport.io.vn/event.php?id=sd-6MwdaTvi6fDguxSdxb
-
-# ===== Ukrainian First League Prykarpattya Ivano Frankivsk 2-2 Lokomotiv Kyiv =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Ukrainian First League Prykarpattya Ivano Frankivsk 2-2 Lokomotiv Kyiv
-https://livesport.io.vn/event.php?id=sd-6Mwb79R4YLVMFtGVEP
-
-# ===== Chinese Football League 2 Shandong Taishan B 1-1 Dalian Kewei =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Chinese Football League 2 Shandong Taishan B 1-1 Dalian Kewei
-https://livesport.io.vn/event.php?id=sd-6MwcqG3Ppa61tPWx6T
-
-# ===== Chinese Football League 1 Shenzhen Juniors 0-0 Wuxi Wugo =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Chinese Football League 1 Shenzhen Juniors 0-0 Wuxi Wugo
-https://livesport.io.vn/event.php?id=sd-6Mwd5ypTrAb63Rc1yR
-
-# ===== Chinese Football League 2 Haimen Codion 2-0 Tai'an Tiankuang =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Chinese Football League 2 Haimen Codion 2-0 Tai'an Tiankuang
-https://livesport.io.vn/event.php?id=sd-6MwcqG3PpeUydMAnQF
-
-# ===== Chinese Football League 2 Chengdu Rongcheng B 2-1 Xiamen Feilu =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Chinese Football League 2 Chengdu Rongcheng B 2-1 Xiamen Feilu
-https://livesport.io.vn/event.php?id=sd-6MwcqG3PpC7DBbFnZV
-
-# ===== Chinese Super League Liaoning Tieren 2-0 Shanghai Shenhua =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Chinese Super League Liaoning Tieren 2-0 Shanghai Shenhua
-https://livesport.io.vn/event.php?id=sd-6MvVNtUSvRXrTN62Lw
-
-# ===== Danish 1st Division Vendsyssel 0-1 Hobro =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Danish 1st Division Vendsyssel 0-1 Hobro
+# ===== Danish 1st Division Vendsyssel 1-2 Hobro =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Danish 1st Division Vendsyssel 1-2 Hobro
 https://livesport.io.vn/event.php?id=sd-6MwdpnqrTGCqh8ha7H
 
-# ===== Kazakhstan Premier League Okzhetpes 0-0 Altay FK =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Kazakhstan Premier League Okzhetpes 0-0 Altay FK
+# ===== Kazakhstan Premier League Okzhetpes 4-1 Altay FK =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Kazakhstan Premier League Okzhetpes 4-1 Altay FK
 https://livesport.io.vn/event.php?id=sd-6Mwd5sHhs3bBBS8Vyy
 
-# ===== Finnish Veikkausliiga Vaasa VPS 0-0 Inter Turku =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Finnish Veikkausliiga Vaasa VPS 0-0 Inter Turku
+# ===== Finnish Veikkausliiga Vaasa VPS 0-1 Inter Turku =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Finnish Veikkausliiga Vaasa VPS 0-1 Inter Turku
 https://livesport.io.vn/event.php?id=sd-6MvZ6dBk3iNXZSXQ8o
 
 # ===== Danish Superliga Nordsjaelland 0-0 Randers FC =====
 #EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Danish Superliga Nordsjaelland 0-0 Randers FC
 https://livesport.io.vn/event.php?id=sd-6MwdpnsLRbMYzakNAT
 
-# ===== Switzerland Super League Vaduz 0-1 St. Gallen =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Switzerland Super League Vaduz 0-1 St. Gallen
+# ===== Switzerland Super League Vaduz 2-3 St. Gallen =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Switzerland Super League Vaduz 2-3 St. Gallen
 https://livesport.io.vn/event.php?id=sd-6Mwdq5AJzQ4YQgm77V
 
-# ===== Belarusian First League FC Gomel B 0-0 Volna Pinsk =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Belarusian First League FC Gomel B 0-0 Volna Pinsk
+# ===== Belarusian First League FC Gomel B 1-4 Volna Pinsk =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Belarusian First League FC Gomel B 1-4 Volna Pinsk
 https://livesport.io.vn/event.php?id=sd-6MwdaoQzp7C66ZR74T
 
-# ===== Norwegian 2.Divisjon Treaff 0-0 Jerv =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Norwegian 2.Divisjon Treaff 0-0 Jerv
+# ===== Norwegian 2.Divisjon Treaff 3-2 Jerv =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Norwegian 2.Divisjon Treaff 3-2 Jerv
 https://livesport.io.vn/event.php?id=sd-6MvZ6dCTsFitb2nuwV
 
-# ===== Norwegian 2.Divisjon Follo 0-0 SK Trygg Lade =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Norwegian 2.Divisjon Follo 0-0 SK Trygg Lade
+# ===== Norwegian 2.Divisjon Follo 1-2 SK Trygg Lade =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Norwegian 2.Divisjon Follo 1-2 SK Trygg Lade
 https://livesport.io.vn/event.php?id=sd-6MvZ6dDxWRm8zEe4Dd
 
-# ===== International Club Friendly 1. FC Union Berlin 0-0 Cagliari =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,International Club Friendly 1. FC Union Berlin 0-0 Cagliari
+# ===== International Club Friendly 1. FC Union Berlin 1-2 Cagliari =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,International Club Friendly 1. FC Union Berlin 1-2 Cagliari
 https://livesport.io.vn/event.php?id=sd-6MxiZdbvz6PaqheyHy
 
-# ===== Latvian 1.Liga JFK Ventspils 0-1 FK Smiltene BJSS =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Latvian 1.Liga JFK Ventspils 0-1 FK Smiltene BJSS
+# ===== Latvian 1.Liga JFK Ventspils 1-2 FK Smiltene BJSS =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Latvian 1.Liga JFK Ventspils 1-2 FK Smiltene BJSS
 https://livesport.io.vn/event.php?id=sd-6MwcqRtp9MTgYBh2r3
 
-# ===== Sweden Allsvenskan Brommapojkarna 0-0 Malmo FF =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Sweden Allsvenskan Brommapojkarna 0-0 Malmo FF
+# ===== Sweden Allsvenskan Brommapojkarna 1-2 Malmo FF =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Sweden Allsvenskan Brommapojkarna 1-2 Malmo FF
 https://livesport.io.vn/event.php?id=sd-6MvZ6ENmzPzHk7tifh
 
-# ===== Danish Superliga Midtjylland 0-0 AC Horsens =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Danish Superliga Midtjylland 0-0 AC Horsens
+# ===== Danish Superliga Midtjylland 2-1 AC Horsens =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Danish Superliga Midtjylland 2-1 AC Horsens
 https://livesport.io.vn/event.php?id=sd-6MwdpnsLRdZ2s4aHKM
 
-# ===== Sweden Allsvenskan IFK Goteborg 0-0 Degerfors IF =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Sweden Allsvenskan IFK Goteborg 0-0 Degerfors IF
+# ===== Sweden Allsvenskan IFK Goteborg 1-0 Degerfors IF =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Sweden Allsvenskan IFK Goteborg 1-0 Degerfors IF
 https://livesport.io.vn/event.php?id=sd-6MvZ6ENmzYnDE3CPHH
 
-# ===== International Club Friendly AEK Athens 1-0 Sint-Truidense =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,International Club Friendly AEK Athens 1-0 Sint-Truidense
+# ===== International Club Friendly AEK Athens 3-0 Sint-Truidense =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,International Club Friendly AEK Athens 3-0 Sint-Truidense
 https://livesport.io.vn/event.php?id=sd-6MxiZaHDopASHpBQDD
 
-# ===== Norwegian Women's 1.Divisjon Frigg (w) 0-0 Kolbotn Women =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Norwegian Women's 1.Divisjon Frigg (w) 0-0 Kolbotn Women
+# ===== Norwegian Women's 1.Divisjon Frigg (w) 2-3 Kolbotn Women =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Norwegian Women's 1.Divisjon Frigg (w) 2-3 Kolbotn Women
 https://livesport.io.vn/event.php?id=sd-6MwcqbeJuES2yMBKvf
 
-# ===== Russian First League Arsenal Tula 0-0 Torpedo Moscow =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Russian First League Arsenal Tula 0-0 Torpedo Moscow
+# ===== Russian First League Arsenal Tula 1-0 Torpedo Moscow =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Russian First League Arsenal Tula 1-0 Torpedo Moscow
 https://livesport.io.vn/event.php?id=sd-6MweKqWcNSbUbGSFVR
 
-# ===== Chinese Super League Shenzhen Peng City 0-0 Chongqing Tonglianglong =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Chinese Super League Shenzhen Peng City 0-0 Chongqing Tonglianglong
+# ===== Chinese Super League Shenzhen Peng City 2-0 Chongqing Tonglianglong =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Chinese Super League Shenzhen Peng City 2-0 Chongqing Tonglianglong
 https://livesport.io.vn/event.php?id=sd-6MvVNtUSvxJae5erVV
 
-# ===== Foshan Xijia Football League Yuecheng FC 1-1 Suya Weiyutang FC =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Foshan Xijia Football League Yuecheng FC 1-1 Suya Weiyutang FC
-https://livesport.io.vn/event.php?id=sd-6MxiZgoy7ZW5sLHjq9
+# ===== Georgia Cup Guria Lanchkhuti 1-0 Aragvi Dusheti =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Georgia Cup Guria Lanchkhuti 1-0 Aragvi Dusheti
+https://livesport.io.vn/event.php?id=sd-6MxiZdYFDYxUNtrczs
 
-# ===== Foshan Xijia Football League Shenzhen Saizhuo 1-1 Hong Kong Hongsheng International =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Foshan Xijia Football League Shenzhen Saizhuo 1-1 Hong Kong Hongsheng International
-https://livesport.io.vn/event.php?id=sd-6MxiZgoy7bhZjp7ez3
+# ===== Ukrainian Premier League FK Epitsentr Dunayivtsi 0-0 Obolon Kyiv =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Ukrainian Premier League FK Epitsentr Dunayivtsi 0-0 Obolon Kyiv
+https://livesport.io.vn/event.php?id=sd-6MweaW1wVbKyC5B41d
 
-# ===== Foshan Xijia Football League Zhanjiang Redian 8-2 Guangzhou Rockgoal =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Foshan Xijia Football League Zhanjiang Redian 8-2 Guangzhou Rockgoal
-https://livesport.io.vn/event.php?id=sd-6MxiZgoy86Gp43rZyh
+# ===== International Club Friendly FC Utrecht 0-1 Sevilla FC =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,International Club Friendly FC Utrecht 0-1 Sevilla FC
+https://livesport.io.vn/event.php?id=sd-6MxiZdcfyWFZeYYppP
 
-# ===== Shandong Qilu Football Super League Jinan Team 1-0 Weihai Team =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Shandong Qilu Football Super League Jinan Team 1-0 Weihai Team
-https://livesport.io.vn/event.php?id=sd-6MwdayByYtHMtNLwVh
+# ===== Poland Liga 1 Ruch Chorzow 0-0 Miedz Legnica =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Poland Liga 1 Ruch Chorzow 0-0 Miedz Legnica
+https://livesport.io.vn/event.php?id=sd-6Mwea7A1pwbNeXnAfR
 
-# ===== Inner Mongolia Football Super League Hohhot Team 0-0 Tongliao Team =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Inner Mongolia Football Super League Hohhot Team 0-0 Tongliao Team
-https://livesport.io.vn/event.php?id=sd-6MxiZgoyHe9uNx3Wdd
+# ===== Poland Liga 2 Rekord Bielsko-Biala 2-0 Zawisza Bydgoszcz SA =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Poland Liga 2 Rekord Bielsko-Biala 2-0 Zawisza Bydgoszcz SA
+https://livesport.io.vn/event.php?id=sd-6Mwb79N8RkDujqZ1TV
 
-# ===== Hunan Football League Zhuzhou Team 0-0 Chenzhou Team =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Hunan Football League Zhuzhou Team 0-0 Chenzhou Team
-https://livesport.io.vn/event.php?id=sd-6MwarbNmxZc7dg9Bxs
+# ===== International Club Friendly Volendam 0-2 AFC Ajax =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,International Club Friendly Volendam 0-2 AFC Ajax
+https://livesport.io.vn/event.php?id=sd-6MxiZdYDYvD91WBhrf_md
 
-# ===== Hunan Football League Hengyang Team 0-0 Changde Team =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Hunan Football League Hengyang Team 0-0 Changde Team
-https://livesport.io.vn/event.php?id=sd-6MwarbNnTw1X9VQRqh
+# ===== Romanian Liga II CSA Steaua Bucuresti 0-1 CSM Slatina =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Romanian Liga II CSA Steaua Bucuresti 0-1 CSM Slatina
+https://livesport.io.vn/event.php?id=sd-6Mwarm9344zFFugsAP
 
-# ===== Guizhou Ziyun "Wufeng Cup" Football Tournament Hongyan Village Ⅰ 0-0 Tuanpo Village =====
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Guizhou Ziyun "Wufeng Cup" Football Tournament Hongyan Village Ⅰ 0-0 Tuanpo Village
-https://livesport.io.vn/event.php?id=sd-6MxiZdbuebbuzbBrcX
+# ===== Norwegian 2.Divisjon Sotra 3-0 FK Arendal =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Norwegian 2.Divisjon Sotra 3-0 FK Arendal
+https://livesport.io.vn/event.php?id=sd-6MvZ6dCTs98SybKAUo
+
+# ===== RUS D3B FC Izhevsk 2-1 Rubin Kazan-2 =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,RUS D3B FC Izhevsk 2-1 Rubin Kazan-2
+https://livesport.io.vn/event.php?id=sd-6MwdaX8ma3J9Mydbs5
+
+# ===== Norwegian Women's 1.Divisjon FK Fyllingsdalen Women 1-2 Aasane Women =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Norwegian Women's 1.Divisjon FK Fyllingsdalen Women 1-2 Aasane Women
+https://livesport.io.vn/event.php?id=sd-6MwcqbeJ54rHma9Xy9
+
+# ===== Scottish Premiership Saint Johnstone 1-1 Kilmarnock =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Scottish Premiership Saint Johnstone 1-1 Kilmarnock
+https://livesport.io.vn/event.php?id=sd-6Mwdq1taG59GEYzXi7
+
+# ===== Russian First League Volga Ulyanovsk 0-2 FK Chelyabinsk =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Russian First League Volga Ulyanovsk 0-2 FK Chelyabinsk
+https://livesport.io.vn/event.php?id=sd-6MweKqWbXu2vgh9Hzw
+
+# ===== International Club Friendly Feyenoord 1-0 Atalanta =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,International Club Friendly Feyenoord 1-0 Atalanta
+https://livesport.io.vn/event.php?id=sd-6MxiZdbvz4C6yDq495_md
+
+# ===== Norwegian 2.Divisjon Kjelsas 3-1 Levanger FK =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Norwegian 2.Divisjon Kjelsas 3-1 Levanger FK
+https://livesport.io.vn/event.php?id=sd-6MvZ6dDxWPZf7kp94j
+
+# ===== Sweden Division 1 AFC Eskilstuna 0-0 Umea FC =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Sweden Division 1 AFC Eskilstuna 0-0 Umea FC
+https://livesport.io.vn/event.php?id=sd-6MvYqxkr1MJwnj5Gfh
+
+# ===== RUS D3B Luki Energiya 1-0 Chertanovo Moscow =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,RUS D3B Luki Energiya 1-0 Chertanovo Moscow
+https://livesport.io.vn/event.php?id=sd-6MwdaaUBtuPgEG6b4s
+
+# ===== Russian Premier League FC Orenburg 0-1 Zenit St. Petersburg =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Russian Premier League FC Orenburg 0-1 Zenit St. Petersburg
+https://livesport.io.vn/event.php?id=sd-6MweaLBFppUFjUucFR
+
+# ===== Austrian Frauen Bundesliga First Vienna Women 1-1 Rapid Vienna (W) =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Austrian Frauen Bundesliga First Vienna Women 1-1 Rapid Vienna (W)
+https://livesport.io.vn/event.php?id=sd-6MxiZk3UPgkoJsgRTd
+
+# ===== Brazilian Sao Paulo Cup Santo Andre 1-0 Esporte Clube Sao Jose SP =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Brazilian Sao Paulo Cup Santo Andre 1-0 Esporte Clube Sao Jose SP
+https://livesport.io.vn/event.php?id=sd-6Mwe5WZyXggSZ4xHZy
+
+# ===== RUS D3A Alania Vladikavkaz 0-0 Volgar-Gazprom Astrachan =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,RUS D3A Alania Vladikavkaz 0-0 Volgar-Gazprom Astrachan
+https://livesport.io.vn/event.php?id=sd-6Mwb6vHwerNLcMzpZV
+
+# ===== Hungary Fizz Liga Ujpest FC 0-1 Debreceni VSC =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Hungary Fizz Liga Ujpest FC 0-1 Debreceni VSC
+https://livesport.io.vn/event.php?id=sd-6MweaZJR3HetXuudHq
+
+# ===== RUS D3A Mashuk-KMV Pyatigorsk 1-1 Sokol Saratov =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,RUS D3A Mashuk-KMV Pyatigorsk 1-1 Sokol Saratov
+https://livesport.io.vn/event.php?id=sd-6Mwb6vHwVR5gtuHdNF
+
+# ===== Foshan Xijia Football League Jitu Shengshi Youth 0-2 De Jing Football Club =====
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Foshan Xijia Football League Jitu Shengshi Youth 0-2 De Jing Football Club
+https://livesport.io.vn/event.php?id=sd-6MxiZgoxHS7pY35s2X
 
