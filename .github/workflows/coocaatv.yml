@@ -1,0 +1,51 @@
+name: Update CoocaaTV M3U
+
+on:
+  schedule:
+    - cron: "*/1 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download M3U
+        run: |
+          curl -L \
+            -H 'User-Agent: OTT Navigator/1.7.4.1 (Linux;Android 9; vi; tc3fcx)' \
+            -H 'Connection: keep-alive' \
+            -H 'Accept: */*' \
+            -H 'Accept-Encoding: gzip' \
+            'https://coocaatv.dpdns.org/xem-tv' \
+            -o coocaatv.m3u
+
+      - name: Check M3U
+        run: |
+          if grep -q '^#EXTM3U' coocaatv.m3u; then
+            echo "M3U hợp lệ."
+          else
+            echo "Không tìm thấy #EXTM3U."
+            head -20 coocaatv.m3u
+            exit 1
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add coocaatv.m3u
+
+          if git diff --cached --quiet; then
+            echo "Không có thay đổi."
+          else
+            git commit -m "Update CoocaaTV M3U"
+            git push
+          fi
