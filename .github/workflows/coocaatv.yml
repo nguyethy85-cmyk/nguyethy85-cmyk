@@ -2,7 +2,7 @@ name: Update CoocaaTV M3U
 
 on:
   schedule:
-    - cron: "*/1 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,9 +16,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Download M3U
+      - name: Download and decompress M3U
         run: |
-          curl -L \
+          curl -L --compressed \
             -H 'User-Agent: OTT Navigator/1.7.4.1 (Linux;Android 9; vi; tc3fcx)' \
             -H 'Connection: keep-alive' \
             -H 'Accept: */*' \
@@ -28,10 +28,15 @@ jobs:
 
       - name: Check M3U
         run: |
+          echo "Checking M3U..."
+
           if grep -q '^#EXTM3U' coocaatv.m3u; then
             echo "M3U hợp lệ."
+            echo "Số channel:"
+            grep -c '^#EXTINF:' coocaatv.m3u || true
           else
             echo "Không tìm thấy #EXTM3U."
+            echo "Response đầu tiên:"
             head -20 coocaatv.m3u
             exit 1
           fi
