@@ -1,0 +1,52 @@
+name: Update M3U
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download M3U
+        run: |
+          curl -L --fail --compressed \
+            -A "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" \
+            -H "Connection: keep-alive" \
+            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7" \
+            -H "Accept-Encoding: gzip, deflate" \
+            -H "Upgrade-Insecure-Requests: 1" \
+            -H "Accept-Language: vi,fr-FR;q=0.9,fr;q=0.8,en-US;q=0.7,en;q=0.6,da;q=0.5" \
+            "https://tinhlagi.pro/tv.m3u" \
+            -o tinhlagi.m3u
+
+      - name: Check M3U
+        run: |
+          if [ ! -s tinhlagi.m3u ]; then
+            echo "❌ tinhlagi.m3u is empty"
+            exit 1
+          fi
+
+          echo "✅ M3U downloaded successfully"
+          wc -l tinhlagi.m3u
+          head -n 5 tinhlagi.m3u
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add tv.m3u
+
+          git diff --cached --quiet || \
+            git commit -m "Update M3U playlist"
+
+          git push
