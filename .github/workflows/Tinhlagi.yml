@@ -1,4 +1,4 @@
-name: Update M3U
+name: Update Tinhlagi
 
 on:
   schedule:
@@ -44,9 +44,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add tv.m3u
+          git add tinhlagi.m3u
 
           git diff --cached --quiet || \
-            git commit -m "Update M3U playlist"
+            git commit -m "Update Tinhlagi playlist"
 
           git push
