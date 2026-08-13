@@ -23,7 +23,7 @@ jobs:
             -H 'Connection: keep-alive' \
             -H 'Accept: */*' \
             -H 'Accept-Encoding: gzip' \
-            'https://livesport.io.vn/link/list.php' \
+            'https://livesport.io.vn/ott/list.php' \
             -o livesport.m3u
 
       - name: Check M3U
