@@ -4,8 +4,8 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 15/08/2026 01:01:07
-# Channels     : 134
+# Updated      : 15/08/2026 03:16:34
+# Channels     : 142
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
 # ======================================
@@ -13,10 +13,10 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 134
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 142
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 15/08/2026 01:01:07
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 15/08/2026 03:16:34
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn1.png" group-title="UK SPORTS" ,TNT SPORTS 1
@@ -398,63 +398,87 @@ https://livesport.io.vn/ottlink/smart.php?id=west
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-world-202.png" group-title="CANADA SPORTS" ,SPORTSNET WORLD
 https://livesport.io.vn/ottlink/smart.php?id=world
 
-#EXTINF:-1 tvg-id="sd-6MweLB7WT3hLKESeL7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Armenian Premier League Gandzasar Kapan 0-1 Shirak
-https://livesport.io.vn/event.php?id=sd-6MweLB7WT3hLKESeL7
+#EXTINF:-1 tvg-id="sd-6Mwb6hGgf53DeLX4bZ" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Turkish Super League Galatasaray 1-2 Corum FK
+https://livesport.io.vn/event.php?id=sd-6Mwb6hGgf53DeLX4bZ
 
-#EXTINF:-1 tvg-id="sd-6MweaAUiAkew2occZV" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Austrian 2.Liga FC HOGO Hertha Wels 1-1 SK Rapid II
-https://livesport.io.vn/event.php?id=sd-6MweaAUiAkew2occZV
+#EXTINF:-1 tvg-id="sd-6MwdqQjm7KGjjubW2b" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Belgian Pro League Cercle Brugge 1-3 Sint-Truidense
+https://livesport.io.vn/event.php?id=sd-6MwdqQjm7KGjjubW2b
 
-#EXTINF:-1 tvg-id="sd-6MweaDiEGfWayKmvcX_md" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,German Bundesliga 2 Eintracht Braunschweig 0-1 VfL Bochum 1848
-https://livesport.io.vn/event.php?id=sd-6MweaDiEGfWayKmvcX_md
+#EXTINF:-1 tvg-id="sd-6MweaAUhLAtuFkVjv7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Austrian 2.Liga SKN St.Polten 0-0 FC Blau Weiss Linz
+https://livesport.io.vn/event.php?id=sd-6MweaAUhLAtuFkVjv7
 
-#EXTINF:-1 tvg-id="sd-6MweKqWbMjz9S7jgtf" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Russian First League Rotor Volgograd 1-1 Ural Yekaterinburg
-https://livesport.io.vn/event.php?id=sd-6MweKqWbMjz9S7jgtf
+#EXTINF:-1 tvg-id="sd-6MweaATECVuBUKDep7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Romanian Super Liga Arges 1-1 Farul Constanta
+https://livesport.io.vn/event.php?id=sd-6MweaATECVuBUKDep7
 
-#EXTINF:-1 tvg-id="sd-6MweaDiDGsenhguMhH_md" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,German Bundesliga 2 Holstein Kiel 1-2 FC St. Pauli
-https://livesport.io.vn/event.php?id=sd-6MweaDiDGsenhguMhH_md
+#EXTINF:-1 tvg-id="sd-6MwdqMQLciJiCKozQP" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,PKO Bank Polski EKSTRAKLASA Legia Warszawa 5-0 Radomiak Radom
+https://livesport.io.vn/event.php?id=sd-6MwdqMQLciJiCKozQP
 
-#EXTINF:-1 tvg-id="sd-6MxiKC4s5PV7bVhZqZ" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Coppa Italia Cagliari 1-0 Arezzo
-https://livesport.io.vn/event.php?id=sd-6MxiKC4s5PV7bVhZqZ
+#EXTINF:-1 tvg-id="sd-6Mwb6an9nwMFFhZocT" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Turkish First League Erokspor 0-0 Sariyer
+https://livesport.io.vn/event.php?id=sd-6Mwb6an9nwMFFhZocT
 
-#EXTINF:-1 tvg-id="sd-6MxiZgrBaW5aX1MtqM" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,United Arab Emirates Adnoc Pro-League Al Wahda(UAE) 0-2 Ajman
-https://livesport.io.vn/event.php?id=sd-6MxiZgrBaW5aX1MtqM
+#EXTINF:-1 tvg-id="sd-6MweaAR2EtXcTyapXq" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Spanish Segunda Division Real Sociedad B 0-1 Castellon
+https://livesport.io.vn/event.php?id=sd-6MweaAR2EtXcTyapXq
 
-#EXTINF:-1 tvg-id="sd-6MwarmByq3mTRxHhKV" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Saudi Pro League Neom SC 2-0 Al Fayha
-https://livesport.io.vn/event.php?id=sd-6MwarmByq3mTRxHhKV
+#EXTINF:-1 tvg-id="sd-6MxiKJdp1RFGJg7MWX" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,International Club Friendly Atalanta 1-0 Athletic Club
+https://livesport.io.vn/event.php?id=sd-6MxiKJdp1RFGJg7MWX
 
-#EXTINF:-1 tvg-id="sd-6MweKtkrHvzyRrgzW3" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Danish 2nd Division Skive IK 0-0 Fremad Amager
-https://livesport.io.vn/event.php?id=sd-6MweKtkrHvzyRrgzW3
+#EXTINF:-1 tvg-id="sd-6Mwdpnoe9z6syoJ7Dh" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,French Ligue 2 Nancy 0-1 Montpellier Hérault SC
+https://livesport.io.vn/event.php?id=sd-6Mwdpnoe9z6syoJ7Dh
 
-#EXTINF:-1 tvg-id="sd-6MvZ6ZxCmFScB2sFbu" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Sweden Superettan Landskrona BoIS 0-1 IK Oddevold
-https://livesport.io.vn/event.php?id=sd-6MvZ6ZxCmFScB2sFbu
+#EXTINF:-1 tvg-id="sd-6MxiKJg3oZ2aqd3Hy1" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Ireland FAI Cup Waterford United 2-1 Athlone Town
+https://livesport.io.vn/event.php?id=sd-6MxiKJg3oZ2aqd3Hy1
 
-#EXTINF:-1 tvg-id="sd-6MweKnEroJjHRCbJXH" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Austrian Frauen Bundesliga Austria Wien Women 0-0 LASK Linz (W)
-https://livesport.io.vn/event.php?id=sd-6MweKnEroJjHRCbJXH
+#EXTINF:-1 tvg-id="sd-6MwdpnoeAUg8J332DM" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,French Ligue 2 FC Annecy 1-0 Rodez Aveyron
+https://livesport.io.vn/event.php?id=sd-6MwdpnoeAUg8J332DM
 
-#EXTINF:-1 tvg-id="sd-6MxiKCA49GHMtdGusd" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Argentine Women's League Racing Club Women 1-0 CA Talleres de Cordoba Women
-https://livesport.io.vn/event.php?id=sd-6MxiKCA49GHMtdGusd
+#EXTINF:-1 tvg-id="sd-6Mwdpnodzb1i8pQqBM" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,French Ligue 2 Stade DE Reims 3-1 USL Dunkerque
+https://livesport.io.vn/event.php?id=sd-6Mwdpnodzb1i8pQqBM
 
-#EXTINF:-1 tvg-id="sd-6MweaAPYbU9gTvnL23" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Austrian Bundesliga LASK Linz 3-1 SV Ried
-https://livesport.io.vn/event.php?id=sd-6MweaAPYbU9gTvnL23
+#EXTINF:-1 tvg-id="sd-6MxiKJg3p5oK2Lc87Z" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Ireland FAI Cup UC Dublin 1-2 Derry City
+https://livesport.io.vn/event.php?id=sd-6MxiKJg3p5oK2Lc87Z
 
-#EXTINF:-1 tvg-id="sd-6Mwea7CxwKicSDNDMZ" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Slovenia 2.Liga Tabor Sezana 0-0 Triglav Gorenjska
-https://livesport.io.vn/event.php?id=sd-6Mwea7CxwKicSDNDMZ
+#EXTINF:-1 tvg-id="sd-6MwdpnodzdDC1JEkLF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,French Ligue 2 Red Star FC 93 0-0 Sochaux
+https://livesport.io.vn/event.php?id=sd-6MwdpnodzdDC1JEkLF
 
-#EXTINF:-1 tvg-id="sd-6MxiKJdpqtQrUHkUhD" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Brazilian Campeonato Paulista Youth Jabaquara SP U20 0-0 Corinthians Paulista Youth
-https://livesport.io.vn/event.php?id=sd-6MxiKJdpqtQrUHkUhD
+#EXTINF:-1 tvg-id="sd-6MwdpnoeA2JMrH82Nb" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,French Ligue 2 Stade Lavallois MFC 1-1 FC Nantes
+https://livesport.io.vn/event.php?id=sd-6MwdpnoeA2JMrH82Nb
 
-#EXTINF:-1 tvg-id="sd-6Mwb6kcrybEJ2rfU5m" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Bosnia and Herzegovina Premier League NK Celik Zenica 0-0 NK Siroki Brijeg
-https://livesport.io.vn/event.php?id=sd-6Mwb6kcrybEJ2rfU5m
+#EXTINF:-1 tvg-id="sd-6MxiZk9PwgQadzYDT5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Scottish League Cup Kilmarnock F.C. 1-2 Ayr United
+https://livesport.io.vn/event.php?id=sd-6MxiZk9PwgQadzYDT5
 
-#EXTINF:-1 tvg-id="sd-6Mwdpr4dk9SBJGL8fZ" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Netherlands Eredivisie SC Telstar 0-0 Sparta Rotterdam
-https://livesport.io.vn/event.php?id=sd-6Mwdpr4dk9SBJGL8fZ
+#EXTINF:-1 tvg-id="sd-6MwdpnoeAZ562zgrX9" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,French Ligue 2 Grenoble 0-0 Metz
+https://livesport.io.vn/event.php?id=sd-6MwdpnoeAZ562zgrX9
 
-#EXTINF:-1 tvg-id="sd-6Mwea3sXSFL8xMqe3y" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Belgian Challenger Pro League RFC Seraing 0-0 KSC Lokeren
-https://livesport.io.vn/event.php?id=sd-6Mwea3sXSFL8xMqe3y
+#EXTINF:-1 tvg-id="sd-6MwdpnoeASUeRZD74T" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,French Ligue 2 Dijon 0-1 Pau FC
+https://livesport.io.vn/event.php?id=sd-6MwdpnoeASUeRZD74T
 
-#EXTINF:-1 tvg-id="sd-6Mwea3sXS8jhLvMtbH" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Belgian Challenger Pro League Kermt Hasselt 0-0 FCV Dender EH
-https://livesport.io.vn/event.php?id=sd-6Mwea3sXS8jhLvMtbH
+#EXTINF:-1 tvg-id="sd-6MwdpnoeAWscAWrwNF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,French Ligue 2 Guingamp 0-0 Boulogne
+https://livesport.io.vn/event.php?id=sd-6MwdpnoeAWscAWrwNF
 
-#EXTINF:-1 tvg-id="sd-6MwarmByqAMu3PmSnB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Saudi Pro League Al Ettifaq 0-0 Al Riyadh
-https://livesport.io.vn/event.php?id=sd-6MwarmByqAMu3PmSnB
+#EXTINF:-1 tvg-id="sd-6MxiKJg3obE4i6sD7u" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Ireland FAI Cup Galway United FC 0-0 Bray Wanderers
+https://livesport.io.vn/event.php?id=sd-6MxiKJg3obE4i6sD7u
+
+#EXTINF:-1 tvg-id="sd-6MweaLCjoE1vmtcEcP" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Coppa Italia Monza 4-0 Avellino
+https://livesport.io.vn/event.php?id=sd-6MweaLCjoE1vmtcEcP
+
+#EXTINF:-1 tvg-id="sd-6Mwdpnodzhc9kFtae3" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,French Ligue 2 AS Saint-Étienne 2-0 Clermont
+https://livesport.io.vn/event.php?id=sd-6Mwdpnodzhc9kFtae3
+
+#EXTINF:-1 tvg-id="sd-6Mwea79zpYZtTDgwHq" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Poland Liga 1 Ruch Chorzow 0-0 Lechia Gdansk
+https://livesport.io.vn/event.php?id=sd-6Mwea79zpYZtTDgwHq
+
+#EXTINF:-1 tvg-id="sd-6MweZwRFNx2pFpWt87_md" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,English Football League Championship Wolverhampton Wanderers 1-2 Blackburn Rovers
+https://livesport.io.vn/event.php?id=sd-6MweZwRFNx2pFpWt87_md
+
+#EXTINF:-1 tvg-id="sd-6MxiKFMLTm7pqKChPD" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Bolivian Primera Division Universitario De Vinto 0-0 Real Tomayapo
+https://livesport.io.vn/event.php?id=sd-6MxiKFMLTm7pqKChPD
+
+#EXTINF:-1 tvg-id="sd-6MxiKJdqBHkt5vjhEF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Portuguese Liga 3 UD Santarem 0-0 Oliveirense
+https://livesport.io.vn/event.php?id=sd-6MxiKJdqBHkt5vjhEF
+
+#EXTINF:-1 tvg-id="sd-6Mwdpxf5Kh1uEy2Jzj" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Peruvian Liga 1 Atletico Grau 0-0 Comerciantes Unidos
+https://livesport.io.vn/event.php?id=sd-6Mwdpxf5Kh1uEy2Jzj
+
+#EXTINF:-1 tvg-id="sd-6MxiKJdprRBaf1KJqm" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Brazilian Campeonato Paulista Youth Itapirense Youth 0-0 Santos Youth
+https://livesport.io.vn/event.php?id=sd-6MxiKJdprRBaf1KJqm
 
