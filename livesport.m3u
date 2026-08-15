@@ -4,8 +4,8 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 15/08/2026 13:32:23
-# Channels     : 128
+# Updated      : 15/08/2026 14:08:25
+# Channels     : 130
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
 # ======================================
@@ -13,10 +13,10 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 128
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 130
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 15/08/2026 13:32:23
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 15/08/2026 14:08:25
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn1.png" group-title="UK SPORTS" ,TNT SPORTS 1
@@ -398,45 +398,51 @@ https://livesport.io.vn/ottlink/smart.php?id=west
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-world-202.png" group-title="CANADA SPORTS" ,SPORTSNET WORLD
 https://livesport.io.vn/ottlink/smart.php?id=world
 
-#EXTINF:-1 tvg-id="sd-6MvVNtRUyqdPbReGYP" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia National Premier Leagues Capital Football 1 OConnor Knights 2-0 Canberra White Eagles
-https://livesport.io.vn/event.php?id=sd-6MvVNtRUyqdPbReGYP
+#EXTINF:-1 tvg-id="sd-6MxiKCBXHmdepcjAMM" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia Capital Territory U23 League Monaro Panthers U23 2-6 Canberra Croatia FC U23
+https://livesport.io.vn/event.php?id=sd-6MxiKCBXHmdepcjAMM
 
-#EXTINF:-1 tvg-id="sd-6MwcqYM7Nds4dR7sxK" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Western Australia Women's League NTC Football West Women 1-1 Perth SC Women
-https://livesport.io.vn/event.php?id=sd-6MwcqYM7Nds4dR7sxK
+#EXTINF:-1 tvg-id="sd-6MwdLFT8er4SFtAsvX" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia Victorian Women's Premier League South Melbourne Women 0-1 Keilor Park (w)
+https://livesport.io.vn/event.php?id=sd-6MwdLFT8er4SFtAsvX
 
-#EXTINF:-1 tvg-id="sd-6MvYquStKAnXtrtJE3" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,National Premier Leagues Victoria Melbourne City NPL 0-2 South Melbourne
-https://livesport.io.vn/event.php?id=sd-6MvYquStKAnXtrtJE3
-
-#EXTINF:-1 tvg-id="sd-6MvVNtRUyspsTuUBhH" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia National Premier Leagues Capital Football 1 Brindabella Blues FC 1-4 Cooma Tigers
-https://livesport.io.vn/event.php?id=sd-6MvVNtRUyspsTuUBhH
-
-#EXTINF:-1 tvg-id="sd-6MvYqdCsMtRJZNmLvb" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia New South Wales Premier League Western Sydney Wanderers Youth 0-2 St George Saints
-https://livesport.io.vn/event.php?id=sd-6MvYqdCsMtRJZNmLvb
-
-#EXTINF:-1 tvg-id="sd-6MvYquStK1zcQwadcT" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,National Premier Leagues Victoria Heidelberg United 3-3 Hume City
-https://livesport.io.vn/event.php?id=sd-6MvYquStK1zcQwadcT
-
-#EXTINF:-1 tvg-id="sd-6MweKqWbMhnfZdumjm" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Russian First League SKA Khabarovsk 1-0 Veles Moscow
-https://livesport.io.vn/event.php?id=sd-6MweKqWbMhnfZdumjm
+#EXTINF:-1 tvg-id="sd-6MxiKCBX7qmknvH4AT" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,South Australia Women's Premier League Adelaide Comets Women 1-1 Campbelltown City (w)
+https://livesport.io.vn/event.php?id=sd-6MxiKCBX7qmknvH4AT
 
 #EXTINF:-1 tvg-id="sd-6MxiKJg2UKdH5sMbMq" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,New Zealand Cup Fencibles United 2-0 Nelson Suburbs
 https://livesport.io.vn/event.php?id=sd-6MxiKJg2UKdH5sMbMq
 
-#EXTINF:-1 tvg-id="sd-6MvYqdC738ZaPLi3LK" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia New South Wales Premier League APIA Leichhardt Tigers 0-0 SD Raiders FC
-https://livesport.io.vn/event.php?id=sd-6MvYqdC738ZaPLi3LK
-
-#EXTINF:-1 tvg-id="sd-6MvYMUhYC48imob6md" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia Queensland State League 1 Capalaba Bulldogs 1-0 Robina City
-https://livesport.io.vn/event.php?id=sd-6MvYMUhYC48imob6md
-
-#EXTINF:-1 tvg-id="sd-6MvYMUhXMvkTSWPDy1" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia Queensland State League 1 St George Willawong FC 0-0 Sunshine Coast Wanderers FC
-https://livesport.io.vn/event.php?id=sd-6MvYMUhXMvkTSWPDy1
-
-#EXTINF:-1 tvg-id="sd-6MvYMUhXMrMVhYjPfD" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia Queensland State League 1 North Star 1-0 Caboolture FC
+#EXTINF:-1 tvg-id="sd-6MvYMUhXMrMVhYjPfD" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia Queensland State League 1 North Star 2-1 Caboolture FC
 https://livesport.io.vn/event.php?id=sd-6MvYMUhXMrMVhYjPfD
 
-#EXTINF:-1 tvg-id="sd-6MvYMUhYC1wEuKmBcj" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia Queensland State League 1 Holland Park Hawks FC 0-1 Brisbane Strikers
-https://livesport.io.vn/event.php?id=sd-6MvYMUhYC1wEuKmBcj
+#EXTINF:-1 tvg-id="sd-6MxiKC77Cd2cnF1Pbu" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia Tasmania National Premier League Launceston City 0-0 Hobart Zebras
+https://livesport.io.vn/event.php?id=sd-6MxiKC77Cd2cnF1Pbu
 
-#EXTINF:-1 tvg-id="sd-6MvYMUhYCYhy63L1mH" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia Queensland State League 1 Broadbeach United 0-0 Ipswich City
-https://livesport.io.vn/event.php?id=sd-6MvYMUhYCYhy63L1mH
+#EXTINF:-1 tvg-id="sd-6MvVNc73HKjCXQXXLT" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Western Australia National Premier Leagues Armadale SC 0-0 Dianella White Eagles
+https://livesport.io.vn/event.php?id=sd-6MvVNc73HKjCXQXXLT
+
+#EXTINF:-1 tvg-id="sd-6MvVcvzhL7peeY6cb9" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australian Welsh League Inter Lions 0-0 Bankstown City Lions
+https://livesport.io.vn/event.php?id=sd-6MvVcvzhL7peeY6cb9
+
+#EXTINF:-1 tvg-id="sd-6Mwd633yd1t3CdDMsV" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Western Australia State League 1 UWA-Nedlands FC 0-0 Subiaco AFC
+https://livesport.io.vn/event.php?id=sd-6Mwd633yd1t3CdDMsV
+
+#EXTINF:-1 tvg-id="sd-6MvVNc73GsMS5ecXVh" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Western Australia National Premier Leagues Western Knights 0-0 Balcatta FC
+https://livesport.io.vn/event.php?id=sd-6MvVNc73GsMS5ecXVh
+
+#EXTINF:-1 tvg-id="sd-6MvVNc73HQ8AGNBMeF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Western Australia National Premier Leagues Perth SC 1-0 Perth RedStar
+https://livesport.io.vn/event.php?id=sd-6MvVNc73HQ8AGNBMeF
+
+#EXTINF:-1 tvg-id="sd-6MvVNc73HHXievhcBZ" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Western Australia National Premier Leagues Olympic Kingsway SC 0-0 Sorrento F.C.
+https://livesport.io.vn/event.php?id=sd-6MvVNc73HHXievhcBZ
+
+#EXTINF:-1 tvg-id="sd-6MvVNc73HMvgPtMSVM" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Western Australia National Premier Leagues Perth Glory Youth 0-0 Fremantle City
+https://livesport.io.vn/event.php?id=sd-6MvVNc73HMvgPtMSVM
+
+#EXTINF:-1 tvg-id="sd-6Mwd633yd45X573H2P" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Western Australia State League 1 Floreat Athena 0-0 Mandurah City
+https://livesport.io.vn/event.php?id=sd-6Mwd633yd45X573H2P
+
+#EXTINF:-1 tvg-id="sd-6MvYqdC72uNhATkYQw" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia New South Wales Premier League Sydney Olympic 0-0 Sydney United 58 FC
+https://livesport.io.vn/event.php?id=sd-6MvYqdC72uNhATkYQw
+
+#EXTINF:-1 tvg-id="sd-6MwcqbbNHxKqc85735" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia New South Wales Women's League UNSW FC Women 0-0 NWS Spirit Women
+https://livesport.io.vn/event.php?id=sd-6MwcqbbNHxKqc85735
 
