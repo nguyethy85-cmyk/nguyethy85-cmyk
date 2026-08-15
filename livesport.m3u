@@ -4,8 +4,8 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 16/08/2026 05:22:06
-# Channels     : 131
+# Updated      : 16/08/2026 05:42:13
+# Channels     : 133
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
 # ======================================
@@ -13,10 +13,10 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 131
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 133
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 16/08/2026 05:22:06
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 16/08/2026 05:42:13
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn1.png" group-title="UK SPORTS" ,TNT SPORTS 1
@@ -398,14 +398,11 @@ https://livesport.io.vn/ottlink/smart.php?id=west
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-world-202.png" group-title="CANADA SPORTS" ,SPORTSNET WORLD
 https://livesport.io.vn/ottlink/smart.php?id=world
 
-#EXTINF:-1 tvg-id="sd-6MwdpxeKfWfM5KywZ9" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Peruvian Liga 1 Los Chankas 0-3 FBC Melgar
-https://livesport.io.vn/event.php?id=sd-6MwdpxeKfWfM5KywZ9
-
-#EXTINF:-1 tvg-id="sd-6MxiZdbAq7bqDSk7H1" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,PER Liga Femenina Universitario de Deportes Women 1-0 FBC Melgar Women
-https://livesport.io.vn/event.php?id=sd-6MxiZdbAq7bqDSk7H1
-
-#EXTINF:-1 tvg-id="sd-6MvYqjhNYUcQh7Dh5y" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,ARG Primera Nacional Godoy Cruz Antonio Tomba 1-0 Deportivo Maipu
+#EXTINF:-1 tvg-id="sd-6MvYqjhNYUcQh7Dh5y" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,ARG Primera Nacional Godoy Cruz Antonio Tomba 1-1 Deportivo Maipu
 https://livesport.io.vn/event.php?id=sd-6MvYqjhNYUcQh7Dh5y
+
+#EXTINF:-1 tvg-id="sd-6MvVNKoHtAaCCaEjzw" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Canadian Premier League Cavalry FC 1-1 Forge FC
+https://livesport.io.vn/event.php?id=sd-6MvVNKoHtAaCCaEjzw
 
 #EXTINF:-1 tvg-id="sd-6MxiKFMLToKJho2cY7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Bolivian Primera Division Club Guabira 1-1 The Strongest
 https://livesport.io.vn/event.php?id=sd-6MxiKFMLToKJho2cY7
@@ -425,12 +422,6 @@ https://livesport.io.vn/event.php?id=sd-6MvVNfQEpJGya8r8qm
 #EXTINF:-1 tvg-id="sd-6MvYquV7cMLjVGe5VZ" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,CHI Liga de Primera Deportes Limache 1-1 Universidad de Chile
 https://livesport.io.vn/event.php?id=sd-6MvYquV7cMLjVGe5VZ
 
-#EXTINF:-1 tvg-id="sd-6MvVNKqWWmdDnayb7m" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,LigaPro Serie A  Guayaquil City 0-2 Libertad Loja
-https://livesport.io.vn/event.php?id=sd-6MvVNKqWWmdDnayb7m
-
-#EXTINF:-1 tvg-id="sd-6MwarmBFrBitJLnjnF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Mexico Liga MX Femenil Club America Women 1-1 Puebla Women
-https://livesport.io.vn/event.php?id=sd-6MwarmBFrBitJLnjnF
-
 #EXTINF:-1 tvg-id="sd-6MxiKFNpvvuDTrwuAf" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,MLS Next Pro Columbus Crew B 1-0 New York City Team B
 https://livesport.io.vn/event.php?id=sd-6MxiKFNpvvuDTrwuAf
 
@@ -440,12 +431,27 @@ https://livesport.io.vn/event.php?id=sd-6MvYqjhPPAxt5bpKC3
 #EXTINF:-1 tvg-id="sd-6MwdLb5Wi86L7cfKCT" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Argentine Division 1 Club Atlético Newell's Old Boys 0-0 Deportivo Riestra
 https://livesport.io.vn/event.php?id=sd-6MwdLb5Wi86L7cfKCT
 
-#EXTINF:-1 tvg-id="sd-6MwdLb5WsNPaUgEvdD" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Argentine Division 1 Belgrano 0-0 Independiente Rivadavia
+#EXTINF:-1 tvg-id="sd-6MwdLb5WsNPaUgEvdD" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Argentine Division 1 Belgrano 1-0 Independiente Rivadavia
 https://livesport.io.vn/event.php?id=sd-6MwdLb5WsNPaUgEvdD
 
 #EXTINF:-1 tvg-id="sd-6MvYqjhNYbCrJYhSYf" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,ARG Primera Nacional Quilmes 2-0 San Telmo
 https://livesport.io.vn/event.php?id=sd-6MvYqjhNYbCrJYhSYf
 
-#EXTINF:-1 tvg-id="sd-6MwdpnuZ3w2DVEhoD1" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Costa Rica Primera Division LD Alajuelense 0-0 Puntarenas FC
+#EXTINF:-1 tvg-id="sd-6MwdpnuZ3w2DVEhoD1" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Costa Rica Primera Division LD Alajuelense 1-1 Puntarenas FC
 https://livesport.io.vn/event.php?id=sd-6MwdpnuZ3w2DVEhoD1
+
+#EXTINF:-1 tvg-id="sd-6MxiKC5d4nCJ2Nba3h" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Uruguay Primera Division Montevideo Wanderers FC 0-0 Cerro Largo
+https://livesport.io.vn/event.php?id=sd-6MxiKC5d4nCJ2Nba3h
+
+#EXTINF:-1 tvg-id="sd-6Mwd5eJgKev2JQADZR" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Brazilian Serie C Santa Cruz PE 0-0 Maranhao
+https://livesport.io.vn/event.php?id=sd-6Mwd5eJgKev2JQADZR
+
+#EXTINF:-1 tvg-id="sd-6Mwd5eJgKYKagxgU6j" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Brazilian Serie C Brusque FC 0-0 Inter de Limeira
+https://livesport.io.vn/event.php?id=sd-6Mwd5eJgKYKagxgU6j
+
+#EXTINF:-1 tvg-id="sd-6Mwe5WZyNYydoSrRbu" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Brazilian Sao Paulo Cup Marilia Ac 0-0 Linense(BRA)
+https://livesport.io.vn/event.php?id=sd-6Mwe5WZyNYydoSrRbu
+
+#EXTINF:-1 tvg-id="sd-6MwcqNZPKEZBmXSZE7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,United States Women's National Soccer League Racing Louisville Women 0-0 Boston Legacy W
+https://livesport.io.vn/event.php?id=sd-6MwcqNZPKEZBmXSZE7
 
