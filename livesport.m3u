@@ -4,8 +4,8 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 16/08/2026 16:00:26
-# Channels     : 121
+# Updated      : 16/08/2026 17:06:45
+# Channels     : 128
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
 # ======================================
@@ -13,10 +13,10 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 121
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 128
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 16/08/2026 16:00:26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 16/08/2026 17:06:45
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn1.png" group-title="UK SPORTS" ,TNT SPORTS 1
@@ -398,24 +398,45 @@ https://livesport.io.vn/ottlink/smart.php?id=west
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-world-202.png" group-title="CANADA SPORTS" ,SPORTSNET WORLD
 https://livesport.io.vn/ottlink/smart.php?id=world
 
-#EXTINF:-1 tvg-id="sd-6MwcqYM7NiG2NNmiG7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Western Australia Women's League Balcatta Women 1-1 Fremantle City FC Women
-https://livesport.io.vn/event.php?id=sd-6MwcqYM7NiG2NNmiG7
-
-#EXTINF:-1 tvg-id="sd-6MwcqYM7NkTWErbdR1" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Western Australia Women's League Sorrento Women 1-0 UWA-Nedlands FC Women
-https://livesport.io.vn/event.php?id=sd-6MwcqYM7NkTWErbdR1
-
-#EXTINF:-1 tvg-id="sd-6MwcqbbMTs949Jh9PM" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia New South Wales Women's League Manly Utd Women 0-1 Bulls Academy Women
-https://livesport.io.vn/event.php?id=sd-6MwcqbbMTs949Jh9PM
-
-#EXTINF:-1 tvg-id="sd-6MwcqbbMTwY1tGLyh9" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Australia New South Wales Women's League WS Wanderers B (W) 1-0 University of Sydney Women
-https://livesport.io.vn/event.php?id=sd-6MwcqbbMTwY1tGLyh9
-
-#EXTINF:-1 tvg-id="sd-6MwcqYM7NDgn492oGT" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Western Australia Women's League Subiaco AFC Women 0-0 Perth RedStar Women
-https://livesport.io.vn/event.php?id=sd-6MwcqYM7NDgn492oGT
-
-#EXTINF:-1 tvg-id="sd-6MweaAUiLXiuaam48o" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Austrian 2.Liga First Vienna FC 1894 0-0 FC Liefering
+#EXTINF:-1 tvg-id="sd-6MweaAUiLXiuaam48o" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Austrian 2.Liga First Vienna FC 1894 0-2 FC Liefering
 https://livesport.io.vn/event.php?id=sd-6MweaAUiLXiuaam48o
 
-#EXTINF:-1 tvg-id="sd-6MweKnEroP8FAAF8q5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Austrian Frauen Bundesliga St. Polten Women 0-0 Altach/VorderlandWomen
+#EXTINF:-1 tvg-id="sd-6MweKnE7JuShoLhNf1" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Poland Women's Ekstraliga GKS Katowice Women 3-2 Czarni Sosnowiec Women
+https://livesport.io.vn/event.php?id=sd-6MweKnE7JuShoLhNf1
+
+#EXTINF:-1 tvg-id="sd-6MweKnEroP8FAAF8q5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Austrian Frauen Bundesliga St. Polten Women 3-0 Altach/VorderlandWomen
 https://livesport.io.vn/event.php?id=sd-6MweKnEroP8FAAF8q5
+
+#EXTINF:-1 tvg-id="sd-6MwdakAjtSwzHY2dbd" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,RUS D3B Pobeda Nizhniy Novgorod 2-1 Dinamo Barnaul
+https://livesport.io.vn/event.php?id=sd-6MwdakAjtSwzHY2dbd
+
+#EXTINF:-1 tvg-id="sd-6Mwb6vHvf2K4UFJLVM" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,RUS D3A Sibir Novosibirsk 0-0 Volgar-Gazprom Astrachan
+https://livesport.io.vn/event.php?id=sd-6Mwb6vHvf2K4UFJLVM
+
+#EXTINF:-1 tvg-id="sd-6MxiKFRn3h1FxLo7Pm" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Bhutan Premier League Ugyen Academy 0-0 Tensung FC
+https://livesport.io.vn/event.php?id=sd-6MxiKFRn3h1FxLo7Pm
+
+#EXTINF:-1 tvg-id="sd-6Mwdq8TWX7DxN4JJYX" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Japanese J3 League Ehime FC 0-0 Gainare Tottori
+https://livesport.io.vn/event.php?id=sd-6Mwdq8TWX7DxN4JJYX
+
+#EXTINF:-1 tvg-id="sd-6MwdaX8mQNpcRdxukT" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,RUS D3B Akron Togliatti-2 0-0 Krylia Sovetov-2
+https://livesport.io.vn/event.php?id=sd-6MwdaX8mQNpcRdxukT
+
+#EXTINF:-1 tvg-id="sd-6MwarUtGSurJid8seX" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Ukrainian Second League Atlet Kiev 0-0 FC Trostianets
+https://livesport.io.vn/event.php?id=sd-6MwarUtGSurJid8seX
+
+#EXTINF:-1 tvg-id="sd-6MweKnJYtVYp63rYHV" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Liga Portugal 2 Portimonense SC 0-0 Vizela
+https://livesport.io.vn/event.php?id=sd-6MweKnJYtVYp63rYHV
+
+#EXTINF:-1 tvg-id="sd-6Mxia8rTTHa5i4vaqd" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Ukrainian Youth Team Championship Kryvbas U21 0-0 FC Livyi Bereh U21
+https://livesport.io.vn/event.php?id=sd-6Mxia8rTTHa5i4vaqd
+
+#EXTINF:-1 tvg-id="sd-6Mwdq8TY2x3op9Jc6j" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Japanese J3 League Matsumoto Yamaga FC 0-0 Reilac Shiga FC
+https://livesport.io.vn/event.php?id=sd-6Mwdq8TY2x3op9Jc6j
+
+#EXTINF:-1 tvg-id="sd-6MweaW1vze6rFXztpf" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Ukrainian Premier League LNZ Cherkasy 0-0 Chornomorets Odesa
+https://livesport.io.vn/event.php?id=sd-6MweaW1vze6rFXztpf
+
+#EXTINF:-1 tvg-id="sd-6Mwdq8QZvAu5q9dL31" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Japanese J2 League Tokushima Vortis 0-0 Sagan Tosu
+https://livesport.io.vn/event.php?id=sd-6Mwdq8QZvAu5q9dL31
 
