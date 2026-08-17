@@ -4,8 +4,8 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 17/08/2026 22:26:21
-# Channels     : 133
+# Updated      : 17/08/2026 23:31:33
+# Channels     : 140
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
 # ======================================
@@ -13,10 +13,10 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 133
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 140
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 17/08/2026 22:26:21
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 17/08/2026 23:31:33
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn1.png" group-title="UK SPORTS" ,TNT SPORTS 1
@@ -176,12 +176,6 @@ https://proxy.manchesterunitedfanclubvietnam.workers.dev/ch/nova1s/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ottlink/xxx.xml
 https://proxy.manchesterunitedfanclubvietnam.workers.dev/ch/nova2s/manifest.mpd
-
-#EXTINF:-1 tvg-id="Canal+.Sport.cz" group-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Animated-Flag-Czech.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png" group-title="CZECH SPORTS" ,CANAL+SPORT 1
-https://livesport.io.vn/ottlink/nova.php?id=canal1
-
-#EXTINF:-1 tvg-id="Canal+.Sport.2.cz" group-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Animated-Flag-Czech.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-sport-2-707.png" group-title="CZECH SPORTS" ,CANAL+SPORT 2
-https://livesport.io.vn/ottlink/nova.php?id=canal2
 
 #EXTINF:-1 tvg-id="Nova.Sport.1.cz" group-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Animated-Flag-Czech.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sport-1-563.png" group-title="CZECH SPORTS" ,NOVA SPORT 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -428,30 +422,57 @@ https://livesport.io.vn/ottlink/smart.php?id=west
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-world-202.png" group-title="CANADA SPORTS" ,SPORTSNET WORLD
 https://livesport.io.vn/ottlink/smart.php?id=world
 
-#EXTINF:-1 tvg-id="sd-6MwdaTvhvWAufP32rK" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Norwegian 3.Divisjon Bossekop 2-2 Tromso B
-https://livesport.io.vn/event.php?id=sd-6MwdaTvhvWAufP32rK
-
-#EXTINF:-1 tvg-id="sd-6MxiKCA4ewGcNH9Uyd" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Argentine Women's League Social Atletico Television Women 0-0 San Lorenzo Women
-https://livesport.io.vn/event.php?id=sd-6MxiKCA4ewGcNH9Uyd
-
-#EXTINF:-1 tvg-id="sd-6MxiZgphwcUNhg8EU7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,AFC Women’s Champions League Kaya FC–Iloilo Women 3-0 Ilbirs Bishkek Women
-https://livesport.io.vn/event.php?id=sd-6MxiZgphwcUNhg8EU7
-
 #EXTINF:-1 tvg-id="sd-6Mwdpxc6shWYzjVQAT" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Lithuanian A Lyga  Siauliai 1-0 FK Panevezys
 https://livesport.io.vn/event.php?id=sd-6Mwdpxc6shWYzjVQAT
 
-#EXTINF:-1 tvg-id="sd-6MxiKJg3JnnsFUziYX" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Latvian Cup FK Auda Riga 2-0 Grobina
+#EXTINF:-1 tvg-id="sd-6MxiKJg3JnnsFUziYX" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Latvian Cup FK Auda Riga 2-2 Grobina
 https://livesport.io.vn/event.php?id=sd-6MxiKJg3JnnsFUziYX
 
-#EXTINF:-1 tvg-id="sd-6MwarKAxTwPLMzUukj" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Slovak 2.Liga Slovan Bratislava B 1-0 Humenne
+#EXTINF:-1 tvg-id="sd-6MwarKAxTwPLMzUukj" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Slovak 2.Liga Slovan Bratislava B 2-0 Humenne
 https://livesport.io.vn/event.php?id=sd-6MwarKAxTwPLMzUukj
 
-#EXTINF:-1 tvg-id="sd-6MxiZgpi6nNfKn41b5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,AFC Women’s Champions League Bam Khatoon Women 1-0 CSKA Pamir Dushanbe Women
+#EXTINF:-1 tvg-id="sd-6MxiZgpi6nNfKn41b5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,AFC Women’s Champions League Bam Khatoon Women 2-0 CSKA Pamir Dushanbe Women
 https://livesport.io.vn/event.php?id=sd-6MxiZgpi6nNfKn41b5
 
-#EXTINF:-1 tvg-id="sd-6MvZ6dBjtEtPyVzHnf" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Finnish Veikkausliiga Gnistan Helsinki 1-1 Ilves Tampere
+#EXTINF:-1 tvg-id="sd-6MvZ6dBjtEtPyVzHnf" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Finnish Veikkausliiga Gnistan Helsinki 2-2 Ilves Tampere
 https://livesport.io.vn/event.php?id=sd-6MvZ6dBjtEtPyVzHnf
 
-#EXTINF:-1 tvg-id="sd-6MweaW1vz9XbwJFyq1" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Ukrainian Premier League Polissya Zhytomyr 1-0 Zorya
+#EXTINF:-1 tvg-id="sd-6MweaW1vz9XbwJFyq1" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Ukrainian Premier League Polissya Zhytomyr 1-2 Zorya
 https://livesport.io.vn/event.php?id=sd-6MweaW1vz9XbwJFyq1
+
+#EXTINF:-1 tvg-id="sd-6Mwdpxc6sfK58FfV1Z" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Lithuanian A Lyga  Dziugas Telsiai 0-0 Suduva
+https://livesport.io.vn/event.php?id=sd-6Mwdpxc6sfK58FfV1Z
+
+#EXTINF:-1 tvg-id="sd-6MweaLCkJFe1TPSE79" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Coppa Italia Pisa 0-0 Empoli
+https://livesport.io.vn/event.php?id=sd-6MweaLCkJFe1TPSE79
+
+#EXTINF:-1 tvg-id="sd-6MwdaTuEdMh4J1DqQB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Norwegian 3.Divisjon Staal Jorpeland 0-0 Haugesund B
+https://livesport.io.vn/event.php?id=sd-6MwdaTuEdMh4J1DqQB
+
+#EXTINF:-1 tvg-id="sd-6MweLB7WTAHmvfvPno" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Armenian Premier League FC Noah 0-0 Alashkert Yerevan
+https://livesport.io.vn/event.php?id=sd-6MweLB7WTAHmvfvPno
+
+#EXTINF:-1 tvg-id="sd-6MxiKC76NeSGvs7BQs" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Peruvian Liga 2 Molinos El Pirata 0-1 Deportivo Union Comercio
+https://livesport.io.vn/event.php?id=sd-6MxiKC76NeSGvs7BQs
+
+#EXTINF:-1 tvg-id="sd-6MwdqBbru6SoJKGP5h" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Bulgarian First League Spartak Varna 0-0 FK Septemvri Sofia
+https://livesport.io.vn/event.php?id=sd-6MwdqBbru6SoJKGP5h
+
+#EXTINF:-1 tvg-id="sd-6MvYrBnpUy4ZCsDzg7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Georgia Erovnuli Liga Gagra FC 0-0 Spaeri FC
+https://livesport.io.vn/event.php?id=sd-6MvYrBnpUy4ZCsDzg7
+
+#EXTINF:-1 tvg-id="sd-6MweKiwebQu1XkpWVD" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Saudi Arabia King's Cup Al-Anwar Club 0-0 Al Ahli
+https://livesport.io.vn/event.php?id=sd-6MweKiwebQu1XkpWVD
+
+#EXTINF:-1 tvg-id="sd-6MvVNfSSmsT4hzf3y9" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Estonian Esiliiga FC Nomme United U21 0-0 Nomme JK Kalju II
+https://livesport.io.vn/event.php?id=sd-6MvVNfSSmsT4hzf3y9
+
+#EXTINF:-1 tvg-id="sd-6MweKiwfbmj1rb5phu" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Saudi Arabia King's Cup Al-Tai 0-1 Al Qadasiya
+https://livesport.io.vn/event.php?id=sd-6MweKiwfbmj1rb5phu
+
+#EXTINF:-1 tvg-id="sd-6MweKiwf6Uia5jUR8s" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Saudi Arabia King's Cup Al Zulfi 0-0 Al Riyadh
+https://livesport.io.vn/event.php?id=sd-6MweKiwf6Uia5jUR8s
+
+#EXTINF:-1 tvg-id="sd-6MwdaTs2W3eUUr6PrP" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Norwegian 3.Divisjon Kvik Trondheim 0-0 Aalesund FK B
+https://livesport.io.vn/event.php?id=sd-6MwdaTs2W3eUUr6PrP
 
