@@ -4,8 +4,8 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 19/08/2026 22:23:00
-# Channels     : 132
+# Updated      : 19/08/2026 23:14:06
+# Channels     : 136
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
 # ======================================
@@ -13,10 +13,10 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 132
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 136
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 19/08/2026 22:23:00
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 19/08/2026 23:14:06
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 group-logo="https://livesport.io.vn/logo/epl.png" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="PREMIER LEAGUE" ,SKY 8 NZ
@@ -434,21 +434,33 @@ https://livesport.io.vn/ottlink/smart.php?id=west
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-world-202.png" group-title="CANADA SPORTS" ,SPORTSNET WORLD
 https://livesport.io.vn/ottlink/smart.php?id=world
 
-#EXTINF:-1 tvg-id="sd-6MxiZoLiGZ7jQ2ZP1y" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Greek Cup Niki Volou 0-0 Panionios G.S.S.
-https://livesport.io.vn/event.php?id=sd-6MxiZoLiGZ7jQ2ZP1y
+#EXTINF:-1 tvg-id="sd-6MxiKCAnyATjF3oju1" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Poland Liga 3 Jagiellonia Bialystok II 3-0 Pelikan Lowicz
+https://livesport.io.vn/event.php?id=sd-6MxiKCAnyATjF3oju1
 
-#EXTINF:-1 tvg-id="sd-6Mwe5ZsBQhwR1bJhDZ" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Kazakhstan Cup Zhenis 2-0 Kaisar Kyzylorda
-https://livesport.io.vn/event.php?id=sd-6Mwe5ZsBQhwR1bJhDZ
+#EXTINF:-1 tvg-id="sd-6MxiKRDWGR1LvFhsrX" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Romanian Cup FC Bihor Oradea 1-0 Farul Constanta
+https://livesport.io.vn/event.php?id=sd-6MxiKRDWGR1LvFhsrX
 
-#EXTINF:-1 tvg-id="sd-6MvVdGZRTo1U9MAtS3" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Uzbekistan Super League FC OKMK Olmaliq 0-1 Dinamo Samarqand
-https://livesport.io.vn/event.php?id=sd-6MvVdGZRTo1U9MAtS3
-
-#EXTINF:-1 tvg-id="sd-6MvVdGZQxPQam45jQK" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Uzbekistan Super League Mashal Muborak 0-0 FK Andijon
+#EXTINF:-1 tvg-id="sd-6MvVdGZQxPQam45jQK" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Uzbekistan Super League Mashal Muborak 0-1 FK Andijon
 https://livesport.io.vn/event.php?id=sd-6MvVdGZQxPQam45jQK
 
-#EXTINF:-1 tvg-id="sd-6MxiZdZiMVLZFgv8B9" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Slovak Cup Jednota Banova 0-0 Trencin
+#EXTINF:-1 tvg-id="sd-6MxiZdZiMVLZFgv8B9" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Slovak Cup Jednota Banova 0-2 Trencin
 https://livesport.io.vn/event.php?id=sd-6MxiZdZiMVLZFgv8B9
+
+#EXTINF:-1 tvg-id="sd-6MxiZaHynygjVp7uVy" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Serbian Mozzart Bet Prva Liga FK Graficar Beograd 1-1 FK Loznica
+https://livesport.io.vn/event.php?id=sd-6MxiZaHynygjVp7uVy
 
 #EXTINF:-1 tvg-id="sd-6MweKqWbsNmv3HnLqm" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Russian First League KAMAZ Naberezhnye Chelny 0-0 Tekstilshchik Ivanovo
 https://livesport.io.vn/event.php?id=sd-6MweKqWbsNmv3HnLqm
+
+#EXTINF:-1 tvg-id="sd-6MweaDfGqDpeQKdumR" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Russian Cup Rubin Kazan 1-0 Spartak Moscow
+https://livesport.io.vn/event.php?id=sd-6MweaDfGqDpeQKdumR
+
+#EXTINF:-1 tvg-id="sd-6MxiKCBXTS7BkxPrTy" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Danish Cup ASA Aarhus 0-0 Randers FC
+https://livesport.io.vn/event.php?id=sd-6MxiKCBXTS7BkxPrTy
+
+#EXTINF:-1 tvg-id="sd-6Mwd5hb9YDHH7xgzNs" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Belarusian Premier League Maxline Vitebsk 1-0 FC Baranovichi
+https://livesport.io.vn/event.php?id=sd-6Mwd5hb9YDHH7xgzNs
+
+#EXTINF:-1 tvg-id="sd-6MwdqMTJ4JnaFFFfs5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Sweden Cup Vaxjo Norra IF 0-0 IFK Varnamo
+https://livesport.io.vn/event.php?id=sd-6MwdqMTJ4JnaFFFfs5
 
