@@ -4,8 +4,8 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 19/08/2026 07:01:32
-# Channels     : 124
+# Updated      : 19/08/2026 08:37:31
+# Channels     : 127
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
 # ======================================
@@ -13,10 +13,10 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 124
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 127
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 19/08/2026 07:01:32
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 19/08/2026 08:37:31
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn1.png" group-title="UK SPORTS" ,TNT SPORTS 1
@@ -422,9 +422,18 @@ https://livesport.io.vn/ottlink/smart.php?id=west
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-world-202.png" group-title="CANADA SPORTS" ,SPORTSNET WORLD
 https://livesport.io.vn/ottlink/smart.php?id=world
 
-#EXTINF:-1 tvg-id="sd-6MxiKCA2oxV6PuwNxf" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,CONCACAF Caribbean Cup Mount Pleasant FA 1-2 Cibao FC
-https://livesport.io.vn/event.php?id=sd-6MxiKCA2oxV6PuwNxf
+#EXTINF:-1 tvg-id="sd-6MxiKC9HzWgVVFKYn3" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Bolivian Copa LFPB The Strongest 1-0 Oriente Petrolero
+https://livesport.io.vn/event.php?id=sd-6MxiKC9HzWgVVFKYn3
 
-#EXTINF:-1 tvg-id="sd-6MvVNfQEebbxmKMXaF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Brazilian Serie B Londrina PR 0-0 Atletico Clube Goianiense
-https://livesport.io.vn/event.php?id=sd-6MvVNfQEebbxmKMXaF
+#EXTINF:-1 tvg-id="sd-6Mwe5jgPGmvUEbN7tK" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Copa Argentina CA Banfield 2-2 Ferrocarril Midland
+https://livesport.io.vn/event.php?id=sd-6Mwe5jgPGmvUEbN7tK
+
+#EXTINF:-1 tvg-id="sd-6MwarFrHdKnTdecBod" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,CONMEBOL Copa Libertadores Univ Catolica 0-1 Estudiantes La Plata
+https://livesport.io.vn/event.php?id=sd-6MwarFrHdKnTdecBod
+
+#EXTINF:-1 tvg-id="sd-6Mxia8wd29u3hffnhD" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,CONMEBOL Copa Sudamericana São Paulo - SP 1-0 Bolivar
+https://livesport.io.vn/event.php?id=sd-6Mxia8wd29u3hffnhD
+
+#EXTINF:-1 tvg-id="sd-6MwdqBfZVTgL8afGxF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,CONCACAF Central American Cup CS Cartagines 1-0 Hankook Verdes
+https://livesport.io.vn/event.php?id=sd-6MwdqBfZVTgL8afGxF
 
