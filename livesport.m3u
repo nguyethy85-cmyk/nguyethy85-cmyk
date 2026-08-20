@@ -4,8 +4,8 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 20/08/2026 18:54:42
-# Channels     : 129
+# Updated      : 20/08/2026 21:00:24
+# Channels     : 118
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
 # ======================================
@@ -13,10 +13,10 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 129
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 118
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 20/08/2026 18:54:42
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 20/08/2026 21:00:24
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 group-logo="https://livesport.io.vn/logo/epl.png" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="PREMIER LEAGUE" ,SKY 8 NZ
@@ -31,95 +31,71 @@ https://livesport.io.vn/ottlink/link.php?id=usa
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-logo="https://livesport.io.vn/logo/epl.png" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="PREMIER LEAGUE" ,TNT SPORTS 1
 https://livesport.io.vn/ottlink/link.php?id=tnt1
 
+#EXTINF:-1 group-logo="https://livesport.io.vn/logo/laliga.png" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="LALIGA" ,SUPER SPORTS 2
+https://livesport.io.vn/ottlink/stalk.php?id=ss2
+
+#EXTINF:-1 group-logo="https://livesport.io.vn/logo/laliga.png" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="LALIGA" ,PRIME SPORTS 1
+https://livesport.io.vn/ottlink/link.php?id=pre1
+
+#EXTINF:-1 group-logo="https://livesport.io.vn/logo/laliga.png" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="LALIGA" ,PRIME SPORTS 2
+https://livesport.io.vn/ottlink/link.php?id=pre2
+
+#EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" group-logo="https://livesport.io.vn/logo/laliga.png" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="LALIGA" ,ESPN DEPORTES
+https://livesport.io.vn/ottlink/smart.php?id=espndeport
+
+#EXTINF:-1 group-logo="https://livesport.io.vn/logo/laliga.png" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="LALIGA" ,COSMOTE SPORT 7
+https://livesport.io.vn/ottlink/live.php?id=cos7
+
+#EXTINF:-1 group-logo="https://livesport.io.vn/logo/seriea.png" tvg-logo="https://livesport.io.vn/logo/seriea.png" group-title="SERIE A" ,COSMOTE SPORT 1
+https://livesport.io.vn/ottlink/live.php?id=cos1
+
+#EXTINF:-1 group-logo="https://livesport.io.vn/logo/seriea.png" tvg-logo="https://livesport.io.vn/logo/seriea.png" group-title="SERIE A" ,COSMOTE SPORT 2
+https://livesport.io.vn/ottlink/live.php?id=cos2
+
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn1.png" group-title="UK SPORTS" ,TNT SPORTS 1
-https://livesport.io.vn/ottlink/stalk.php?id=bun1
+https://livesport.io.vn/ottlink/link.php?id=tnt1
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn2.png" group-title="UK SPORTS" ,TNT SPORTS 2
-https://livesport.io.vn/ottlink/stalk.php?id=tnt2
+https://livesport.io.vn/ottlink/link.php?id=tnt2
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn3.png" group-title="UK SPORTS" ,TNT SPORTS 3
-https://livesport.io.vn/ottlink/stalk.php?id=tnt3
+https://livesport.io.vn/ottlink/link.php?id=tnt3
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn4.png" group-title="UK SPORTS" ,TNT SPORTS 4
-https://livesport.io.vn/ottlink/stalk.php?id=tnt4
+https://livesport.io.vn/ottlink/link.php?id=tnt4
 
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sepl.png" group-title="UK SPORTS" ,SKY SPORTS EPL
-https://livesport.io.vn/ottlink/stalk.php?id=skyepl
+https://livesport.io.vn/ottlink/link.php?id=skyepl
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/smain.png" group-title="UK SPORTS" ,SKY SPORTS MAIN EVENT
-https://livesport.io.vn/ottlink/stalk.php?id=skymain
+https://livesport.io.vn/ottlink/link.php?id=skymain
 
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sfoot.png" group-title="UK SPORTS" ,SKY SPORTS FOOTBALL
-https://livesport.io.vn/ottlink/stalk.php?id=skyfoot
+https://livesport.io.vn/ottlink/link.php?id=skyfoot
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sf1.png" group-title="UK SPORTS" ,SKY SPORTS F1
-https://livesport.io.vn/ottlink/stalk.php?id=skyf1
+https://livesport.io.vn/ottlink/link.php?id=skyf1
 
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sgolf.png" group-title="UK SPORTS" ,SKY SPORTS GOLF
-https://livesport.io.vn/ottlink/stalk.php?id=skygolf
+https://livesport.io.vn/ottlink/link.php?id=skygolf
 
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/snews.png" group-title="UK SPORTS" ,SKY SPORTS NEWS
-https://livesport.io.vn/ottlink/stalk.php?id=skynews
+https://livesport.io.vn/ottlink/link.php?id=skynews
 
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/saction.png" group-title="UK SPORTS" ,SKY SPORTS ACTION
 https://livesport.io.vn/ottlink/stalk.php?id=skyaction
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/smix.png" group-title="UK SPORTS" ,SKY SPORTS MIX
-https://livesport.io.vn/ottlink/stalk.php?id=skymix
+https://livesport.io.vn/ottlink/link.php?id=skymix
 
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/pr1.png" group-title="UK SPORTS" ,PREMIER SPORTS 1
-https://livesport.io.vn/ottlink/stalk.php?id=pre1
+https://livesport.io.vn/ottlink/link.php?id=pre1
 
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/pr2.png" group-title="UK SPORTS" ,PREMIER SPORTS 2
-https://livesport.io.vn/ottlink/stalk.php?id=pre2
+https://livesport.io.vn/ottlink/link.php?id=pre2
 
 #EXTINF:-1 tvg-id="MUTV.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-uk-mutv-114.png" group-title="UK SPORTS" ,MUTV
-https://livesport.io.vn/ottlink/stalk.php?id=mutv
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn1.png" group-title="UK SPORTS" ,TNT SPORTS 1 HD
-https://livesport.io.vn/ottlink/vip1.php?id=tnt1
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn2.png" group-title="UK SPORTS" ,TNT SPORTS 2 HD
-https://livesport.io.vn/ottlink/vip1.php?id=tnt2
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn3.png" group-title="UK SPORTS" ,TNT SPORTS 3 HD
-https://livesport.io.vn/ottlink/vip1.php?id=tnt3
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn4.png" group-title="UK SPORTS" ,TNT SPORTS 4 HD
-https://livesport.io.vn/ottlink/vip1.php?id=tnt4
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sepl.png" group-title="UK SPORTS" ,SKY SPORTS EPL HD
-https://livesport.io.vn/ottlink/vip1.php?id=skyepl
-
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/smain.png" group-title="UK SPORTS" ,SKY SPORTS MAIN EVENT HD
-https://livesport.io.vn/ottlink/vip1.php?id=skymain
-
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sfoot.png" group-title="UK SPORTS" ,SKY SPORTS FOOTBALL HD
-https://livesport.io.vn/ottlink/vip1.php?id=skyfoot
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sf1.png" group-title="UK SPORTS" ,SKY SPORTS F1 HD
-https://livesport.io.vn/ottlink/vip1.php?id=skyf1
-
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sgolf.png" group-title="UK SPORTS" ,SKY SPORTS GOLF HD
-https://livesport.io.vn/ottlink/vip1.php?id=skygolf
-
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/snews.png" group-title="UK SPORTS" ,SKY SPORTS NEWS HD
-https://livesport.io.vn/ottlink/vip1.php?id=skynews
-
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/saction.png" group-title="UK SPORTS" ,SKY SPORTS ACTION HD
-https://livesport.io.vn/ottlink/vip1.php?id=skyaction
-
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/smix.png" group-title="UK SPORTS" ,SKY SPORTS MIX HD
-https://livesport.io.vn/ottlink/vip1.php?id=skymix
-
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/pr1.png" group-title="UK SPORTS" ,PREMIER SPORTS 1 HD
-https://livesport.io.vn/ottlink/vip1.php?id=pre1
-
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/pr2.png" group-title="UK SPORTS" ,PREMIER SPORTS 2 HD
-https://livesport.io.vn/ottlink/vip1.php?id=pre2
-
-#EXTINF:-1 tvg-id="MUTV.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-uk-mutv-114.png" group-title="UK SPORTS" ,MUTV HD
-https://livesport.io.vn/ottlink/vip1.php?id=mutv
+https://livesport.io.vn/ottlink/link.php?id=mutv
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated-Flag-Saudi-Arabia.gif" tvg-logo="https://livesport.io.vn/logo/sport/be1.png" group-title="UAE SPORTS" ,BEIN SPORT 1
 https://livesport.io.vn/ottlink/live.php?id=b1
@@ -433,13 +409,4 @@ https://livesport.io.vn/ottlink/smart.php?id=west
 
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-world-202.png" group-title="CANADA SPORTS" ,SPORTSNET WORLD
 https://livesport.io.vn/ottlink/smart.php?id=world
-
-#EXTINF:-1 tvg-id="sd-6MweLB4aLx197RU5Ys" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,AFC Women’s Champions League Phnom Penh Crown (W) 1-5 Kaya FC–Iloilo Women
-https://livesport.io.vn/event.php?id=sd-6MweLB4aLx197RU5Ys
-
-#EXTINF:-1 tvg-id="sd-6MwdaQfhWrpWomqiD5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Kazakhstan Division 1 Tobol Kostanai B 3-4 Khan Tengri FC
-https://livesport.io.vn/event.php?id=sd-6MwdaQfhWrpWomqiD5
-
-#EXTINF:-1 tvg-id="sd-6Mxj4Q1BJraDsdFUFR" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,COSAFA CLW Zesco Ndola Girls (w) 5-2 Herentals Queens (W)
-https://livesport.io.vn/event.php?id=sd-6Mxj4Q1BJraDsdFUFR
 
