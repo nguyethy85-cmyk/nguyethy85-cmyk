@@ -4,8 +4,8 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 20/08/2026 22:08:28
-# Channels     : 120
+# Updated      : 21/08/2026 00:14:04
+# Channels     : 142
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
 # ======================================
@@ -13,10 +13,10 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 120
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 142
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 20/08/2026 22:08:28
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 21/08/2026 00:14:04
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 group-logo="https://livesport.io.vn/logo/epl.png" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="PREMIER LEAGUE" ,SKY 8 NZ
@@ -57,6 +57,13 @@ https://livesport.io.vn/ottlink/smart.php?id=cbssn
 
 #EXTINF:-1 group-logo="https://livesport.io.vn/logo/seriea.png" tvg-logo="https://livesport.io.vn/logo/seriea.png" group-title="SERIE A" ,CBS SPORT GONZALO
 https://livesport.io.vn/ottlink/smart.php?id=cbsgozalo
+
+#EXTINF:-1 group-logo="https://flagicons.lipis.dev/flags/4x3/gb.svg" tvg-logo="https://livesport.zhost.education/logo/sport/tn2.png" group-title="UK SPORTS" ,TNT 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de6c62edc50564a1bcd57bd452e00dec:5587a0221df02bc10bcc80f8fc1fe5f4
+https://livesport.io.vn/ott/mpd.php?mpd
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn1.png" group-title="UK SPORTS" ,TNT SPORTS 1
 https://livesport.io.vn/ottlink/link.php?id=tnt1
@@ -415,4 +422,67 @@ https://livesport.io.vn/ottlink/smart.php?id=west
 
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-world-202.png" group-title="CANADA SPORTS" ,SPORTSNET WORLD
 https://livesport.io.vn/ottlink/smart.php?id=world
+
+#EXTINF:-1 tvg-id="sd-6MxiKox2kFsv4Jf99q" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Iraq Stars League Naft Missan 0-0 Al-Naft SC
+https://livesport.io.vn/event.php?id=sd-6MxiKox2kFsv4Jf99q
+
+#EXTINF:-1 tvg-id="sd-6MxiKox2kJ5PvnV4Jj" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Iraq Stars League Ghaz Al Shamal 1-1 Al-Kahraba Club
+https://livesport.io.vn/event.php?id=sd-6MxiKox2kJ5PvnV4Jj
+
+#EXTINF:-1 tvg-id="sd-6MweKqWbsJNxJL8WXy" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Russian First League Arsenal Tula 2-1 Rotor Volgograd
+https://livesport.io.vn/event.php?id=sd-6MweKqWbsJNxJL8WXy
+
+#EXTINF:-1 tvg-id="sd-6Mwd5hb9hXyVDyvS7R" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Belarusian Premier League Dinamo Minsk 3-0 FC Torpedo Zhodino
+https://livesport.io.vn/event.php?id=sd-6Mwd5hb9hXyVDyvS7R
+
+#EXTINF:-1 tvg-id="sd-6MweKqWbsLaSAoxRgs" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Russian First League Neftekhimik Nizhnekamsk 0-2 FC Sochi
+https://livesport.io.vn/event.php?id=sd-6MweKqWbsLaSAoxRgs
+
+#EXTINF:-1 tvg-id="sd-6MxiaCCd6xsczqGe6s" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,UEFA Europa League Jagiellonia Bialystok 2-0 FC Iberia 1999 Tbilisi
+https://livesport.io.vn/event.php?id=sd-6MxiaCCd6xsczqGe6s
+
+#EXTINF:-1 tvg-id="sd-6MxiaCCd75U4cGkPZZ" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,UEFA Europa League Mjallby AIF 0-0 Red Bull Salzburg
+https://livesport.io.vn/event.php?id=sd-6MxiaCCd75U4cGkPZZ
+
+#EXTINF:-1 tvg-id="sd-6Mxia8tg5fSE5Chw35" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Portuguese U23 League Benfica U23 0-0 Rio Ave U23
+https://livesport.io.vn/event.php?id=sd-6Mxia8tg5fSE5Chw35
+
+#EXTINF:-1 tvg-id="sd-6MwdqMTJ4Gb6NmRkiB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Sweden Cup Pitea IF 0-1 AIK
+https://livesport.io.vn/event.php?id=sd-6MwdqMTJ4Gb6NmRkiB
+
+#EXTINF:-1 tvg-id="sd-6MwdqMTHZHAVZkRgNK" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Sweden Cup Vasalunds IF 1-1 IFK Norrkoping FK
+https://livesport.io.vn/event.php?id=sd-6MwdqMTHZHAVZkRgNK
+
+#EXTINF:-1 tvg-id="sd-6MxiKass97wX6eFYWs" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Sweden Cup FC Arlanda 0-0 Ostersunds FK
+https://livesport.io.vn/event.php?id=sd-6MxiKass97wX6eFYWs
+
+#EXTINF:-1 tvg-id="sd-6MxiKasrdg99qsLULF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Sweden Cup Hassleholms IF 0-0 Landskrona BoIS
+https://livesport.io.vn/event.php?id=sd-6MxiKasrdg99qsLULF
+
+#EXTINF:-1 tvg-id="sd-6MwarK5ouH6TDJhMWF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Qatar Stars League Al-Rayyan Sports Club 1-0 Lusail Sports Club
+https://livesport.io.vn/event.php?id=sd-6MwarK5ouH6TDJhMWF
+
+#EXTINF:-1 tvg-id="sd-6MxiKasqUG1JWNd8TH" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Argentine Reserve League Platense Reserves 0-0 Colon Reserves
+https://livesport.io.vn/event.php?id=sd-6MxiKasqUG1JWNd8TH
+
+#EXTINF:-1 tvg-id="sd-6MxiaCCd6vg98MSiwy" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,UEFA Europa League Egnatia 0-0 Lillestrom
+https://livesport.io.vn/event.php?id=sd-6MxiaCCd6vg98MSiwy
+
+#EXTINF:-1 tvg-id="sd-6MxiaCCcw9cAaaJHNf" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,UEFA Europa League Lech Poznan 1-0 Thun
+https://livesport.io.vn/event.php?id=sd-6MxiaCCcw9cAaaJHNf
+
+#EXTINF:-1 tvg-id="sd-6MxiKass95k3EARdMy" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Paraguayan Cup Deportivo Humaita 0-0 Club Sportivo 2 de Mayo
+https://livesport.io.vn/event.php?id=sd-6MxiKass95k3EARdMy
+
+#EXTINF:-1 tvg-id="sd-6MxiaCCcbwFYKLSec7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,UEFA Europa League CS Universitatea Craiova 0-0 Ararat-Armenia FC
+https://livesport.io.vn/event.php?id=sd-6MxiaCCcbwFYKLSec7
+
+#EXTINF:-1 tvg-id="sd-6MwdpnqrxQRMz51K4j" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Danish 1st Division Vendsyssel 0-0 Hillerod Fodbold
+https://livesport.io.vn/event.php?id=sd-6MwdpnqrxQRMz51K4j
+
+#EXTINF:-1 tvg-id="sd-6MxiaCCcwBoeT48CXZ" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,UEFA Europa League Besiktas JK 2-0 Kauno Zalgiris
+https://livesport.io.vn/event.php?id=sd-6MxiaCCcwBoeT48CXZ
+
+#EXTINF:-1 tvg-id="sd-6MxiaCCcbi4f6TV9gj" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,UEFA Europa League Trabzonspor 0-0 Ferencvarosi TC
+https://livesport.io.vn/event.php?id=sd-6MxiaCCcbi4f6TV9gj
 
