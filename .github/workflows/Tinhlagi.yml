@@ -25,7 +25,7 @@ jobs:
             -H "Accept-Encoding: gzip, deflate" \
             -H "Upgrade-Insecure-Requests: 1" \
             -H "Accept-Language: vi,fr-FR;q=0.9,fr;q=0.8,en-US;q=0.7,en;q=0.6,da;q=0.5" \
-            "https://tinhlagi.pro/tv.json" \
+            "https://tinhlagi.pro/tv.m3u" \
             -o tinhlagi.m3u
 
       - name: Check M3U
