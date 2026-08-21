@@ -1702,8 +1702,6 @@ http://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Truyện" tvg-id="447" tvg-logo="https://i.imgur.com/IOxIsPj.png",Наше Новое Кино
 http://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2180" group-title="🎬 Phim Truyện" tvg-logo="https://i.imgur.com/sMpamNO.png",Кино ТВ
-http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 group-title="🎬 Phim Truyện" tvg-id="558" tvg-logo="https://i.imgur.com/iao7zLZ.png",Киносерия
 http://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Phim Truyện" tvg-id="203" tvg-logo="https://i.imgur.com/s0UYT8T.png",Кинопремьера HD
@@ -1752,14 +1750,10 @@ https://dash.antik.sk/live/duck_tv/index.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="300007" group-title="🧒 Thiếu Nhi" tvg-logo="https://i.imgur.com/DnlngRZ.png",Карусель
 http://stream.smotrim.ru/hls/karusel/playlist_3.m3u8
-#EXTINF:-1 tvg-id="2011" group-title="🧒 Thiếu Nhi" tvg-logo="https://i.imgur.com/i2AP0hp.png",Ani
-http://185.46.16.239:8000/Ani
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="🧒 Thiếu Nhi",Balapan
 http://live-3.otcnet.ru/Balapan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="300082" group-title="🧒 Thiếu Nhi" tvg-logo="https://i.imgur.com/lbViDuC.png",Gulli Girl
 http://live-3.otcnet.ru/GulliGirl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="100054" group-title="🧒 Thiếu Nhi" tvg-logo="https://i.imgur.com/QCOUJ30.png",TiJi
-http://live-3.otcnet.ru/Tiji/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2195" group-title="🧒 Thiếu Nhi" tvg-logo="https://i.imgur.com/wKfB79s.png",Анекдот ТВ
 http://api.dommir.top/ch/Anekdot_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="2212" group-title="🧒 Thiếu Nhi" tvg-logo="https://i.imgur.com/jNJkLHl.png",В гостях у сказки
@@ -1816,8 +1810,6 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" group-title="📰 Tin Tức" tvg-logo="https://i.imgur.com/L2yv24j.png",CGTN РУССКИЙ
 https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-id="DVBTV.mm@SD" tvg-logo="https://i.imgur.com/VdezHOv.png" group-title="📰 Tin Tức",Democratic Voice of Burma TV
-https://live-stream.dvb.no/hls/stream_src/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="📰 Tin Tức" tvg-logo="https://i.imgur.com/g5g4KJc.png",DW
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist_b2500000.m3u8
@@ -2119,7 +2111,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="TSports7.th@SD" tvg-logo="https://i.imgur.com/KyI0s5n.png" group-title="⚽ Thể Thao",T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 #EXTINF:-1 tvg-id="2060" group-title="⚽ Thể Thao" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч!
-https://vietngatv.short.gy/hls/match_sd.m3u8
+https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8
 #EXTINF:-1 tvg-id="259" tvg-logo="https://i.imgur.com/m7IC01U.png" group-title="⚽ Thể Thao",Extreme Sports
 http://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 tvg-id="2261" tvg-logo="https://i.postimg.cc/W163TDXX/Fast282013).png" group-title="⚽ Thể Thao",Fast&FunBox
@@ -2223,22 +2215,16 @@ https://kctv.koryofront.org/stream/kcradio1/index.m3u8
 https://kctv.koryofront.org/stream/kcradio2/index.m3u8
 #EXTINF:-1 group-title="📦 Kênh Khác" tvg-id="radio-rossii" tvg-logo="https://i.imgur.com/1D8ksIc.png" radio="true",Радио России
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/radio_russia/index.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="📦 Kênh Khác" tvg-logo="https://i.imgur.com/bgBOgNX.png" radio="true",Радио Maximum
-http://maximum.hostingradio.ru/maximum128.mp3
 #EXTINF:-1 tvg-id="no_epg" group-title="📦 Kênh Khác" tvg-logo="https://i.imgur.com/MqN1yfa.png" radio="true",Радио Вера
 http://radiovera.hostingradio.ru:8007/radiovera_128
 #EXTINF:-1 tvg-id="no_epg" group-title="📦 Kênh Khác" tvg-logo="https://i.imgur.com/aeGx1Rd.png" radio="true",Радио DFM
 http://dfm.hostingradio.ru/dfm128.mp3
 #EXTINF:-1 tvg-id="no_epg" group-title="📦 Kênh Khác" tvg-logo="https://i.imgur.com/vYXzNdU.png" radio="true",Радио Хит FM
 http://hitfm.hostingradio.ru/hitfm128.mp3
-#EXTINF:-1 group-title="📦 Kênh Khác" tvg-logo="https://i.postimg.cc/9fNDqbP3/New-logo.png" radio="true",Радио Сибирь
-http://stream.radiosibir.ru:8090/om2
 #EXTINF:-1 group-title="📦 Kênh Khác" tvg-id="radio-shanson" tvg-logo="https://i.imgur.com/lbqM3K2.png" radio="true",Радио Шансон
 http://89.204.58.59:8000/ch_72_01
 #EXTINF:-1 group-title="📦 Kênh Khác" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/9Sg7YQY.png" radio="true",Авторадио
 http://89.204.58.59:8000/ar_72_01
-#EXTINF:-1 group-title="📦 Kênh Khác" tvg-id="no_epg_music" tvg-logo="https://i.postimg.cc/TwzhtPHN/Russkoe-radio.png" radio="true",Русское Радио
-http://rusradio.hostingradio.ru/rusradio128.mp3
 #EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/CJB.jpg/revision/latest?cb=20200224093248&path-prefix=ko", CJB SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/250px-G1_broadcasting_logo.svg.png", G1 SBS
@@ -2278,12 +2264,9 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png", TVN
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV KaKa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1787298603" group-title="🎯 TINHLAGI.PRO",Cập Nhật
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1787318405" group-title="🎯 TINHLAGI.PRO",Cập Nhật
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1787298603" group-title="🎯 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1787318405" group-title="🎯 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1787298603" group-title="🎯 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1787318405" group-title="🎯 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
 https://tinhlagi.pro/logo.jpg
