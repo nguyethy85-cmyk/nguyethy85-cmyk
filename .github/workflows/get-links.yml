@@ -1,0 +1,51 @@
+name: Update JSON
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get JSON from API
+        run: |
+          curl -fsSL -X POST \
+            "https://soixamapi.vercel.app/api/get-links" \
+            -H "User-Agent: Dalvik/2.1.0" \
+            -H "Connection: keep-alive" \
+            -H "Accept: */*" \
+            -H "Accept-Encoding: gzip, deflate, br" \
+            -H "Content-Type: application/json" \
+            --data-raw '{
+              "username": "admin",
+              "password": "172108sxtv"
+            }' \
+            -o data.json
+
+      - name: Validate JSON
+        run: |
+          python3 -m json.tool data.json > /dev/null
+          echo "JSON hợp lệ."
+
+      - name: Commit JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data.json
+
+          if git diff --cached --quiet; then
+            echo "Không có thay đổi."
+          else
+            git commit -m "Update data.json"
+            git push
+          fi
