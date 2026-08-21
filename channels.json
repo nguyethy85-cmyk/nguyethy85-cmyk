@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-21T08:03:55.781159Z",
+  "update_time": "2026-08-21T08:53:47.778167Z",
   "channels": {
     "index": "505",
     "missing": [
@@ -323,14 +323,14 @@
         "tvgId": "vtv1hd.VN",
         "urls": [
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv1-hd/KenhCoBan.m3u8"
-          },
-          {
             "url": "https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/manifest.mpd"
           },
           {
             "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/VTV1_HD/manifest.mpd&keys=cca908f736f54dfc90ec844fe123942c:9fea9e1b52e1e87a7d4c1dec0c46307f",
             "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv1-hd/KenhCoBan.m3u8"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.m3u8?fid=230"
@@ -365,11 +365,11 @@
         "tvgId": "vtv2hd.VN",
         "urls": [
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv2-hd/KenhCoBan.m3u8"
-          },
-          {
             "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/VTV2_HD/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
             "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv2-hd/KenhCoBan.m3u8"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv2",
@@ -388,11 +388,11 @@
         "tvgId": "vtv3hd.VN",
         "urls": [
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv3-hd/KenhCoBan.m3u8"
-          },
-          {
             "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livebytatm.vtvprime.vn/live/data8/VTV3_HD/Live_DASHDRM/VTV3_HD.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
             "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv3-hd/KenhCoBan.m3u8"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv3",
@@ -414,11 +414,11 @@
             "url": "https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8"
           },
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv4-hd/KenhCoBan.m3u8"
-          },
-          {
             "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/VTV4_HD/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
             "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv4-hd/KenhCoBan.m3u8"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv4",
@@ -440,11 +440,11 @@
             "url": "https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8"
           },
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-hd/KenhCoBan.m3u8"
-          },
-          {
             "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_HD/manifest.mpd&keys=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b",
             "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-hd/KenhCoBan.m3u8"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv5",
@@ -492,11 +492,11 @@
         "tvgId": "vtv5hdtn.VN",
         "urls": [
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-tay-nguyen/KenhCoBan.m3u8"
-          },
-          {
             "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_TN/manifest.mpd&keys=ea293eba54ad4ca0b028576afcee88c2:18ac6a360d0e48979d4b6c612f04b31f",
             "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-tay-nguyen/KenhCoBan.m3u8"
           }
         ],
         "thumbnail": "https://freem3u.xyz/static/images/vtv/vtv5_tn.png",
@@ -511,11 +511,11 @@
         "title": "VTV6",
         "urls": [
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv6-hd/KenhCoBan.m3u8"
-          },
-          {
             "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livebytatm.vtvprime.vn/live/data8/VTV6/Live_DASHDRM/VTV6.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
             "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv6-hd/KenhCoBan.m3u8"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.m3u8?vid=10043"
@@ -534,11 +534,11 @@
         "tvgId": "vtv7hd.VN",
         "urls": [
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv7-hd/KenhCoBan.m3u8"
-          },
-          {
             "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livezenatm.vtvprime.vn/live/data8/VTV7_HD/Live_DASHDRM/VTV7_HD.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
             "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv7-hd/KenhCoBan.m3u8"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv7",
@@ -557,11 +557,11 @@
         "tvgId": "vtv8hd.VN",
         "urls": [
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv8-hd/KenhCoBan.m3u8"
-          },
-          {
             "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livesct.vtvprime.vn/Live_DASHDRM1/VTV8_HD/manifest.mpd&keys=73a685e226374dc7b756a12c270744b5:95504c377fb04cab81ba5e955f4ae189",
             "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv8-hd/KenhCoBan.m3u8"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv8",
@@ -580,11 +580,11 @@
         "tvgId": "vtv9hd.VN",
         "urls": [
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8"
-          },
-          {
             "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livezenatm.vtvprime.vn/live/data8/VTV9_HD/Live_DASHDRM/VTV9_HD.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
             "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtv9",
@@ -603,11 +603,11 @@
         "tvgId": "vtvcantho.VN",
         "urls": [
           {
-            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv-can-tho/KenhCoBan.m3u8"
-          },
-          {
             "url": "https://freem3u.xyz/shaka.html?videoUrl=https://livezenatm.vtvprime.vn/live/data8/VTV6_HD/Live_DASHDRM/VTV6_HD.mpd&keys=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9",
             "provider": "webview"
+          },
+          {
+            "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv-can-tho/KenhCoBan.m3u8"
           },
           {
             "url": "https://freem3u.xyz/api/live/play.json?sid=vtvcantho",
