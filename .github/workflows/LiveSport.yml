@@ -2,7 +2,7 @@ name: Update LiveSport M3U
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/1 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -23,7 +23,7 @@ jobs:
             -H 'Connection: keep-alive' \
             -H 'Accept: */*' \
             -H 'Accept-Encoding: gzip' \
-            'https://livesport.io.vn/ott/list.php' \
+            'https://livesport.io.vn/ok/m3u.php' \
             -o livesport.m3u
 
       - name: Check M3U
