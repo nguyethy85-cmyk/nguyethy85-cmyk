@@ -4,9 +4,9 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 30/08/2026 04:55:32
-# Channels     : 136
-# Visits       : 571
+# Updated      : 30/08/2026 06:51:08
+# Channels     : 147
+# Visits       : 599
 # Script HB    : https://livesport.io.vn/ok/m3u.php
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
@@ -15,13 +15,13 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 136
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 147
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 30/08/2026 04:55:32
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 30/08/2026 06:51:08
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 571
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 599
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,SKY 8 NZ
@@ -418,42 +418,75 @@ https://livesport.io.vn/ok/vip1.php?id=snwe
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-world-202.png" group-title="CANADA SPORTS" ,SPORTSNET WORLD
 https://livesport.io.vn/ok/vip1.php?id=snw
 
-#EXTINF:-1 tvg-id="sd-6MwdLb6HNPtXWjBanT" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Argentine Division 1 CA Rosario Central 1-2 Gimnasia La Plata
-https://livesport.io.vn/event.php?id=sd-6MwdLb6HNPtXWjBanT
+#EXTINF:-1 tvg-id="sd-6MweLB7Xx4AccmGnWb" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Mexico Ascenso MX Tlaxcala FC 2-1 Venados FC Yucatán
+https://livesport.io.vn/event.php?id=sd-6MweLB7Xx4AccmGnWb
 
-#EXTINF:-1 tvg-id="sd-6Mxip8LH3BHDeVxUJb" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Peruvian Liga 3 Universitario de Deportes Reserves 2-1 Union Huaral
-https://livesport.io.vn/event.php?id=sd-6Mxip8LH3BHDeVxUJb
+#EXTINF:-1 tvg-id="sd-6MwdLb6HNF6c2osvAs" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Argentine Division 1 CA Huracan 1-1 AA Estudiantes (Río Cuarto)
+https://livesport.io.vn/event.php?id=sd-6MwdLb6HNF6c2osvAs
 
-#EXTINF:-1 tvg-id="sd-6Mxj4TDCc3WY63NhNP" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Peruvian Liga 2 CD Estudiantil CNI 2-0 Alianza Universidad de Huánuco
-https://livesport.io.vn/event.php?id=sd-6Mxj4TDCc3WY63NhNP
+#EXTINF:-1 tvg-id="sd-6Mwdpntou1UdDySvBZ" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Mexico Liga MX Atlas 1-1 Queretaro FC
+https://livesport.io.vn/event.php?id=sd-6Mwdpntou1UdDySvBZ
 
-#EXTINF:-1 tvg-id="sd-6MwdpxeJfTRBiLKxZd" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Peruvian Liga 1 UTC Cajamarca 2-1 Universitario De Deportes
-https://livesport.io.vn/event.php?id=sd-6MwdpxeJfTRBiLKxZd
+#EXTINF:-1 tvg-id="sd-6Mxip8LH3L598RG8vB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,United States Women's Premier League Sporting JAX (W) 0-0 Dallas Trinity Women
+https://livesport.io.vn/event.php?id=sd-6Mxip8LH3L598RG8vB
 
-#EXTINF:-1 tvg-id="sd-6MwarUrne6PCsbT76P" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Colombian Torneo BetPlay Dimayor Atletico FC 2-0 Bogota FC
-https://livesport.io.vn/event.php?id=sd-6MwarUrne6PCsbT76P
+#EXTINF:-1 tvg-id="sd-6Mwdpntou854qQvfeF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Mexico Liga MX Pachuca 0-1 Club Deportivo Guadalajara
+https://livesport.io.vn/event.php?id=sd-6Mwdpntou854qQvfeF
 
-#EXTINF:-1 tvg-id="sd-6MwarUrndwbHPg9SUo" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Colombian Torneo BetPlay Dimayor Real Santander 1-0 Inter Palmira
-https://livesport.io.vn/event.php?id=sd-6MwarUrndwbHPg9SUo
+#EXTINF:-1 tvg-id="sd-6Mxj4jVSX4tTXpSJFR" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,MLS Next Pro Chattanooga 1-0 Carolina Core
+https://livesport.io.vn/event.php?id=sd-6Mxj4jVSX4tTXpSJFR
 
-#EXTINF:-1 tvg-id="sd-6MvZ6BAjXG9Q1VVKXD" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,United States Major League Soccer Seattle Sounders 2-1 Chicago Fire
-https://livesport.io.vn/event.php?id=sd-6MvZ6BAjXG9Q1VVKXD
+#EXTINF:-1 tvg-id="sd-6Mwd6CqgLjQqs1Hz9m" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,USL League One Westchester SC 1-2 Spokane Velocity
+https://livesport.io.vn/event.php?id=sd-6Mwd6CqgLjQqs1Hz9m
 
-#EXTINF:-1 tvg-id="sd-6MvVNKqWLgyQGyDpKH" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,LigaPro Serie A  Guayaquil City 1-1 Liga Dep Universitaria Quito
-https://livesport.io.vn/event.php?id=sd-6MvVNKqWLgyQGyDpKH
+#EXTINF:-1 tvg-id="sd-6Mwd6CqgLhDMzXU4zs" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,USL League One Richmond Kickers 0-1 Forward Madison FC
+https://livesport.io.vn/event.php?id=sd-6Mwd6CqgLhDMzXU4zs
 
-#EXTINF:-1 tvg-id="sd-6MweaVxyt9PArQw6fq" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Categoría Primera A Jaguares de Cordoba 1-0 America de Cali
-https://livesport.io.vn/event.php?id=sd-6MweaVxyt9PArQw6fq
+#EXTINF:-1 tvg-id="sd-6MvYqdAetsSrAk3Mcb" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,USL Championship Brooklyn FC 3-0 Sporting Jax
+https://livesport.io.vn/event.php?id=sd-6MvYqdAetsSrAk3Mcb
 
-#EXTINF:-1 tvg-id="sd-6MvZ6LyB4gsAftyC4P" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Brazilian Serie A Atlético Mineiro - MG 1-0 Vitória - BA
-https://livesport.io.vn/event.php?id=sd-6MvZ6LyB4gsAftyC4P
+#EXTINF:-1 tvg-id="sd-6MwarmBEqwVKax1B2F" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Mexico Liga MX Femenil Queretaro Women 0-2 Monterrey Women
+https://livesport.io.vn/event.php?id=sd-6MwarmBEqwVKax1B2F
 
-#EXTINF:-1 tvg-id="sd-6MvYquV6bsvHYzu1pB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,CHI Liga de Primera Deportes Limache 0-0 Everton CD
-https://livesport.io.vn/event.php?id=sd-6MvYquV6bsvHYzu1pB
+#EXTINF:-1 tvg-id="sd-6Mwd6CqgW6JXqWMM3D" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,USL League One Greenville Triumph 1-0 FC Naples
+https://livesport.io.vn/event.php?id=sd-6Mwd6CqgW6JXqWMM3D
 
-#EXTINF:-1 tvg-id="sd-6MvVNfQDpF2pD9C9rF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Brazilian Serie B Botafogo SP 0-0 Cuiaba
-https://livesport.io.vn/event.php?id=sd-6MvVNfQDpF2pD9C9rF
+#EXTINF:-1 tvg-id="sd-6Mxip8LH3NGczu6455" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,United States Women's Premier League Carolina Ascent Women 0-1 Tampa Bay Sun Women
+https://livesport.io.vn/event.php?id=sd-6Mxip8LH3NGczu6455
 
-#EXTINF:-1 tvg-id="sd-6MxiKkjzwvj5YxEB5R" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Paraguayan Primera Division Deportivo Recoleta 0-1 Olimpia Asuncion
-https://livesport.io.vn/event.php?id=sd-6MxiKkjzwvj5YxEB5R
+#EXTINF:-1 tvg-id="sd-6Mwd6CqgWasn9k6G2s" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,USL League One Chattanooga Red Wolves 0-1 Athletic Club Boise
+https://livesport.io.vn/event.php?id=sd-6Mwd6CqgWasn9k6G2s
+
+#EXTINF:-1 tvg-id="sd-6Mwd6CqgW473y2XRtK" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,USL League One Portland Hearts of Pine 0-2 Fort Wayne FC
+https://livesport.io.vn/event.php?id=sd-6Mwd6CqgW473y2XRtK
+
+#EXTINF:-1 tvg-id="sd-6MvYqd99ktyQJvKim5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,USL Championship Lexington 0-0 Colorado Springs
+https://livesport.io.vn/event.php?id=sd-6MvYqd99ktyQJvKim5
+
+#EXTINF:-1 tvg-id="sd-6Mxj4jVSWaKDDahPFm" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,MLS Next Pro Connecticut United FC 1-0 New York Red Bulls B
+https://livesport.io.vn/event.php?id=sd-6Mxj4jVSWaKDDahPFm
+
+#EXTINF:-1 tvg-id="sd-6MvZ6LyBEMLhcEdtB1" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Brazilian Serie A São Paulo - SP 2-0 Red Bull Bragantino
+https://livesport.io.vn/event.php?id=sd-6MvZ6LyBEMLhcEdtB1
+
+#EXTINF:-1 tvg-id="sd-6MvYqd9uv99X2Y1zrK" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,USL Championship Hartford Athletic 1-2 Birmingham Legion
+https://livesport.io.vn/event.php?id=sd-6MvYqd9uv99X2Y1zrK
+
+#EXTINF:-1 tvg-id="sd-6MweaVxyt7Bgyw7BWw" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,Categoría Primera A Atletico Junior Barranquilla 0-0 Independiente Santa Fe
+https://livesport.io.vn/event.php?id=sd-6MweaVxyt7Bgyw7BWw
+
+#EXTINF:-1 tvg-id="sd-6MvZ6BAk2NASRwy9Km" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,United States Major League Soccer New York Red Bulls 0-0 Philadelphia Union
+https://livesport.io.vn/event.php?id=sd-6MvZ6BAk2NASRwy9Km
+
+#EXTINF:-1 tvg-id="sd-6MvZ6BAk2FZzpWVPs5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,United States Major League Soccer DC United 0-0 Los Angeles FC
+https://livesport.io.vn/event.php?id=sd-6MvZ6BAk2FZzpWVPs5
+
+#EXTINF:-1 tvg-id="sd-6MvZ6BAk2DNWx2fUiB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,United States Major League Soccer Inter Miami CF 0-0 Montreal Impact
+https://livesport.io.vn/event.php?id=sd-6MvZ6BAk2DNWx2fUiB
+
+#EXTINF:-1 tvg-id="sd-6MvZ6BAk1wz9rft4du" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,United States Major League Soccer Toronto FC 0-0 New York City Football Club
+https://livesport.io.vn/event.php?id=sd-6MvZ6BAk1wz9rft4du
+
+#EXTINF:-1 tvg-id="sd-6MvZ6BAjWqy7SDQEqM" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" group-title="LIVE FOOTBALL" ,United States Major League Soccer Atlanta United 0-0 Charlotte FC
+https://livesport.io.vn/event.php?id=sd-6MvZ6BAjWqy7SDQEqM
 
