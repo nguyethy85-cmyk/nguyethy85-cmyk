@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788186305" group-title="🎯 TINHLAGI.PRO",Cập Nhật
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788207604" group-title="🎯 TINHLAGI.PRO",Cập Nhật
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788186305" group-title="🎯 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788207604" group-title="🎯 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788186305" group-title="🎯 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788207604" group-title="🎯 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
 https://tinhlagi.pro/logo.jpg
 #EXTINF:-1 tvg-id="hbohd" group-title="⭐ KÊNH YÊU THÍCH" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1650,11 +1650,11 @@ http://fs.uplink.kz/sts/mono.m3u8?token=onlinetv
 http://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="2763" group-title="🎭 Giải Trí" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ-3 International
 http://cdn4.skygo.mn/live/disk1/TV3Russia/HLSv3-FTA/TV3Russia.m3u8
-#EXTINF:-1 tvg-id="3017" group-title="🎭 Giải Trí" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
-http://vod.tuva.ru/friday/index.m3u8
-#EXTINF:-1 tvg-id="2227" group-title="🎭 Giải Trí" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
-https://streaming.televizor-24-tochka.ru/live/38.m3u8
-#EXTINF:-1 tvg-id="100057" group-title="🎭 Giải Trí" tvg-logo="https://i.imgur.com/gBokU5i.png",ТНТ4
+#EXTINF:-1 tvg-id="1671" group-title="🎭 Giải Trí" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
+http://api.dommir.top/ch/Pyatniza_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="101" group-title="🎭 Giải Trí" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
+http://api.dommir.top/ch/TNT_SD/playlist.m3u8
+#EXTINF:-1 tvg-id="100057" group-title="🎭 Giải Trí" tvg-logo="https://i.imgur.com/gBokU5i.png",ТНТ4 International
 http://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="1800" group-title="🎭 Giải Trí" tvg-logo="https://i.imgur.com/YBVZoDd.png",СТС Love
 http://fs.uplink.kz/sts_love/tracks-v1a1/mono.ts.m3u8?token=onlinetv
@@ -2030,8 +2030,8 @@ https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="1658" group-title="⭐ Đặc Sắc" tvg-logo="https://i.imgur.com/C6fylkt.png",RT Documentary
 http://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="187" group-title="⭐ Đặc Sắc" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
-http://live.smotrim.ru/vgtrk/4/kultura-hd/track_105_e50aac4b/chunklist.m3u8
+#EXTINF:-1 tvg-id="1100" group-title="⭐ Đặc Sắc" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
+http://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8
 #EXTINF:-1 tvg-id="222" group-title="⭐ Đặc Sắc" tvg-logo="https://i.imgur.com/yY39nMg.png",Спас
 http://tvspas.mediacdn.ru/cdn/spas/index.m3u8
 #EXTINF:-1 tvg-id="300006" group-title="⭐ Đặc Sắc" tvg-logo="https://i.imgur.com/w3OewHc.png",Союз
@@ -2204,8 +2204,8 @@ http://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="103" group-title="🌐 Thiết Yếu" tvg-logo="https://i.imgur.com/dad6X9r.png",Рен ТВ International
 http://fs.uplink.kz/ren/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="3035" group-title="🌐 Thiết Yếu" tvg-logo="https://i.imgur.com/4PAcpfM.png",Телеканал Звезда
-http://vod.tuva.ru/zvezda/index.m3u8
+#EXTINF:-1 tvg-id="330" group-title="🌐 Thiết Yếu" tvg-logo="https://i.imgur.com/4PAcpfM.png",Телеканал Звезда
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="3019" group-title="🌐 Thiết Yếu" tvg-logo="https://i.imgur.com/CrFWXTD.png",МИР
 https://tvcdn01.oktv.kz/tv/mir/index.m3u8
 #EXTINF:-1 tvg-id="2060" group-title="🌐 Thiết Yếu" tvg-logo="https://i.imgur.com/HIwJ4lc.png",Armenia 1 International
