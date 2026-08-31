@@ -4,9 +4,9 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 31/08/2026 05:35:15
+# Updated      : 31/08/2026 21:03:34
 # Channels     : 124
-# Visits       : 1240
+# Visits       : 1493
 # Script HB    : https://livesport.io.vn/ok/m3u.php
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
@@ -18,34 +18,34 @@ https://livesport.io.vn/spo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 124
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 31/08/2026 05:35:15
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 31/08/2026 21:03:34
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 1240
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 1493
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,EPL1
+#EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,SKY 8 NZ
 https://livesport.io.vn/ok/stalkvip.php?id=sky8nz
 
-#EXTINF:-1 group-logo="https://livesport.io.vn/logo/epl.png" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,EPL2
-https://livesport.io.vn/ok/vip1.php?id=select1
+#EXTINF:-1 group-logo="https://livesport.io.vn/logo/epl.png" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,SKY 7 NZ
+https://livesport.io.vn/ok/stalkvip.php?id=sky7nz
 
-#EXTINF:-1 group-logo="https://livesport.io.vn/logo/epl.png" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,EPL3
-https://livesport.io.vn/ok/vip1.php?id=usa
-
-#EXTINF:-1 group-logo="https://livesport.io.vn/logo/epl.png" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,EPL4
+#EXTINF:-1 group-logo="https://livesport.io.vn/logo/epl.png" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,SKY EPL
 https://livesport.io.vn/ok/vip1.php?id=skyepl
 
-#EXTINF:-1 group-logo="https://livesport.io.vn/logo/epl.png" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,EPL5
-https://livesport.io.vn/ok/stalkvip.php?id=skymain
-
-#EXTINF:-1 group-logo="https://livesport.io.vn/logo/laliga.png" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="LIVE FOOTBALL" ,SUPER SPORTS 2
-https://livesport.io.vn/ok/stalkvip.php?id=ss2
+#EXTINF:-1 group-logo="https://livesport.io.vn/logo/epl.png" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,SKY MAIN EVENT
+https://livesport.io.vn/ok/vip1.php?id=skymain
 
 #EXTINF:-1 group-logo="https://livesport.io.vn/logo/laliga.png" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="LIVE FOOTBALL" ,PREMIER SPORTS 1
-https://livesport.io.vn/ok/vip1.php?id=pre1
+https://livesport.io.vn/ok/stalkvip.php?id=pre1
 
 #EXTINF:-1 group-logo="https://livesport.io.vn/logo/laliga.png" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="LIVE FOOTBALL" ,PREMIER SPORTS 2
+https://livesport.io.vn/ok/stalkvip.php?id=pre2
+
+#EXTINF:-1 group-logo="https://livesport.io.vn/logo/laliga.png" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="LIVE FOOTBALL" ,PREMIER SPORTS 1B
+https://livesport.io.vn/ok/vip1.php?id=pre1
+
+#EXTINF:-1 group-logo="https://livesport.io.vn/logo/laliga.png" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="LIVE FOOTBALL" ,PREMIER SPORTS 2B
 https://livesport.io.vn/ok/vip1.php?id=pre2
 
 #EXTINF:-1 group-logo="https://livesport.io.vn/logo/laliga.png" tvg-logo="https://livesport.io.vn/logo/laliga.png" group-title="LIVE FOOTBALL" ,ESPN DEPORTES
