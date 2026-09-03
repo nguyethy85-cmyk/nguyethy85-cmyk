@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788390904" group-title="🎯 TINHLAGI.PRO",Cập Nhật
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788397804" group-title="🎯 TINHLAGI.PRO",Cập Nhật
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788390904" group-title="🎯 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788397804" group-title="🎯 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788390904" group-title="🎯 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788397804" group-title="🎯 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
 https://tinhlagi.pro/logo.jpg
 #EXTINF:-1 tvg-id="hbohd" group-title="⭐ KÊNH YÊU THÍCH" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -519,15 +519,9 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 #EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_640_360.png", 360 Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=phim-viet
-#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_640_360.png", 360 Phim Âu Mỹ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=phim-au-my
 #EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_640_360.png", 360 Hoạt hình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=hoat-hinh
-#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_640_360.png", 360 Phim Hoa Ngữ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=360-hoa-ngu
 #EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/08/10/1775617851169/1f38a5af77c1_640_360.png", 360 Hành Động Châu Á
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-hanh-dong-chau-a
@@ -537,9 +531,6 @@ https://vmttv.dpdns.org/tv360/?id=360-k-drama
 #EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_640_360.png", 360 Hài - Tình Cảm
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-hai-tinh-cam
-#EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_640_360.png", 360 Phim Kinh Điển
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vmttv.dpdns.org/tv360/?id=360-phim-kinh-dien
 #EXTINF:-1 group-title="🎬 Rạp Phim" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_640_360.png", 360 Anime
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=360-anime
@@ -1608,8 +1599,6 @@ https://live.fptplay53.net/epzhd2/kbs_vhls.smil/chunklist_b5000000.m3u8
 https://play-sh.quklive.com/live/1780907795235397.m3u8
 #EXTINF:-1 tvg-id="MCOTHD.th@HD" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="📺 Tổng Hợp",MCOT HD
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MRTV.mm@SD" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="📺 Tổng Hợp",MRTV
-https://mrtvott.com/cache/MRTV-HD/master.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="📺 Tổng Hợp" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
@@ -2254,8 +2243,6 @@ http://rfimonde96k.ice.infomaniak.ch/rfimonde-96k.mp3
 http://icecast-rian.cdnvideo.ru/voicerushi
 #EXTINF:-1 group-title="📦 Kênh Khác" tvg-id="vesti-fm" tvg-logo="https://i.imgur.com/v3Qejm1.png" radio="true",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
-#EXTINF:-1 group-title="📦 Kênh Khác" tvg-id="radio-mayak" tvg-logo="https://i.imgur.com/1FtDGbZ.png" radio="true",Маяк
-http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
 #EXTINF:-1 tvg-id="no_epg" group-title="📦 Kênh Khác" tvg-logo="https://i.imgur.com/bgBOgNX.png" radio="true",Радио Maximum
 http://maximum.hostingradio.ru/maximum128.mp3
 #EXTINF:-1 tvg-id="no_epg" group-title="📦 Kênh Khác" tvg-logo="https://i.imgur.com/MqN1yfa.png" radio="true",Радио Вера
@@ -2317,6 +2304,18 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷 Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png", TVN
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Cozy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live05.miekgo.app/live/87379114.m3u8
 #EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Mountain Dew
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Rockstar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live05.miekgo.app/live/82054853.m3u8
+#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Soda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live05.miekgo.app/live/02456966.m3u8
+#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV 247
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live05.miekgo.app/live/90865415.m3u8
