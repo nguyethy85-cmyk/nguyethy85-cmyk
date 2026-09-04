@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #TINHLAGI-SELECTION:b05eaa86f3e5868569d9e62ae6487e8c6ecec878f7a00c37c48d75d28ef146e8
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788477304" group-title="🎯 TINHLAGI.PRO",Cập Nhật
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788483907" group-title="🎯 TINHLAGI.PRO",Cập Nhật
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788477304" group-title="🎯 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788483907" group-title="🎯 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788477304" group-title="🎯 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788483907" group-title="🎯 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
 https://tinhlagi.pro/logo.jpg
 #EXTINF:-1 tvg-id="hbohd" group-title="⭐ KÊNH YÊU THÍCH" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1062,10 +1062,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 http://fs.uplink.kz/sts/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="102" group-title="🎭 Giải Trí" tvg-logo="https://i.imgur.com/WaLwOyt.jpeg",Домашний
 http://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="2763" group-title="🎭 Giải Trí" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ-3
+http://flussonic.linkintel.ru/tv-3/index.m3u8
 #EXTINF:-1 tvg-id="1671" group-title="🎭 Giải Trí" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница!
-http://api.dommir.top/ch/Pyatniza_HD/playlist.m3u8
+http://flussonic.linkintel.ru/Pyatnica/index.m3u8
 #EXTINF:-1 tvg-id="101" group-title="🎭 Giải Trí" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
-http://api.dommir.top/ch/TNT_SD/playlist.m3u8
+http://flussonic.linkintel.ru/tnt/index.m3u8
 #EXTINF:-1 tvg-id="100057" group-title="🎭 Giải Trí" tvg-logo="https://i.imgur.com/gBokU5i.png",ТНТ4 International
 http://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="1800" group-title="🎭 Giải Trí" tvg-logo="https://i.imgur.com/YBVZoDd.png",СТС Love
@@ -1168,7 +1170,7 @@ http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Truyện" tvg-id="447" tvg-logo="https://i.imgur.com/IOxIsPj.png",Наше Новое Кино
 http://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2180" group-title="🎬 Phim Truyện" tvg-logo="https://i.imgur.com/sMpamNO.png",Кино ТВ
-http://185.46.16.239:8000/Kino_TV
+http://flussonic.linkintel.ru/kino-tv/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Truyện" tvg-id="558" tvg-logo="https://i.imgur.com/iao7zLZ.png",Киносерия
 http://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬 Phim Truyện" tvg-id="203" tvg-logo="https://i.imgur.com/s0UYT8T.png",Кинопремьера HD
@@ -1216,7 +1218,7 @@ https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="1464" group-title="🧒 Thiếu Nhi" tvg-logo="https://i.imgur.com/DnlngRZ.png",Карусель International
 http://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="2011" group-title="🧒 Thiếu Nhi" tvg-logo="https://i.imgur.com/i2AP0hp.png",Ani
-http://185.46.16.239:8000/Ani
+http://stream.mcquack.net/306/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="🧒 Thiếu Nhi",Balapan
 http://live-3.otcnet.ru/Balapan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2195" group-title="🧒 Thiếu Nhi" tvg-logo="https://i.imgur.com/wKfB79s.png",Анекдот ТВ
@@ -1556,7 +1558,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="TSports7.th@SD" tvg-logo="https://i.imgur.com/KyI0s5n.png" group-title="⚽ Thể Thao",T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 #EXTINF:-1 tvg-id="2060" group-title="⚽ Thể Thao" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч!
-http://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8
+http://flussonic.linkintel.ru/match/index.m3u8
 #EXTINF:-1 tvg-id="259" tvg-logo="https://i.imgur.com/m7IC01U.png" group-title="⚽ Thể Thao",Extreme Sports
 http://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 tvg-id="2261" tvg-logo="https://i.postimg.cc/W163TDXX/Fast282013).png" group-title="⚽ Thể Thao",Fast&FunBox
