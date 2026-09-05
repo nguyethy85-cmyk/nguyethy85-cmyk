@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
-#TINHLAGI-SELECTION:70dfad2c057e4aafcf4b7edd8207dc0b88735f234fa8e8526936f93bf9d72159
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788635704" group-title="🎯 TINHLAGI.PRO",Cập Nhật
+#TINHLAGI-SELECTION:e9064a11ef8749f0d36bb42ec05655adfaaa68ec1acc0c8143b5965ad5f03e1b
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788643505" group-title="🎯 TINHLAGI.PRO",Cập Nhật
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788635704" group-title="🎯 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788643505" group-title="🎯 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788635704" group-title="🎯 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788643505" group-title="🎯 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=telegram&t=1788635704" group-title="🎯 TINHLAGI.PRO",Telegram @TINHLAGI
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=telegram&t=1788643505" group-title="🎯 TINHLAGI.PRO",Telegram @TINHLAGI
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=randomqr&t=1788635704" group-title="🎯 TINHLAGI.PRO",ỦNG HỘ TÁC GIẢ
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=randomqr&t=1788643505" group-title="🎯 TINHLAGI.PRO",ỦNG HỘ TÁC GIẢ
 https://tinhlagi.pro/logo.jpg
 #EXTINF:-1 tvg-id="hbohd" group-title="⭐ KÊNH YÊU THÍCH" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1033,6 +1033,8 @@ http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8
 https://live.fptplay53.net/epzhd2/kbs_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="MCOTHD.th@HD" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="📺 Tổng Hợp",MCOT HD
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MRTV.mm@SD" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="📺 Tổng Hợp",MRTV
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="📺 Tổng Hợp" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
@@ -1400,8 +1402,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="586" group-title="🎵 Ca Nhạc" tvg-logo="https://i.imgur.com/41K9Y2s.png",Жара
 http://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
-#EXTINF:-1 group-title="⭐ Đặc Sắc" group-title="KÊNH ĐẶC SẮC" group-logo="https://i.postimg.cc/vZkhLrtH/Dacsac.png" tvg-logo="https://i.imgur.com/qKLEGU7.png",ANGEL TV
-https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="⭐ Đặc Sắc" tvg-logo="https://i.imgur.com/hnKYaz4.png",ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
@@ -1739,39 +1739,9 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ih3bjnxk6x/out/v1
 #EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Bí Đao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live05.miekgo.app/live/99121525.m3u8
-#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Cozy
+#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Mountain Dew
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/87379114.m3u8
-#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV C2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/08552895.m3u8
-#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Revive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/33982309.m3u8
-#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV Soda
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/02456966.m3u8
-#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV 247
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/90865415.m3u8
-#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/ColaTV_logo.png", BLV 7up
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live05.miekgo.app/live/78905744.m3u8
-#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV KaKa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8
-#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV A Heo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8
+https://live05.miekgo.app/live/87547578.m3u8
 #EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV Kevin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8
-#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV Pháo Thủ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa4/index.m3u8
-#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV Tày
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa8/index.m3u8
-#EXTINF:-1 group-title="📦 Kênh Mới" tvg-logo="https://phaohoa1.live/images/logo-220.webp", BLV Văn Minh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luong.phaohoa.live/live/phaohoa3/index.m3u8
