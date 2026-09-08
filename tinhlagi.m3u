@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #TINHLAGI-SELECTION:7221ac32f905d63efd960ec214d530590553b01695fcd12a26a4ee80bd867fb6
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788827172" group-title="🎯 TINHLAGI.PRO",Cập Nhật
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788844205" group-title="🎯 TINHLAGI.PRO",Cập Nhật
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788827172" group-title="🎯 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788844205" group-title="🎯 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788827172" group-title="🎯 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788844205" group-title="🎯 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=telegram&t=1788827172" group-title="🎯 TINHLAGI.PRO",Telegram @TINHLAGI
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=telegram&t=1788844205" group-title="🎯 TINHLAGI.PRO",Telegram @TINHLAGI
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=randomqr&t=1788827172" group-title="🎯 TINHLAGI.PRO",ỦNG HỘ TÁC GIẢ
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=randomqr&t=1788844205" group-title="🎯 TINHLAGI.PRO",ỦNG HỘ TÁC GIẢ
 https://tinhlagi.pro/logo.jpg
 #EXTINF:-1 tvg-id="hbohd" group-title="⭐ KÊNH YÊU THÍCH" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -347,7 +347,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_56000
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📺 VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV1.jpg", VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="📺 VTV" tvg-logo="1" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📺 VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV2_ident2026.jpg", VTV2
 https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="📺 VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV4.jpg" catchup="append" catchup-days="2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=378&time=${start}&offset=${duration}, VTV4
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -1003,6 +1003,8 @@ https://v7.kkphimplayer7.com/20260821/1tcAZTSo/3500kb/hls/index.m3u8
 https://v7.kkphimplayer7.com/20260827/WX44Nosv/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="🔴 Phim Sự Kiện" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/nobita%20v%C3%A0%20l%C3%A2u%20%C4%91%C3%A0i%20d%C6%B0%E1%BB%9Bi%20%C4%91%C3%A1y%20bi%E1%BB%83n%20phi%C3%AAn%20b%E1%BA%A3n%20m%E1%BB%9Bi.jpg", Doraemon Movie 45: Nobita và lâu đài dưới đáy biển phiên bản mới (Vietsub)
 https://v7.kkphimplayer7.com/20260828/lfE5hjEB/3500kb/hls/index.m3u8
+#EXTINF:-1 group-title="🔴 Phim Sự Kiện" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/nobita%20v%C3%A0%20l%C3%A2u%20%C4%91%C3%A0i%20d%C6%B0%E1%BB%9Bi%20%C4%91%C3%A1y%20bi%E1%BB%83n%20phi%C3%AAn%20b%E1%BA%A3n%20m%E1%BB%9Bi.jpg", Doraemon Movie 45: Nobita và lâu đài dưới đáy biển phiên bản mới (lồng tiếng)
+https://rumble.com/hls-vod/7DR4aUQBNug/playlist.m3u8
 #EXTINF:-1 group-title="🔴 Phim Sự Kiện" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 1
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="🔴 Phim Sự Kiện" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 2
@@ -1047,6 +1049,8 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="📺 Tổng Hợp" tvg-logo="https://i.imgur.com/LOY0rtp.png",1+1 International
 https://dash.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+#EXTINF:-1 group-title="📺 Tổng Hợp" tvg-logo="https://i.imgur.com/Y392Hh4.png",Інтер+
+https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="2294" group-title="📺 Tổng Hợp" tvg-logo="https://i.postimg.cc/N99khqkq/Belros.png",Союзный
 http://souzny.mediacdn.ru/cdn/souzny/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="🎭 Giải Trí" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
