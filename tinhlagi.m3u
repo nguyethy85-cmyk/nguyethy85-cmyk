@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #TINHLAGI-SELECTION:13be0da82335c9c3a2848aa292e02c03fcd42703542ac008ae4644965c979c42
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788966604" group-title="🎯 TINHLAGI.PRO",Cập Nhật
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=clock&t=1788979205" group-title="🎯 TINHLAGI.PRO",Cập Nhật
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788966604" group-title="🎯 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=ip&t=1788979205" group-title="🎯 TINHLAGI.PRO",Địa Chỉ IP Của Bạn
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788966604" group-title="🎯 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=welcome&t=1788979205" group-title="🎯 TINHLAGI.PRO",Chào Khách Lạ Hôm Nay
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=telegram&t=1788966604" group-title="🎯 TINHLAGI.PRO",Telegram @TINHLAGI
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=telegram&t=1788979205" group-title="🎯 TINHLAGI.PRO",Telegram @TINHLAGI
 https://tinhlagi.pro/logo.jpg
-#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=randomqr&t=1788966604" group-title="🎯 TINHLAGI.PRO",ỦNG HỘ TÁC GIẢ
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/info_card.php?kind=randomqr&t=1788979205" group-title="🎯 TINHLAGI.PRO",ỦNG HỘ TÁC GIẢ
 https://tinhlagi.pro/logo.jpg
 #EXTINF:-1 tvg-id="hbohd" group-title="⭐ KÊNH YÊU THÍCH" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -353,7 +353,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_56000
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="📺 VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="📺 VTV" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/b5/5c/cc/c2/22/29/b5cc2-pvtv5hd-channel-unkn.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}, VTV5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📺 VTV" tvg-logo="1" , VTV5
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
 https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📺 VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=615&time=${start}&offset=${duration}, VTV5 Tây Nam Bộ
@@ -1657,10 +1657,16 @@ http://sk.cri.cn/905.m3u8
 https://kctv.koryofront.org/stream/kcradio1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="📦 Kênh Khác" radio="true",KCBS2
 https://kctv.koryofront.org/stream/kcradio2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2vgbQbj/lao-national-radio-la.png" group-title="📦 Kênh Khác" radio="true",Lao National Radio
+https://radio.lnr.org.la/fm103
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lzd1sVKB/rnk-kh.png" group-title="📦 Kênh Khác" radio="true",National Radio of Kampuchea
+http://119.82.252.6:8080/broadwave.mp3
 #EXTINF:-1 group-title="📦 Kênh Khác" tvg-logo="https://i.postimg.cc/7LLC6d2m/RFI.png" radio="true",Radio France Internationale
 http://rfimonde96k.ice.infomaniak.ch/rfimonde-96k.mp3
 #EXTINF:-1 tvg-id="no_epg" group-title="📦 Kênh Khác" tvg-logo="https://i.imgur.com/NCDtVhn.png" radio="true",Sputnik
 http://icecast-rian.cdnvideo.ru/voicerushi
+#EXTINF:-1 group-title="📦 Kênh Khác" tvg-logo="https://i.ibb.co/1tMsJRTv/wrn-uk.png" radio="true",WRN English for North American Service
+http://shoutcast.wrn.org:8025/NAMAAP
 #EXTINF:-1 group-title="📦 Kênh Khác" tvg-id="vesti-fm" tvg-logo="https://i.imgur.com/v3Qejm1.png" radio="true",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
 #EXTINF:-1 group-title="📦 Kênh Khác" tvg-id="radio-mayak" tvg-logo="https://i.imgur.com/1FtDGbZ.png" radio="true",Маяк
