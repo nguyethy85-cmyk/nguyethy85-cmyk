@@ -4,9 +4,9 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 06/09/2026 22:49:22
-# Channels     : 127
-# Visits       : 1625
+# Updated      : 09/09/2026 20:58:32
+# Channels     : 130
+# Visits       : 2617
 # Script HB    : https://livesport.io.vn/ok/m3u.php
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
@@ -15,13 +15,13 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 127
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 130
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 06/09/2026 22:49:22
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 09/09/2026 20:58:32
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 1625
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 2617
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,EPL1
@@ -76,13 +76,13 @@ https://livesport.io.vn/ok/smart.php?id=skyaction
 https://livesport.io.vn/ok/smart.php?id=skymix
 
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/pr1.png" group-title="UK SPORTS" ,PREMIER SPORTS 1
-https://livesport.io.vn/ok/vip1.php?id=pre1
+https://livesport.io.vn/ok/stalkvip.php?id=pre1
 
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/pr2.png" group-title="UK SPORTS" ,PREMIER SPORTS 2
-https://livesport.io.vn/ok/vip1.php?id=pre2
+https://livesport.io.vn/ok/stalkvip.php?id=pre2
 
 #EXTINF:-1 tvg-id="MUTV.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-uk-mutv-114.png" group-title="UK SPORTS" ,MUTV
-https://livesport.io.vn/ok/vip1.php?id=mutv
+https://livesport.io.vn/ok/stalkvip.php?id=mutv
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated-Flag-Saudi-Arabia.gif" tvg-logo="https://livesport.io.vn/logo/sport/be1.png" group-title="UAE SPORTS" ,BEIN SPORT 1
 https://livesport.io.vn/ok/live.php?id=b1
@@ -346,10 +346,10 @@ https://livesport.io.vn/ok/stalkvip.php?id=be9fr
 https://livesport.io.vn/ok/stalkvip.php?id=be10fr
 
 #EXTINF:-1 tvg-id="FS1.HD.us2" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://livesport.io.vn/logo/sport/fs1.png" group-title="US SPORTS" ,FOX SPORTS 1
-https://livesport.io.vn/ok/vip1.php?id=fs1
+https://livesport.io.vn/ok/smart.php.php?id=fs1
 
 #EXTINF:-1 tvg-id="FS2.HD.us2" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://livesport.io.vn/logo/sport/fs2.png" group-title="US SPORTS" ,FOX SPORTS 2
-https://livesport.io.vn/ok/vip1.php?id=fs2
+https://livesport.io.vn/ok/smart.php.php?id=fs2
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-fox-soccer-plus-56.png" group-title="US SPORTS" ,FOX SOCCER PLUS
 https://livesport.io.vn/ok/smart.php?id=fsplus
@@ -358,62 +358,71 @@ https://livesport.io.vn/ok/smart.php?id=fsplus
 https://livesport.io.vn/ok/smart.php?id=fsdeport
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://livesport.io.vn/logo/sport/espn.png" group-title="US SPORTS" ,ESPN
-https://livesport.io.vn/ok/vip1.php?id=espn
+https://livesport.io.vn/ok/smart.php.php?id=espn
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://livesport.io.vn/logo/sport/espn2.png" group-title="US SPORTS" ,ESPN 2
-https://livesport.io.vn/ok/vip1.php?id=espn2
+https://livesport.io.vn/ok/smart.php.php?id=espn2
 
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://livesport.io.vn/logo/sport/espnu.png" group-title="US SPORTS" ,ESPN U
-https://livesport.io.vn/ok/vip1.php?id=espnu
+https://livesport.io.vn/ok/smart.php.php?id=espnu
 
 #EXTINF:-1 tvg-id="ESPNEWS.HD.us2" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://livesport.io.vn/logo/sport/espnews.png" group-title="US SPORTS" ,ESPN NEWS
-https://livesport.io.vn/ok/vip1.php?id=espnews
+https://livesport.io.vn/ok/smart.php.php?id=espnews
 
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-deportes-58.png" group-title="US SPORTS" ,ESPN DEPORTES
-https://livesport.io.vn/ok/vip1.php?id=espndeport
+https://livesport.io.vn/ok/smart.php.php?id=espndeport
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://livesport.io.vn/logo/sport/bxtra.png" group-title="US SPORTS" ,BEIN US
-https://livesport.io.vn/ok/vip1.php?id=beinus
+https://livesport.io.vn/ok/smart.php.php?id=beinus
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://livesport.io.vn/logo/sport/bxtraes.png" group-title="US SPORTS" ,BEIN ES
-https://livesport.io.vn/ok/vip1.php?id=beines
+https://livesport.io.vn/ok/smart.php.php?id=beines
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-usa-network-74.png" group-title="US SPORTS" ,USA NETWORK
-https://livesport.io.vn/ok/vip1.php?id=usa
+https://livesport.io.vn/ok/smart.php.php?id=usa
 
 #EXTINF:-1 tvg-id="TSN.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://livesport.io.vn/logo/sport/tsn1.png" group-title="CANADA SPORTS" ,TSN 1
-https://livesport.io.vn/ok/vip1.php?id=tsn1
+https://livesport.io.vn/ok/smart.php.php?id=tsn1
 
 #EXTINF:-1 tvg-id="TSN.2.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://livesport.io.vn/logo/sport/tsn2.png" group-title="CANADA SPORTS" ,TSN 2
-https://livesport.io.vn/ok/vip1.php?id=tsn2
+https://livesport.io.vn/ok/smart.php.php?id=tsn2
 
 #EXTINF:-1 tvg-id="TSN.3.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://livesport.io.vn/logo/sport/tsn3.png" group-title="CANADA SPORTS" ,TSN 3
-https://livesport.io.vn/ok/vip1.php?id=tsn3
+https://livesport.io.vn/ok/smart.php.php?id=tsn3
 
 #EXTINF:-1 tvg-id="TSN.4.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://livesport.io.vn/logo/sport/tsn4.png" group-title="CANADA SPORTS" ,TSN 4
-https://livesport.io.vn/ok/vip1.php?id=tsn4
+https://livesport.io.vn/ok/smart.php.php?id=tsn4
 
 #EXTINF:-1 tvg-id="TSN.5.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://livesport.io.vn/logo/sport/tsn5.png" group-title="CANADA SPORTS" ,TSN 5
-https://livesport.io.vn/ok/vip1.php?id=tsn5
+https://livesport.io.vn/ok/smart.php.php?id=tsn5
 
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-360-201.png" group-title="CANADA SPORTS" ,SPORTSNET 360
-https://livesport.io.vn/ok/vip1.php?id=sn360
+https://livesport.io.vn/ok/smart.php.php?id=sn360
 
 #EXTINF:-1 tvg-id="Sportsnet.East.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-east-197.png" group-title="CANADA SPORTS" ,SPORTSNET EAST
-https://livesport.io.vn/ok/vip1.php?id=sne
+https://livesport.io.vn/ok/smart.php.php?id=sne
 
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-one-200.png" group-title="CANADA SPORTS" ,SPORTSNET ONE
-https://livesport.io.vn/ok/vip1.php?id=sn1
+https://livesport.io.vn/ok/smart.php.php?id=sn1
 
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-ontario-203.png" group-title="CANADA SPORTS" ,SPORTSNET ONTARIO
-https://livesport.io.vn/ok/vip1.php?id=sno
+https://livesport.io.vn/ok/smart.php.php?id=sno
 
 #EXTINF:-1 tvg-id="Sportsnet.(Pacific).HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-pacific-198.png" group-title="CANADA SPORTS" ,SPORTSNET PACIFIC
-https://livesport.io.vn/ok/vip1.php?id=snp
+https://livesport.io.vn/ok/smart.php.php?id=snp
 
 #EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-west-199.png" group-title="CANADA SPORTS" ,SPORTSNET WEST
-https://livesport.io.vn/ok/vip1.php?id=snwe
+https://livesport.io.vn/ok/smart.php.php?id=snwe
 
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-world-202.png" group-title="CANADA SPORTS" ,SPORTSNET WORLD
-https://livesport.io.vn/ok/vip1.php?id=snw
+https://livesport.io.vn/ok/smart.php.php?id=snw
+
+#EXTINF:-1 tvg-id="sd-6Mxj4xb8miYJqYxW4w" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,Malaysian FA Cup DPMM FC 2-2 Terengganu FC
+https://livesport.io.vn/event.php?id=sd-6Mxj4xb8miYJqYxW4w
+
+#EXTINF:-1 tvg-id="sd-6Mxj4xb8bZVXayYtxf" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,Malaysian FA Cup Kuala Lumpur City FC 0-0 Perak FC
+https://livesport.io.vn/event.php?id=sd-6Mxj4xb8bZVXayYtxf
+
+#EXTINF:-1 tvg-id="sd-6Mwe5LrgE5sjUufW3h" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,Malawi Premier League Dedza Dynamos 0-0 Mitundu Baptist
+https://livesport.io.vn/event.php?id=sd-6Mwe5LrgE5sjUufW3h
 
