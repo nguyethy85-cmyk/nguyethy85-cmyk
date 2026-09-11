@@ -4,9 +4,9 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 11/09/2026 18:46:10
-# Channels     : 129
-# Visits       : 3455
+# Updated      : 12/09/2026 01:36:30
+# Channels     : 125
+# Visits       : 3682
 # Script HB    : https://livesport.io.vn/ok/m3u.php
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
@@ -15,13 +15,13 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 129
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 125
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 11/09/2026 18:46:10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 12/09/2026 01:36:30
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 3455
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 3682
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,EPL1
@@ -417,9 +417,21 @@ https://livesport.io.vn/ok/smart.php?id=snwe
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" group-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sportsnet-world-202.png" group-title="CANADA SPORTS" ,SPORTSNET WORLD
 https://livesport.io.vn/ok/smart.php?id=snw
 
-#EXTINF:-1 tvg-id="sd-6MxjZAJW4s9UAqTr9V" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,South Australia National Premier Leagues Adelaide City FC 1-2 West Torrens Birkalla
-https://livesport.io.vn/event.php?id=sd-6MxjZAJW4s9UAqTr9V
+#EXTINF:-1 tvg-id="sd-6MwdpnodViBYwEtWJB" tvg-logo="https://livesport.io.vn/logo/ligue1.png" group-title="LIVE FOOTBALL" ,French Ligue 2 Rodez Aveyron 0-1 Grenoble
+https://livesport.io.vn/event.php?id=sd-6MwdpnodViBYwEtWJB
 
-#EXTINF:-1 tvg-id="sd-6MxjZ723BFkUXA1J2K" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,Australia Darwin Premier League Casuarina FC 1-3 Port Darwin FC
-https://livesport.io.vn/event.php?id=sd-6MxjZ723BFkUXA1J2K
+#EXTINF:-1 tvg-id="sd-6Mwb6kcqxtcxshxuV1" tvg-logo="https://livesport.io.vn/logo/epl.png" group-title="LIVE FOOTBALL" ,Bosnia and Herzegovina Premier League NK Celik Zenica 2-0 Radnik Bijeljina
+https://livesport.io.vn/event.php?id=sd-6Mwb6kcqxtcxshxuV1
+
+#EXTINF:-1 tvg-id="sd-6MwdpnodVUzfiMw1No" tvg-logo="https://livesport.io.vn/logo/ligue1.png" group-title="LIVE FOOTBALL" ,French Ligue 2 Dijon 2-1 Stade Lavallois MFC
+https://livesport.io.vn/event.php?id=sd-6MwdpnodVUzfiMw1No
+
+#EXTINF:-1 tvg-id="sd-6MwdpnodVfz54m4b9H" tvg-logo="https://livesport.io.vn/logo/ligue1.png" group-title="LIVE FOOTBALL" ,French Ligue 2 Montpellier Hérault SC 0-0 Pau FC
+https://livesport.io.vn/event.php?id=sd-6MwdpnodVfz54m4b9H
+
+#EXTINF:-1 tvg-id="sd-6MwdpnodVdnbCHEfzP" tvg-logo="https://livesport.io.vn/logo/ligue1.png" group-title="LIVE FOOTBALL" ,French Ligue 2 Nancy 1-1 Stade DE Reims
+https://livesport.io.vn/event.php?id=sd-6MwdpnodVdnbCHEfzP
+
+#EXTINF:-1 tvg-id="sd-6MwdpnodVXC9aqkvXh" tvg-logo="https://livesport.io.vn/logo/ligue1.png" group-title="LIVE FOOTBALL" ,French Ligue 2 Clermont 0-0 Boulogne
+https://livesport.io.vn/event.php?id=sd-6MwdpnodVXC9aqkvXh
 
