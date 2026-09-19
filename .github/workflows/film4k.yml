@@ -1,0 +1,151 @@
+name: Generate M3U
+
+on:
+  schedule:
+    - cron: "* * * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate playlist.m3u
+        run: |
+          python3 <<'PY'
+          import json
+          import urllib.request
+
+          JSON_URL = "https://raw.githubusercontent.com/Gicnycjgfg/film4k-tv/refs/heads/main/film4k_tv.json"
+          OUTPUT = "film4k.m3u"
+
+          # Download JSON
+          request = urllib.request.Request(
+              JSON_URL,
+              headers={
+                  "User-Agent": "Mozilla/5.0"
+              }
+          )
+
+          with urllib.request.urlopen(request, timeout=30) as response:
+              data = json.load(response)
+
+          channels = data.get("channels", [])
+
+          with open(OUTPUT, "w", encoding="utf-8") as f:
+
+              f.write("#EXTM3U\n\n")
+
+              for ch in channels:
+
+                  name = ch.get("name", "Unknown")
+                  logo = ch.get("logo", "")
+                  group = ch.get("group", "Khác")
+
+                  # Lấy URL stream
+                  url = (
+                      ch.get("streamUrl")
+                      or ch.get("url")
+                      or ""
+                  )
+
+                  if not url:
+                      continue
+
+                  # -------------------------
+                  # EXTINF
+                  # -------------------------
+
+                  f.write(
+                      f'#EXTINF:-1 '
+                      f'tvg-name="{name}" '
+                      f'tvg-logo="{logo}" '
+                      f'group-title="{group}",'
+                      f'{name}\n'
+                  )
+
+                  # -------------------------
+                  # ClearKey
+                  # -------------------------
+
+                  clear_key = ch.get("clearKey")
+
+                  key_id = ""
+                  key = ""
+
+                  if isinstance(clear_key, dict):
+                      key_id = clear_key.get("keyId", "")
+                      key = clear_key.get("key", "")
+
+                  # -------------------------
+                  # Detect DASH
+                  # -------------------------
+
+                  is_mpd = (
+                      ".mpd" in url.lower()
+                      or "manifest.mpd" in url.lower()
+                      or "dash" in url.lower()
+                  )
+
+                  # -------------------------
+                  # KodiProp ClearKey
+                  # -------------------------
+
+                  if is_mpd and key_id and key:
+
+                      license_key = f"{key_id}:{key}"
+
+                      f.write(
+                          "#KODIPROP:inputstreamaddon="
+                          "inputstream.adaptive\n"
+                      )
+
+                      f.write(
+                          "#KODIPROP:"
+                          "inputstream.adaptive.manifest_type=dash\n"
+                      )
+
+                      f.write(
+                          "#KODIPROP:"
+                          "inputstream.adaptive.license_type="
+                          "org.w3.clearkey\n"
+                      )
+
+                      f.write(
+                          "#KODIPROP:"
+                          "inputstream.adaptive.license_key="
+                          f"{license_key}\n"
+                      )
+
+                  # -------------------------
+                  # Stream URL
+                  # -------------------------
+
+                  f.write(url + "\n\n")
+
+          print(
+              f"Generated {OUTPUT}: "
+              f"{len(channels)} channels"
+          )
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add film4k.m3u
+
+          if git diff --cached --quiet; then
+            echo "Playlist unchanged"
+          else
+            git commit -m "Auto update playlist"
+            git push
+          fi
