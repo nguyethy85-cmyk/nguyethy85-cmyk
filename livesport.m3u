@@ -4,9 +4,9 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 22/09/2026 13:50:49
-# Channels     : 143
-# Visits       : 249
+# Updated      : 22/09/2026 23:51:54
+# Channels     : 141
+# Visits       : 1321
 # Script HB    : https://livesport.io.vn/ok/m3u.php
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
@@ -15,13 +15,13 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 143
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 141
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 22/09/2026 13:50:49
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 22/09/2026 23:51:54
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 249
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 1321
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 group-logo="https://media-cdn-v2.laodong.vn/storage/newsportal/2026/5/27/1708909/Asiad-20-01.jpeg" tvg-logo="https://media-cdn-v2.laodong.vn/storage/newsportal/2026/5/27/1708909/Asiad-20-01.jpeg" group-title="ASIAN GAMES 2026" ,ASIAN GAMES 1
@@ -192,14 +192,14 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ok/kids.xml
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Animated-Flag-Czech.gif" tvg-logo="https://www.igamingtoday.com/wp-content/uploads/2025/06/Logotipo_da_CazeTV.png" group-title="WORLD SPORTS 1 <MPD>" ,CAZETV 1
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Animated-Flag-Czech.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-cazetv-3064.png" group-title="WORLD SPORTS 1 <MPD>" ,CAZETV 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ok/kids.xml
 https://bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
 
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Animated-Flag-Czech.gif" tvg-logo="https://www.igamingtoday.com/wp-content/uploads/2025/06/Logotipo_da_CazeTV.png" group-title="WORLD SPORTS 1 <MPD>" ,CAZETV 2
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Animated-Flag-Czech.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-cazetv-3064.png" group-title="WORLD SPORTS 1 <MPD>" ,CAZETV 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -615,12 +615,6 @@ https://livesport.io.vn/ok/smart.php?id=beinxtra
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-usa-network-74.png" group-title="US SPORTS" ,USA NETWORK
 https://livesport.io.vn/ok/iptv.php?id=usa
 
-#EXTINF:-1 tvg-id="sd-6MwarbMJpb2YtQFmdh" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/23fc1501bb2c9e45bfa90092c353fad5.png" group-title="LIVE FOOTBALL" ,OCA Asian Games Philippines U23 2-1 Kuwait U23
-https://livesport.io.vn/event.php?id=sd-6MwarbMJpb2YtQFmdh
-
-#EXTINF:-1 tvg-id="sd-6MwarbMJq5boCdzgdM" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/23fc1501bb2c9e45bfa90092c353fad5.png" group-title="LIVE FOOTBALL" ,OCA Asian Games Vietnam U23 0-2 Uzbekistan U23
-https://livesport.io.vn/event.php?id=sd-6MwarbMJq5boCdzgdM
-
-#EXTINF:-1 tvg-id="sd-6MwarbMJfE8ruuCQkF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/23fc1501bb2c9e45bfa90092c353fad5.png" group-title="LIVE FOOTBALL" ,OCA Asian Games South Korea U23 0-0 Saudi Arabia U23
-https://livesport.io.vn/event.php?id=sd-6MwarbMJfE8ruuCQkF
+#EXTINF:-1 tvg-id="sd-6MxjZfciJBanvjSjJP" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/9f78213cf535a1c2a63de67b0673d599.png" group-title="LIVE FOOTBALL" ,United States Women's Premier League DC Power Women 1-1 Fort Lauderdale Utd (W)
+https://livesport.io.vn/event.php?id=sd-6MxjZfciJBanvjSjJP
 
