@@ -4,9 +4,9 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 23/09/2026 02:55:34
-# Channels     : 140
-# Visits       : 1482
+# Updated      : 23/09/2026 07:56:05
+# Channels     : 143
+# Visits       : 1773
 # Script HB    : https://livesport.io.vn/ok/m3u.php
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
@@ -15,13 +15,13 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 140
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 143
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 23/09/2026 02:55:34
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 23/09/2026 07:56:05
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 1482
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 1773
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 group-logo="https://media-cdn-v2.laodong.vn/storage/newsportal/2026/5/27/1708909/Asiad-20-01.jpeg" tvg-logo="https://media-cdn-v2.laodong.vn/storage/newsportal/2026/5/27/1708909/Asiad-20-01.jpeg" group-title="ASIAN GAMES 2026" ,ASIAN GAMES 1
@@ -614,4 +614,13 @@ https://livesport.io.vn/ok/smart.php?id=beinxtra
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-usa-network-74.png" group-title="US SPORTS" ,USA NETWORK
 https://livesport.io.vn/ok/iptv.php?id=usa
+
+#EXTINF:-1 tvg-id="sd-6MxjZGtuoPkCGh81Jo" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="LIVE FOOTBALL" ,Categoría Primera A Independiente Santa Fe 0-0 Deportivo Cali
+https://livesport.io.vn/event.php?id=sd-6MxjZGtuoPkCGh81Jo
+
+#EXTINF:-1 tvg-id="sd-6MwarbMJpy1MbCWwAf" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/23fc1501bb2c9e45bfa90092c353fad5.png" group-title="LIVE FOOTBALL" ,OCA Asian Games Iran U23 0-0 North Korea U23
+https://livesport.io.vn/event.php?id=sd-6MwarbMJpy1MbCWwAf
+
+#EXTINF:-1 tvg-id="sd-6MwarbMJKXCzLRbrz3" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/23fc1501bb2c9e45bfa90092c353fad5.png" group-title="LIVE FOOTBALL" ,OCA Asian Games China U23 0-0 United Arab Emirates U23
+https://livesport.io.vn/event.php?id=sd-6MwarbMJKXCzLRbrz3
 
