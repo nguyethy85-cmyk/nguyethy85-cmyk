@@ -4,9 +4,9 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 26/09/2026 12:17:22
-# Channels     : 176
-# Visits       : 8759
+# Updated      : 26/09/2026 16:56:42
+# Channels     : 167
+# Visits       : 9250
 # Script HB    : https://livesport.io.vn/ok/m3u.php
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
@@ -15,14 +15,20 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 176
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 167
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 26/09/2026 12:17:22
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 26/09/2026 16:56:42
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 8759
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 9250
 https://livesport.io.vn/spo.m3u8
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEMqanIDQi9wU5N0f8SMypPqU9TgxaclBSKHUKCtMu4u3DrURy_mpsYKJ&s=10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEMqanIDQi9wU5N0f8SMypPqU9TgxaclBSKHUKCtMu4u3DrURy_mpsYKJ&s=10" group-title="FIFA ASEAN CUP 2026" ,ASEAN CUP 1
+https://10.fast.hidns.vip/163189/viu6/index.php
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEMqanIDQi9wU5N0f8SMypPqU9TgxaclBSKHUKCtMu4u3DrURy_mpsYKJ&s=10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEMqanIDQi9wU5N0f8SMypPqU9TgxaclBSKHUKCtMu4u3DrURy_mpsYKJ&s=10" group-title="FIFA ASEAN CUP 2026" ,ASEAN CUP 2
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
 #EXTINF:-1 group-logo="https://media-cdn-v2.laodong.vn/storage/newsportal/2026/5/27/1708909/Asiad-20-01.jpeg" tvg-logo="https://media-cdn-v2.laodong.vn/storage/newsportal/2026/5/27/1708909/Asiad-20-01.jpeg" group-title="ASIAN GAMES 2026" ,ASIAN GAMES 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -615,111 +621,78 @@ https://livesport.io.vn/ok/smart.php?id=beinxtra
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-usa-network-74.png" group-title="US SPORTS" ,USA NETWORK
 https://livesport.io.vn/ok/iptv.php?id=usa
 
-#EXTINF:-1 tvg-id="sd-6MxjZVpEkVan4RMEAb" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/70f03bd4da7c486b8ca8f11ab251ce34.png" group-title="LIVE FOOTBALL" ,12:00 Anh Khaan Khuns-Erchim FC 1-1 Khovd Broncos
-https://livesport.io.vn/event.php?id=sd-6MxjZVpEkVan4RMEAb
-
-#EXTINF:-1 tvg-id="sd-6MxjZfhsMuhEdPtCCX" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/23fc1501bb2c9e45bfa90092c353fad5.png" group-title="LIVE FOOTBALL" ,13:00 OCA Asian Games China U23 0-0 Thailand U23
-https://livesport.io.vn/event.php?id=sd-6MxjZfhsMuhEdPtCCX
-
-#EXTINF:-1 tvg-id="sd-6Mxj4jZ9ncnrJA4nj1" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/6c3c84e1c02d4b5226e5d09361aca6ab.png" group-title="LIVE FOOTBALL" ,13:00 Japanese Football League Minebea Mitsumi FC 0-0 Veertien Mie
-https://livesport.io.vn/event.php?id=sd-6Mxj4jZ9ncnrJA4nj1
-
-#EXTINF:-1 tvg-id="sd-6Mwdq8TWMyX9cSCSaT" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,11:00 Japanese J3 League Zweigen Kanazawa FC 2-0 Gainare Tottori
-https://livesport.io.vn/event.php?id=sd-6Mwdq8TWMyX9cSCSaT
-
-#EXTINF:-1 tvg-id="sd-6MwdaaVe2fwA8d2Mnw" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/6d69860d9e4e8140fce94361b7729b10.png" group-title="LIVE FOOTBALL" ,11:00 RUS D3B SKA Khabarovsk-2 0-2 FK Oryol
-https://livesport.io.vn/event.php?id=sd-6MwdaaVe2fwA8d2Mnw
-
-#EXTINF:-1 tvg-id="sd-6Mwdq8TWMu8BsUYcGf" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,12:00 Japanese J3 League Renofa Yamaguchi 0-1 SC Sagamihara
-https://livesport.io.vn/event.php?id=sd-6Mwdq8TWMu8BsUYcGf
-
-#EXTINF:-1 tvg-id="sd-6Mxj4jZ9nYPtZCQxRD" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/6c3c84e1c02d4b5226e5d09361aca6ab.png" group-title="LIVE FOOTBALL" ,12:00 Japanese Football League Briobecca Urayasu 0-0 J-Lease FC
-https://livesport.io.vn/event.php?id=sd-6Mxj4jZ9nYPtZCQxRD
-
-#EXTINF:-1 tvg-id="sd-6MwcqRvGwxthYJR9o5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/77fb7f0bcc60334e2be254cc97fa9703.png" group-title="LIVE FOOTBALL" ,12:00 Japanese Nadeshiko League 1 VONDS Ichihara (W) 0-0 Setagaya SfidWomen
-https://livesport.io.vn/event.php?id=sd-6MwcqRvGwxthYJR9o5
-
-#EXTINF:-1 tvg-id="sd-6Mxj4jZ9nWCQgib3GK" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/6c3c84e1c02d4b5226e5d09361aca6ab.png" group-title="LIVE FOOTBALL" ,12:30 Japanese Football League FC Tiamo Hirakata 0-0 VONDS Ichihara
-https://livesport.io.vn/event.php?id=sd-6Mxj4jZ9nWCQgib3GK
-
-#EXTINF:-1 tvg-id="sd-6MxjZfbzUVSWRDsYt7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/41a7dd2b5f5bf325afbb51c200eb5e6b.png" group-title="LIVE FOOTBALL" ,12:30 Hangzhou "Qianchao Cup" International Youth Football Invitational Tournament Shenzhen 2028 Edu...
-https://livesport.io.vn/event.php?id=sd-6MxjZfbzUVSWRDsYt7
-
-#EXTINF:-1 tvg-id="sd-6Mwdq55tuw2A2wuq8B" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,13:00 Japanese J3 League Nara Club 0-0 Reilac Shiga FC
-https://livesport.io.vn/event.php?id=sd-6Mwdq55tuw2A2wuq8B
-
-#EXTINF:-1 tvg-id="sd-6MwcqRvGx16BQnF4wy" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/77fb7f0bcc60334e2be254cc97fa9703.png" group-title="LIVE FOOTBALL" ,11:00 Japanese Nadeshiko League 1 Nittaidai SMG Yokohama 1-2 Yokohama FC Seagulls Women
-https://livesport.io.vn/event.php?id=sd-6MwcqRvGx16BQnF4wy
-
-#EXTINF:-1 tvg-id="sd-6MxjZL41qL8i9iAxNB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/4807d805af656296ceee5d3c0938325f.png" group-title="LIVE FOOTBALL" ,14:00 Guangxi Football Super League Guangxi Liquan Tianlong 0-0 Guangxi Pingguo Huirong
-https://livesport.io.vn/event.php?id=sd-6MxjZL41qL8i9iAxNB
-
-#EXTINF:-1 tvg-id="sd-6MxjZGqEYg6FmTVtjH" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/8c8fc621457acfff5451efa34eb1aca1.png" group-title="LIVE FOOTBALL" ,14:30 Chinese Football Assorciation U-20 League Shandong Taishan U20 0-0 Shanghai Port U20
-https://livesport.io.vn/event.php?id=sd-6MxjZGqEYg6FmTVtjH
-
-#EXTINF:-1 tvg-id="sd-6Mwdq8QaFaF7SncYa3" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Oita Trinita 0-0 Fujieda MYFC
+#EXTINF:-1 tvg-id="sd-6Mwdq8QaFaF7SncYa3" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Oita Trinita 1-1 Fujieda MYFC
 https://livesport.io.vn/event.php?id=sd-6Mwdq8QaFaF7SncYa3
 
-#EXTINF:-1 tvg-id="sd-6Mwdq55taZscHnkXk3" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J3 League Kochi United 0-0 FC Osaka
+#EXTINF:-1 tvg-id="sd-6Mwdq55taZscHnkXk3" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J3 League Kochi United 0-4 FC Osaka
 https://livesport.io.vn/event.php?id=sd-6Mwdq55taZscHnkXk3
 
-#EXTINF:-1 tvg-id="sd-6MxjZL3FWVt2EiTpU7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/4807d805af656296ceee5d3c0938325f.png" group-title="LIVE FOOTBALL" ,15:00 Guangxi Football Super League Liuzhou Longcheng 0-0 Hezhou Youth
-https://livesport.io.vn/event.php?id=sd-6MxjZL3FWVt2EiTpU7
+#EXTINF:-1 tvg-id="sd-6Mwdq8RKk8KcYZp93u" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League RB Omiya Ardija 5-1 Ventforet Kofu
+https://livesport.io.vn/event.php?id=sd-6Mwdq8RKk8KcYZp93u
 
-#EXTINF:-1 tvg-id="sd-6Mwdq8Qa64ZVzNFX51" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Montedio Yamagata 0-0 Sagan Tosu
-https://livesport.io.vn/event.php?id=sd-6Mwdq8Qa64ZVzNFX51
-
-#EXTINF:-1 tvg-id="sd-6Mwdq8RKETLN4uwZwu" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Blaublitz Akita 0-0 Albirex Niigata
+#EXTINF:-1 tvg-id="sd-6Mwdq8RKETLN4uwZwu" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Blaublitz Akita 2-2 Albirex Niigata
 https://livesport.io.vn/event.php?id=sd-6Mwdq8RKETLN4uwZwu
 
-#EXTINF:-1 tvg-id="sd-6Mwdq8RJa4pbQv4DZh" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Tegevajaro Miyazaki 0-0 Hokkaido Consadole Sapporo
-https://livesport.io.vn/event.php?id=sd-6Mwdq8RJa4pbQv4DZh
+#EXTINF:-1 tvg-id="sd-6Mwdq8Qa64ZVzNFX51" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Montedio Yamagata 2-0 Sagan Tosu
+https://livesport.io.vn/event.php?id=sd-6Mwdq8Qa64ZVzNFX51
 
-#EXTINF:-1 tvg-id="sd-6MxjZL6yHBzwHzQ3u9" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/732478b51be209195a21c4b9e2969ef5.png" group-title="LIVE FOOTBALL" ,10:30 New Zealand Football Championship Ferrymead Bays 0-0 Eastern Suburbs AFC
-https://livesport.io.vn/event.php?id=sd-6MxjZL6yHBzwHzQ3u9
-
-#EXTINF:-1 tvg-id="sd-6Mwdq55tk7khcgwUPy" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J3 League FC Ryukyu Okinawa 0-0 Ehime FC
-https://livesport.io.vn/event.php?id=sd-6Mwdq55tk7khcgwUPy
-
-#EXTINF:-1 tvg-id="sd-6Mwdq8Qa5wy4NvmmcK" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Iwaki FC 0-0 Vegalta Sendai
-https://livesport.io.vn/event.php?id=sd-6Mwdq8Qa5wy4NvmmcK
-
-#EXTINF:-1 tvg-id="sd-6Mwdq8RKjwLDCAgZHR" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Jubilo Iwata 0-0 Vanraure Hachinohe FC
-https://livesport.io.vn/event.php?id=sd-6Mwdq8RKjwLDCAgZHR
-
-#EXTINF:-1 tvg-id="sd-6MweKiwfRaUkjXrJSj" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/9f3ed1ce238c76a26ddf7044e3ab8299.png" group-title="LIVE FOOTBALL" ,15:00 Czech U19 League Hradec Kralove U19 0-0 Dukla Praha U19
-https://livesport.io.vn/event.php?id=sd-6MweKiwfRaUkjXrJSj
-
-#EXTINF:-1 tvg-id="sd-6Mwdq8TWMnXkG34roy" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J3 League Fukushima United FC 0-0 AC Nagano Parceiro
-https://livesport.io.vn/event.php?id=sd-6Mwdq8TWMnXkG34roy
-
-#EXTINF:-1 tvg-id="sd-6Mwdq8RJjPWoWwHfJF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Tokushima Vortis 0-0 Tochigi City
-https://livesport.io.vn/event.php?id=sd-6Mwdq8RJjPWoWwHfJF
-
-#EXTINF:-1 tvg-id="sd-6Mwdq8TX2k1iyELxVd" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J3 League Giravanz Kitakyushu 0-0 Kagoshima United
+#EXTINF:-1 tvg-id="sd-6Mwdq8TX2k1iyELxVd" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J3 League Giravanz Kitakyushu 1-1 Kagoshima United
 https://livesport.io.vn/event.php?id=sd-6Mwdq8TX2k1iyELxVd
 
-#EXTINF:-1 tvg-id="sd-6MweKfi9UzKJu2vS8F" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png" group-title="LIVE FOOTBALL" ,15:15 Czech Third League Loko Vltavin 0-0 FK Kraluv Dvur
-https://livesport.io.vn/event.php?id=sd-6MweKfi9UzKJu2vS8F
+#EXTINF:-1 tvg-id="sd-6Mwdq8RJa4pbQv4DZh" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Tegevajaro Miyazaki 3-2 Hokkaido Consadole Sapporo
+https://livesport.io.vn/event.php?id=sd-6Mwdq8RJa4pbQv4DZh
 
-#EXTINF:-1 tvg-id="sd-6Mwdq8TXXcqtAosHNo" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J3 League Tochigi SC 0-0 Matsumoto Yamaga FC
+#EXTINF:-1 tvg-id="sd-6Mwdq55tk7khcgwUPy" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J3 League FC Ryukyu Okinawa 1-1 Ehime FC
+https://livesport.io.vn/event.php?id=sd-6Mwdq55tk7khcgwUPy
+
+#EXTINF:-1 tvg-id="sd-6Mwdq8RKjwLDCAgZHR" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Jubilo Iwata 1-2 Vanraure Hachinohe FC
+https://livesport.io.vn/event.php?id=sd-6Mwdq8RKjwLDCAgZHR
+
+#EXTINF:-1 tvg-id="sd-6Mwdq8TWMnXkG34roy" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J3 League Fukushima United FC 4-3 AC Nagano Parceiro
+https://livesport.io.vn/event.php?id=sd-6Mwdq8TWMnXkG34roy
+
+#EXTINF:-1 tvg-id="sd-6Mwdq8RJjPWoWwHfJF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Tokushima Vortis 3-0 Tochigi City
+https://livesport.io.vn/event.php?id=sd-6Mwdq8RJjPWoWwHfJF
+
+#EXTINF:-1 tvg-id="sd-6Mwdq8TXXcqtAosHNo" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J3 League Tochigi SC 1-2 Matsumoto Yamaga FC
 https://livesport.io.vn/event.php?id=sd-6Mwdq8TXXcqtAosHNo
 
-#EXTINF:-1 tvg-id="sd-6Mwdq8TWXZbiopDJPH" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J3 League Thespa Kusatsu Gunma 0-0 Roasso Kumamoto
+#EXTINF:-1 tvg-id="sd-6Mwdq8TWXZbiopDJPH" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J3 League Thespa Kusatsu Gunma 0-1 Roasso Kumamoto
 https://livesport.io.vn/event.php?id=sd-6Mwdq8TWXZbiopDJPH
 
-#EXTINF:-1 tvg-id="sd-6Mwdq8RKaAGEePY7i7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Kataller Toyama 0-0 Yokohama FC
+#EXTINF:-1 tvg-id="sd-6Mwdq8RKaAGEePY7i7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League Kataller Toyama 3-3 Yokohama FC
 https://livesport.io.vn/event.php?id=sd-6Mwdq8RKaAGEePY7i7
 
-#EXTINF:-1 tvg-id="sd-6Mwdq8RJa725HPt8ib" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League FC Imabari 0-0 Shonan Bellmare
+#EXTINF:-1 tvg-id="sd-6Mwdq8RJa725HPt8ib" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League FC Imabari 1-1 Shonan Bellmare
 https://livesport.io.vn/event.php?id=sd-6Mwdq8RJa725HPt8ib
 
-#EXTINF:-1 tvg-id="sd-6MxipaQFBJe2kzC1BM" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/dc9bf025e3fde12e97e444a953b076a0.png" group-title="LIVE FOOTBALL" ,15:00 Chinese Hong Kong League Cup Eastern SC 0-0 Kitchee
-https://livesport.io.vn/event.php?id=sd-6MxipaQFBJe2kzC1BM
-
-#EXTINF:-1 tvg-id="sd-6Mwdq8TY2RH5dRjmxB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J3 League Kamatamare Sanuki 0-0 FC Gifu
+#EXTINF:-1 tvg-id="sd-6Mwdq8TY2RH5dRjmxB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/86e0ba5b90deead69f3d7f7ffe3e7289.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J3 League Kamatamare Sanuki 3-4 FC Gifu
 https://livesport.io.vn/event.php?id=sd-6Mwdq8TY2RH5dRjmxB
 
-#EXTINF:-1 tvg-id="sd-6Mwdq8RKk8KcYZp93u" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fc5449dfd156ec45ba2dd46dc7cdc095.png" group-title="LIVE FOOTBALL" ,15:00 Japanese J2 League RB Omiya Ardija 0-0 Ventforet Kofu
-https://livesport.io.vn/event.php?id=sd-6Mwdq8RKk8KcYZp93u
+#EXTINF:-1 tvg-id="sd-6MweKfjd82iSCHTm75" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png" group-title="LIVE FOOTBALL" ,15:15 Czech Third League Slovan Liberec II 0-3 Benatky Nad Jizerou
+https://livesport.io.vn/event.php?id=sd-6MweKfjd82iSCHTm75
+
+#EXTINF:-1 tvg-id="sd-6MweKfi9VHu9rsXmMR" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png" group-title="LIVE FOOTBALL" ,15:15 Czech Third League Aritma Praha 3-2 Admira Praha
+https://livesport.io.vn/event.php?id=sd-6MweKfi9VHu9rsXmMR
+
+#EXTINF:-1 tvg-id="sd-6MweKfi9VNJ7bqBbfD" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png" group-title="LIVE FOOTBALL" ,15:15 Czech Third League Benesov 0-2 Slavia Prague C
+https://livesport.io.vn/event.php?id=sd-6MweKfi9VNJ7bqBbfD
+
+#EXTINF:-1 tvg-id="sd-6MweKfjd8bgeFUrWQX" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png" group-title="LIVE FOOTBALL" ,15:15 Czech Third League Chrudim 0-1 Pardubice B
+https://livesport.io.vn/event.php?id=sd-6MweKfjd8bgeFUrWQX
+
+#EXTINF:-1 tvg-id="sd-6MweKfjd8ZVAP12bFd" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png" group-title="LIVE FOOTBALL" ,15:15 Czech Third League FK Horni Redice 4-1 Teplice B
+https://livesport.io.vn/event.php?id=sd-6MweKfjd8ZVAP12bFd
+
+#EXTINF:-1 tvg-id="sd-6MweKfi8erw3ZjiZKd" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png" group-title="LIVE FOOTBALL" ,15:15 Czech Third League Povltava FA 0-2 SK Motorlet Praha
+https://livesport.io.vn/event.php?id=sd-6MweKfi8erw3ZjiZKd
+
+#EXTINF:-1 tvg-id="sd-6MweKiwfRYHGs42PHq" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/9f3ed1ce238c76a26ddf7044e3ab8299.png" group-title="LIVE FOOTBALL" ,15:30 Czech U19 League Opava U19 2-2 Slovacko U19
+https://livesport.io.vn/event.php?id=sd-6MweKiwfRYHGs42PHq
+
+#EXTINF:-1 tvg-id="sd-6MweKqWbsGBURrJbP5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/c3ca567177713d1924f670d62e5f9da9.png" group-title="LIVE FOOTBALL" ,16:00 Russian First League FK Chelyabinsk 0-1 Yenisey Krasnoyarsk
+https://livesport.io.vn/event.php?id=sd-6MweKqWbsGBURrJbP5
+
+#EXTINF:-1 tvg-id="sd-6MxipX7m8H7Bmp27BD_md" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/75b6ce8a3018d34793e1aa86ec375795.png" group-title="LIVE FOOTBALL" ,16:00 FIFA ASEAN Cup Pakistan 0-2 Thailand
+https://livesport.io.vn/event.php?id=sd-6MxipX7m8H7Bmp27BD_md
 
