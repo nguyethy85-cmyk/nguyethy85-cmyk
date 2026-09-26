@@ -4,9 +4,9 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 26/09/2026 21:07:26
-# Channels     : 190
-# Visits       : 10032
+# Updated      : 27/09/2026 00:43:57
+# Channels     : 161
+# Visits       : 10448
 # Script HB    : https://livesport.io.vn/ok/m3u.php
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
@@ -15,13 +15,13 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 190
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 161
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 26/09/2026 21:07:26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 27/09/2026 00:43:57
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 10032
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 10448
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEMqanIDQi9wU5N0f8SMypPqU9TgxaclBSKHUKCtMu4u3DrURy_mpsYKJ&s=10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEMqanIDQi9wU5N0f8SMypPqU9TgxaclBSKHUKCtMu4u3DrURy_mpsYKJ&s=10" group-title="FIFA ASEAN CUP 2026" ,ASEAN CUP 1
@@ -348,6 +348,81 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/vgkshf
 #KODIPROP:inputstream.adaptive.license_key=https://livesport.io.vn/ok/kids.xml
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
 
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn1.png" group-title="UK SPORTS" ,TNT SPORTS 1
+https://livesport.io.vn/ok/link.php?id=tnt1
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn2.png" group-title="UK SPORTS" ,TNT SPORTS 2
+https://livesport.io.vn/ok/iptv.php?id=tnt2
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn3.png" group-title="UK SPORTS" ,TNT SPORTS 3
+https://livesport.io.vn/ok/iptv.php?id=tnt3
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn4.png" group-title="UK SPORTS" ,TNT SPORTS 4
+https://livesport.io.vn/ok/iptv.php?id=tnt4
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sepl.png" group-title="UK SPORTS" ,SKY SPORTS EPL
+https://livesport.io.vn/ok/iptv.php?id=skyepl
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/smain.png" group-title="UK SPORTS" ,SKY SPORTS MAIN EVENT
+https://livesport.io.vn/ok/iptv.php?id=skymain
+
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sfoot.png" group-title="UK SPORTS" ,SKY SPORTS FOOTBALL
+https://livesport.io.vn/ok/iptv.php?id=skyfoot
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sf1.png" group-title="UK SPORTS" ,SKY SPORTS F1
+https://livesport.io.vn/ok/iptv.php?id=skyf1
+
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sgolf.png" group-title="UK SPORTS" ,SKY SPORTS GOLF
+https://livesport.io.vn/ok/iptv.php?id=skygolf
+
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/snews.png" group-title="UK SPORTS" ,SKY SPORTS NEWS
+https://livesport.io.vn/ok/iptv.php?id=skynews
+
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/saction.png" group-title="UK SPORTS" ,SKY SPORTS ACTION
+https://livesport.io.vn/ok/iptv.php?id=skyaction
+
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/smix.png" group-title="UK SPORTS" ,SKY SPORTS MIX
+https://dlhd2.streamingscripts.xyz/dlhd/proxy.php?url=https%3A%2F%2F8z09jo.7odxv0l067ka.net%3A8443%2Fhls%2Fd269e9dcs9kf7.m3u8%3Fs%3D_VHPIzra15FCcGMxCsIeqg%26e%3D1790156054%26referer%3Dhttps%3A%2F%2Ftiestep.top%2F&referer=https%3A%2F%2Ftiestep.top%2F
+
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/pr1.png" group-title="UK SPORTS" ,PREMIER SPORTS 1
+https://livesport.io.vn/ok/iptv.php?id=pre1
+
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/pr2.png" group-title="UK SPORTS" ,PREMIER SPORTS 2
+https://livesport.io.vn/ok/iptv.php?id=pre2
+
+#EXTINF:-1 tvg-id="MUTV.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-uk-mutv-114.png" group-title="UK SPORTS" ,MUTV
+https://livesport.io.vn/ok/iptv.php?id=mutv
+
+#EXTINF:-1 tvg-id="DAZN.1.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="PORTUGAL SPORTS" ,DAZN 1
+https://livesport.io.vn/ok/vip2.php?id=ele1
+
+#EXTINF:-1 tvg-id="DAZN.2.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="PORTUGAL SPORTS" ,DAZN 2
+https://livesport.io.vn/ok/vip2.php?id=ele2
+
+#EXTINF:-1 tvg-id="DAZN.3.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="PORTUGAL SPORTS" ,DAZN 3
+https://livesport.io.vn/ok/vip2.php?id=ele3
+
+#EXTINF:-1 tvg-id="DAZN.4.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1557.png" group-title="PORTUGAL SPORTS" ,DAZN 4
+https://livesport.io.vn/ok/vip2.php?id=ele4
+
+#EXTINF:-1 tvg-id="DAZN.5.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1558.png" group-title="PORTUGAL SPORTS" ,DAZN 5
+https://livesport.io.vn/ok/vip2.php?id=ele5
+
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://livesport.io.vn/logo/sport/spo1.png" group-title="PORTUGAL SPORTS" ,SPORTTV 1
+https://livesport.io.vn/ok/vip2.php?id=spo1
+
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://livesport.io.vn/logo/sport/spo2.png" group-title="PORTUGAL SPORTS" ,SPORTTV 2
+https://livesport.io.vn/ok/vip2.php?id=spo2
+
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://livesport.io.vn/logo/sport/spo3.png" group-title="PORTUGAL SPORTS" ,SPORTTV 3
+https://livesport.io.vn/ok/vip2.php?id=spo3
+
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://livesport.io.vn/logo/sport/spo4.png" group-title="PORTUGAL SPORTS" ,SPORTTV 4
+https://livesport.io.vn/ok/vip2.php?id=spo4
+
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://livesport.io.vn/logo/sport/spo5.png" group-title="PORTUGAL SPORTS" ,SPORTTV 5
+https://livesport.io.vn/ok/vip2.php?id=spo5
+
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Animated-Flag-Germany.gif" tvg-logo="https://livesport.io.vn/logo/sport/skepl.png" group-title="GERMANY SPORTS" ,SKYSPORT EPL
 https://livesport.io.vn/ok/apo.php?id=skyepl
 
@@ -438,51 +513,6 @@ https://livesport.io.vn/ok/live.php?id=b3
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated-Flag-Saudi-Arabia.gif" tvg-logo="https://livesport.io.vn/logo/sport/be4.png" group-title="SERBIA SPORTS" ,BEINSPORT 4
 https://livesport.io.vn/ok/live.php?id=b4
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn1.png" group-title="UK SPORTS" ,TNT SPORTS 1
-https://livesport.io.vn/ok/link.php?id=tnt1
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn2.png" group-title="UK SPORTS" ,TNT SPORTS 2
-https://livesport.io.vn/ok/iptv.php?id=tnt2
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn3.png" group-title="UK SPORTS" ,TNT SPORTS 3
-https://livesport.io.vn/ok/iptv.php?id=tnt3
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/tn4.png" group-title="UK SPORTS" ,TNT SPORTS 4
-https://livesport.io.vn/ok/iptv.php?id=tnt4
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sepl.png" group-title="UK SPORTS" ,SKY SPORTS EPL
-https://livesport.io.vn/ok/iptv.php?id=skyepl
-
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/smain.png" group-title="UK SPORTS" ,SKY SPORTS MAIN EVENT
-https://livesport.io.vn/ok/iptv.php?id=skymain
-
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sfoot.png" group-title="UK SPORTS" ,SKY SPORTS FOOTBALL
-https://livesport.io.vn/ok/iptv.php?id=skyfoot
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sf1.png" group-title="UK SPORTS" ,SKY SPORTS F1
-https://livesport.io.vn/ok/iptv.php?id=skyf1
-
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/sgolf.png" group-title="UK SPORTS" ,SKY SPORTS GOLF
-https://livesport.io.vn/ok/iptv.php?id=skygolf
-
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/snews.png" group-title="UK SPORTS" ,SKY SPORTS NEWS
-https://livesport.io.vn/ok/iptv.php?id=skynews
-
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/saction.png" group-title="UK SPORTS" ,SKY SPORTS ACTION
-https://livesport.io.vn/ok/iptv.php?id=skyaction
-
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/smix.png" group-title="UK SPORTS" ,SKY SPORTS MIX
-https://dlhd2.streamingscripts.xyz/dlhd/proxy.php?url=https%3A%2F%2F8z09jo.7odxv0l067ka.net%3A8443%2Fhls%2Fd269e9dcs9kf7.m3u8%3Fs%3D_VHPIzra15FCcGMxCsIeqg%26e%3D1790156054%26referer%3Dhttps%3A%2F%2Ftiestep.top%2F&referer=https%3A%2F%2Ftiestep.top%2F
-
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/pr1.png" group-title="UK SPORTS" ,PREMIER SPORTS 1
-https://livesport.io.vn/ok/iptv.php?id=pre1
-
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://livesport.io.vn/logo/sport/pr2.png" group-title="UK SPORTS" ,PREMIER SPORTS 2
-https://livesport.io.vn/ok/iptv.php?id=pre2
-
-#EXTINF:-1 tvg-id="MUTV.HD.uk" group-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-uk-mutv-114.png" group-title="UK SPORTS" ,MUTV
-https://livesport.io.vn/ok/iptv.php?id=mutv
-
 #EXTINF:-1 tvg-id="DAZN.1.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" tvg-logo="https://livesport.io.vn/logo/sport/dazn1es.png" group-title="SPAIN SPORTS" ,DAZN 1
 https://livesport.io.vn/ok/iptv.php?id=dazn1es
 
@@ -509,36 +539,6 @@ https://livesport.io.vn/ok/iptv.php?id=mdeportes
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Albania.gif" tvg-logo="https://livesport.io.vn/logo/sport/mgolf.png" group-title="SPAIN SPORTS" ,MOVISTA GOLF
 https://livesport.io.vn/ok/iptv.php?id=mgolf
-
-#EXTINF:-1 tvg-id="DAZN.1.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="PORTUGAL SPORTS" ,DAZN 1
-http://147.135.210.213:16001/
-
-#EXTINF:-1 tvg-id="DAZN.2.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-2-pt-1501.png" group-title="PORTUGAL SPORTS" ,DAZN 2
-https://livesport.io.vn/ok/iptv.php?id=ele2
-
-#EXTINF:-1 tvg-id="DAZN.3.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-3-pt-1502.png" group-title="PORTUGAL SPORTS" ,DAZN 3
-https://livesport.io.vn/ok/iptv.php?id=ele3
-
-#EXTINF:-1 tvg-id="DAZN.4.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-4-pt-1557.png" group-title="PORTUGAL SPORTS" ,DAZN 4
-https://livesport.io.vn/ok/iptv.php?id=ele4
-
-#EXTINF:-1 tvg-id="DAZN.5.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1558.png" group-title="PORTUGAL SPORTS" ,DAZN 5
-https://livesport.io.vn/ok/iptv.php?id=ele5
-
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://livesport.io.vn/logo/sport/spo1.png" group-title="PORTUGAL SPORTS" ,SPORTTV 1
-https://livesport.io.vn/ok/iptv.php?id=spo1
-
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://livesport.io.vn/logo/sport/spo2.png" group-title="PORTUGAL SPORTS" ,SPORTTV 2
-https://livesport.io.vn/ok/iptv.php?id=spo2
-
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://livesport.io.vn/logo/sport/spo3.png" group-title="PORTUGAL SPORTS" ,SPORTTV 3
-https://livesport.io.vn/ok/iptv.php?id=spo3
-
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://livesport.io.vn/logo/sport/spo4.png" group-title="PORTUGAL SPORTS" ,SPORTTV 4
-https://livesport.io.vn/ok/iptv.php?id=spo4
-
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Animated-Flag-Portugal.gif" tvg-logo="https://livesport.io.vn/logo/sport/spo5.png" group-title="PORTUGAL SPORTS" ,SPORTTV 5
-https://livesport.io.vn/ok/iptv.php?id=spo5
 
 #EXTINF:-1 tvg-id="Sky.Sport.1.nz" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Animated-Flag-New-Zealand.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nz-sky-sport-1-458.png" group-title="NEWZEALAND SPORTS" ,SKY SPORTS 1
 https://livesport.io.vn/ok/smart.php?id=sky1
@@ -624,144 +624,57 @@ https://livesport.io.vn/ok/smart.php?id=beinxtra
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-usa-network-74.png" group-title="US SPORTS" ,USA NETWORK
 https://livesport.io.vn/ok/iptv.php?id=usa
 
-#EXTINF:-1 tvg-id="sd-6MweKfkLSoq5djghVH" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/feccabd0bdfaf75201cf0e866c49707f.png" group-title="LIVE FOOTBALL" ,20:30 Anh Pen-y-Bont FC 0-0 Airbus UK Broughton
-https://livesport.io.vn/event.php?id=sd-6MweKfkLSoq5djghVH
+#EXTINF:-1 tvg-id="sd-6MwarY7o3mw5bgULtX" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/48d747e365cf1a98e81cf484b9c0c456.png" group-title="LIVE FOOTBALL" ,23:00 Ý Como 1907 (W) 2-1 AC Milan Women
+https://livesport.io.vn/event.php?id=sd-6MwarY7o3mw5bgULtX
 
-#EXTINF:-1 tvg-id="sd-6MweKfkLSYSiYNuHR1" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/feccabd0bdfaf75201cf0e866c49707f.png" group-title="LIVE FOOTBALL" ,20:30 Anh Cambrian Clydach 2-0 Llandudno
-https://livesport.io.vn/event.php?id=sd-6MweKfkLSYSiYNuHR1
+#EXTINF:-1 tvg-id="sd-6MwcqVBHCQ9KuKrnAT_md" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png" group-title="LIVE FOOTBALL" ,23:00 Nations Lg Bulgaria 1-2 Luxembourg
+https://livesport.io.vn/event.php?id=sd-6MwcqVBHCQ9KuKrnAT_md
 
-#EXTINF:-1 tvg-id="sd-6MweKfkLSf3A9pP2sh" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/feccabd0bdfaf75201cf0e866c49707f.png" group-title="LIVE FOOTBALL" ,20:30 Anh Cardiff Metropolitan University 1-0 Caernarfon
-https://livesport.io.vn/event.php?id=sd-6MweKfkLSf3A9pP2sh
+#EXTINF:-1 tvg-id="sd-6MwcqVBHCFMQRQZ7Ys_md" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png" group-title="LIVE FOOTBALL" ,23:00 Nations Lg Iceland 1-1 Estonia
+https://livesport.io.vn/event.php?id=sd-6MwcqVBHCFMQRQZ7Ys_md
 
-#EXTINF:-1 tvg-id="sd-6MwcqVBHC8kxoy5N6B" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png" group-title="LIVE FOOTBALL" ,20:00 Nations Lg Slovenia 0-0 Scotland
-https://livesport.io.vn/event.php?id=sd-6MwcqVBHC8kxoy5N6B
+#EXTINF:-1 tvg-id="sd-6MwcqVBHCHYtHtP2hm" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png" group-title="LIVE FOOTBALL" ,23:00 Nations Lg San Marino 0-6 Finland
+https://livesport.io.vn/event.php?id=sd-6MwcqVBHCHYtHtP2hm
 
-#EXTINF:-1 tvg-id="sd-6MxiZaLB5pZj9McDs5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/d62b0f397bfc18b2bb5b20de0812433c.png" group-title="LIVE FOOTBALL" ,19:30 English FA Women's Super League Charlton Women 0-1 Manchester City Women
-https://livesport.io.vn/event.php?id=sd-6MxiZaLB5pZj9McDs5
+#EXTINF:-1 tvg-id="sd-6MwcqVBHCKkNANCwrf" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png" group-title="LIVE FOOTBALL" ,23:00 Nations Lg Faroe Islands 1-1 Kazakhstan
+https://livesport.io.vn/event.php?id=sd-6MwcqVBHCKkNANCwrf
 
-#EXTINF:-1 tvg-id="sd-6MxiZy9unvAv3Z2FvX" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/ed94e6389456957de772c629b5338ac9.png" group-title="LIVE FOOTBALL" ,19:30 Italian Serie C Asd Pineto Calcio 0-4 Grosseto
-https://livesport.io.vn/event.php?id=sd-6MxiZy9unvAv3Z2FvX
+#EXTINF:-1 tvg-id="sd-6MxjJtcsUzrpwRLWSB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/6d32a758e7a95bfca64aace36fec1e8d.png" group-title="LIVE FOOTBALL" ,23:00 FIFA U20 Women's World Cup Italy U20 Women 1-1 Colombia U20 Women
+https://livesport.io.vn/event.php?id=sd-6MxjJtcsUzrpwRLWSB
 
-#EXTINF:-1 tvg-id="sd-6MxiZupUo6bQU5HB35" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/ed94e6389456957de772c629b5338ac9.png" group-title="LIVE FOOTBALL" ,19:30 Italian Serie C Crotone 2-1 Salernitana
-https://livesport.io.vn/event.php?id=sd-6MxiZupUo6bQU5HB35
+#EXTINF:-1 tvg-id="sd-6Mxj4gFAvVMrt5beFq" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/8da04589a14f4cc66c6b3a7dc3bca0fd.png" group-title="LIVE FOOTBALL" ,23:00 Elite League U20 Czechia Republic U20 2-2 Switzerland U20
+https://livesport.io.vn/event.php?id=sd-6Mxj4gFAvVMrt5beFq
 
-#EXTINF:-1 tvg-id="sd-6MxiZy6wWdLac8yxMm" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/ed94e6389456957de772c629b5338ac9.png" group-title="LIVE FOOTBALL" ,19:30 Italian Serie C Giana 1-1 Pro Vercelli
-https://livesport.io.vn/event.php?id=sd-6MxiZy6wWdLac8yxMm
+#EXTINF:-1 tvg-id="sd-6MxiZaLB5nNFGsnJiB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/d62b0f397bfc18b2bb5b20de0812433c.png" group-title="LIVE FOOTBALL" ,23:00 English FA Women's Super League London City Lionesses Women 1-0 Brighton & Hove Albion Women
+https://livesport.io.vn/event.php?id=sd-6MxiZaLB5nNFGsnJiB
 
-#EXTINF:-1 tvg-id="sd-6MxiZy6x29XubsYrrB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/ed94e6389456957de772c629b5338ac9.png" group-title="LIVE FOOTBALL" ,19:30 Italian Serie C Us Pergolettese 0-0 Trento
-https://livesport.io.vn/event.php?id=sd-6MxiZy6x29XubsYrrB
+#EXTINF:-1 tvg-id="sd-6MvYqrE6rp54hnidKd" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/9267ee08759fdc25c89d3e4642303522.png" group-title="LIVE FOOTBALL" ,23:00 Finnish Ykkosliiga Klubi 04 Helsinki 1-1 JaPS
+https://livesport.io.vn/event.php?id=sd-6MvYqrE6rp54hnidKd
 
-#EXTINF:-1 tvg-id="sd-6MxiZy9txpz8ajeJGo" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/ed94e6389456957de772c629b5338ac9.png" group-title="LIVE FOOTBALL" ,19:30 Italian Serie C Sassari Torres 0-0 FC Vado
-https://livesport.io.vn/event.php?id=sd-6MxiZy9txpz8ajeJGo
+#EXTINF:-1 tvg-id="sd-6MxjZL4jpPAgdioVfu" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/da5cab5f0861c28467a2131b1190bf21.png" group-title="LIVE FOOTBALL" ,23:00 Uruguay Segunda League Uruguay Montevideo 1-2 Rentistas
+https://livesport.io.vn/event.php?id=sd-6MxjZL4jpPAgdioVfu
 
-#EXTINF:-1 tvg-id="sd-6MwdaaSi6EiVs9iV8K" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/6d69860d9e4e8140fce94361b7729b10.png" group-title="LIVE FOOTBALL" ,20:00 RUS D3B Shahter Taganrog 0-1 Rubin Yalta
-https://livesport.io.vn/event.php?id=sd-6MwdaaSi6EiVs9iV8K
+#EXTINF:-1 tvg-id="sd-6MuSNSioUFXk6jdGP9" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/0f2d2e79833b106e3c0407d4c7131307.png" group-title="LIVE FOOTBALL" ,23:00 UEFA European U21 Championship qualification Latvia U21 0-4 Germany U21
+https://livesport.io.vn/event.php?id=sd-6MuSNSioUFXk6jdGP9
 
-#EXTINF:-1 tvg-id="sd-6MwdaoRjJNqYcU1DdR" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/9e7ae98de79a878ad70d2cb8297aee68.png" group-title="LIVE FOOTBALL" ,20:00 Belarusian First League Uni X-Labs Minsk 1-0 Ostrowitz
-https://livesport.io.vn/event.php?id=sd-6MwdaoRjJNqYcU1DdR
+#EXTINF:-1 tvg-id="sd-6MweZwMZSyK45Z1Ldm" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/67a530b2c82340aa15d70578e506deb2.png" group-title="LIVE FOOTBALL" ,23:30 English Football League Two Oldham Athletic 1-2 Salford City
+https://livesport.io.vn/event.php?id=sd-6MweZwMZSyK45Z1Ldm
 
-#EXTINF:-1 tvg-id="sd-6MxjZALiBuogtdosd1_md" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/dc00471256fd2162677840453cbb2cee.png" group-title="LIVE FOOTBALL" ,20:00 CAF Africa Cup of Nations Kenya 0-1 Eritrea
-https://livesport.io.vn/event.php?id=sd-6MxjZALiBuogtdosd1_md
+#EXTINF:-1 tvg-id="sd-6Mxj4LhDwzzsrSPt31" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/a17302e1c0cf4185881974d1c772c342.png" group-title="LIVE FOOTBALL" ,22:55 WAFF Arabian Gulf Cup Kuwait 1-2 Iraq
+https://livesport.io.vn/event.php?id=sd-6Mxj4LhDwzzsrSPt31
 
-#EXTINF:-1 tvg-id="sd-6Mxia8uPtwQE1SC2mV" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/4facbdc1b1084f559e663f0e10c012d4.png" group-title="LIVE FOOTBALL" ,20:00 Finnish Kansallinen Liiga EBK (W) 0-2 Jyvaskylan Pallokerho Women
-https://livesport.io.vn/event.php?id=sd-6Mxia8uPtwQE1SC2mV
+#EXTINF:-1 tvg-id="sd-6MxjZiuCgsr2cuPFuq" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/b02e3e6eba095ab909fb76a7fd77208e.png" group-title="LIVE FOOTBALL" ,23:00 Poland Liga 3 KS Energetyk ROW 4-2 Stal Brzeg
+https://livesport.io.vn/event.php?id=sd-6MxjZiuCgsr2cuPFuq
 
-#EXTINF:-1 tvg-id="sd-6MxiZy6x258wruu2YP" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/ed94e6389456957de772c629b5338ac9.png" group-title="LIVE FOOTBALL" ,19:30 Italian Serie C Lumezzane 1-2 US Folgore Caratese
-https://livesport.io.vn/event.php?id=sd-6MxiZy6x258wruu2YP
+#EXTINF:-1 tvg-id="sd-6MwcqNbawKzHYncRWf" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/b0557c0535e2990c0e6c9a7b17bd9465.png" group-title="LIVE FOOTBALL" ,23:30 United States Women's National Soccer League Kansas City Current Women 2-1 Denver Summit W
+https://livesport.io.vn/event.php?id=sd-6MwcqNbawKzHYncRWf
 
-#EXTINF:-1 tvg-id="sd-6MvZ6HgjBUVfDXbsJo" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/a89e3c5ab69c143b1d703114c9a13ceb.png" group-title="LIVE FOOTBALL" ,20:00 Sweden Damallsvenskan AIK Solna Women 3-0 Vaxjo Women
-https://livesport.io.vn/event.php?id=sd-6MvZ6HgjBUVfDXbsJo
+#EXTINF:-1 tvg-id="sd-6MweaAQzZVpfgzPaKh" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="LIVE FOOTBALL" ,23:30 Spanish Segunda Division Tenerife 1-0 Cadiz CF
+https://livesport.io.vn/event.php?id=sd-6MweaAQzZVpfgzPaKh
 
-#EXTINF:-1 tvg-id="sd-6MvZ6HgjB6WrWjLhmq" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/a89e3c5ab69c143b1d703114c9a13ceb.png" group-title="LIVE FOOTBALL" ,20:00 Sweden Damallsvenskan IK Uppsala Women 0-2 Djurgardens Women
-https://livesport.io.vn/event.php?id=sd-6MvZ6HgjB6WrWjLhmq
+#EXTINF:-1 tvg-id="sd-6MweaAQzZmD2nMAzPy" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="LIVE FOOTBALL" ,23:30 Spanish Segunda Division Celta Vigo B 1-1 Sabadell
+https://livesport.io.vn/event.php?id=sd-6MweaAQzZmD2nMAzPy
 
-#EXTINF:-1 tvg-id="sd-6MvZ6HgjBb66py5cmV" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/a89e3c5ab69c143b1d703114c9a13ceb.png" group-title="LIVE FOOTBALL" ,20:00 Sweden Damallsvenskan Hammarby Women 2-0 Eskilstuna United Women
-https://livesport.io.vn/event.php?id=sd-6MvZ6HgjBb66py5cmV
-
-#EXTINF:-1 tvg-id="sd-6MxjZfbDzVHXt8Eds5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/5810b6eba95c5c08261adabf45ce9976.png" group-title="LIVE FOOTBALL" ,20:00 Paraguayan Division Intermedia Sol de America 0-0 Encarnacion FC
-https://livesport.io.vn/event.php?id=sd-6MxjZfbDzVHXt8Eds5
-
-#EXTINF:-1 tvg-id="sd-6MxipX7m8EuhuLCC2K" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/75b6ce8a3018d34793e1aa86ec375795.png" group-title="LIVE FOOTBALL" ,20:00 FIFA ASEAN Cup Vietnam 1-0 Philippines
-https://livesport.io.vn/event.php?id=sd-6MxipX7m8EuhuLCC2K
-
-#EXTINF:-1 tvg-id="sd-6MxjZfbDzT641eQiiB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/5810b6eba95c5c08261adabf45ce9976.png" group-title="LIVE FOOTBALL" ,20:00 Paraguayan Division Intermedia Tacuary 1-0 Benjamin Aceval
-https://livesport.io.vn/event.php?id=sd-6MxjZfbDzT641eQiiB
-
-#EXTINF:-1 tvg-id="sd-6MwdaaSi6CX1zftZyR" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/6d69860d9e4e8140fce94361b7729b10.png" group-title="LIVE FOOTBALL" ,20:00 RUS D3B Neftyanik Izberbash 1-0 Nart Cherkessk
-https://livesport.io.vn/event.php?id=sd-6MwdaaSi6CX1zftZyR
-
-#EXTINF:-1 tvg-id="sd-6MwdaaUB4YpXg5wDLs" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/6d69860d9e4e8140fce94361b7729b10.png" group-title="LIVE FOOTBALL" ,20:00 RUS D3B FC Iskra Smolensk 2-1 Zvezda Sint Petersburg
-https://livesport.io.vn/event.php?id=sd-6MwdaaUB4YpXg5wDLs
-
-#EXTINF:-1 tvg-id="sd-6MxjJthK4axwE8Vg4f" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/b02e3e6eba095ab909fb76a7fd77208e.png" group-title="LIVE FOOTBALL" ,20:00 Poland Liga 3 KS Legionovia Legionowo 1-0 Talent Warsaw
-https://livesport.io.vn/event.php?id=sd-6MxjJthK4axwE8Vg4f
-
-#EXTINF:-1 tvg-id="sd-6MxjZALiBx1Am7dnmu" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/dc00471256fd2162677840453cbb2cee.png" group-title="LIVE FOOTBALL" ,20:00 CAF Africa Cup of Nations South Africa 1-0 Guinea
-https://livesport.io.vn/event.php?id=sd-6MxjZALiBx1Am7dnmu
-
-#EXTINF:-1 tvg-id="sd-6MwdaoRjHr4pRkSPUs" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/9e7ae98de79a878ad70d2cb8297aee68.png" group-title="LIVE FOOTBALL" ,19:30 Belarusian First League Slutsksakhar Slutsk 2-3 FC Gomel B
-https://livesport.io.vn/event.php?id=sd-6MwdaoRjHr4pRkSPUs
-
-#EXTINF:-1 tvg-id="sd-6MwarpTjEQZg4EzCiK" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png" group-title="LIVE FOOTBALL" ,20:30 Czech Third League Blansko 0-1 Hranice KUNZ
-https://livesport.io.vn/event.php?id=sd-6MwarpTjEQZg4EzCiK
-
-#EXTINF:-1 tvg-id="sd-6MxiZraxhQvdkS5MuR" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/d53e3ce79b5c7e58d220efe5cd8386b6.png" group-title="LIVE FOOTBALL" ,21:00 Hungary Women's Division 1 League MOL Fehervar FC Women 0-1 Budapest Honved FC(w)
-https://livesport.io.vn/event.php?id=sd-6MxiZraxhQvdkS5MuR
-
-#EXTINF:-1 tvg-id="sd-6MwarFoM285E1P9oDq" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/d391cd85cedccdcc68243835aab46d77.png" group-title="LIVE FOOTBALL" ,20:30 Slovak 2.Liga FC STK 1914 Samorin 1-1 MFK Lokomotiva Zvolen
-https://livesport.io.vn/event.php?id=sd-6MwarFoM285E1P9oDq
-
-#EXTINF:-1 tvg-id="sd-6MwarFoM21UnPwg3m9" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/d391cd85cedccdcc68243835aab46d77.png" group-title="LIVE FOOTBALL" ,20:30 Slovak 2.Liga Povazska Bystrica 1-0 MFK Bytca
-https://livesport.io.vn/event.php?id=sd-6MwarFoM21UnPwg3m9
-
-#EXTINF:-1 tvg-id="sd-6MwarpTjENNCBmAHZR" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png" group-title="LIVE FOOTBALL" ,20:30 Czech Third League Hodonin Sardice 0-0 FC Vsetin
-https://livesport.io.vn/event.php?id=sd-6MwarpTjENNCBmAHZR
-
-#EXTINF:-1 tvg-id="sd-6MwarpTjEUxdoCe327" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png" group-title="LIVE FOOTBALL" ,20:30 Czech Third League Nove Mesto na Morave 0-0 TJ Unie Hlubina
-https://livesport.io.vn/event.php?id=sd-6MwarpTjEUxdoCe327
-
-#EXTINF:-1 tvg-id="sd-6MwarpTjESm9vip7sD" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png" group-title="LIVE FOOTBALL" ,20:30 Czech Third League Uhersky Brod 0-1 Sigma Olomouc B
-https://livesport.io.vn/event.php?id=sd-6MwarpTjESm9vip7sD
-
-#EXTINF:-1 tvg-id="sd-6MweKfjcHpwD82c3zf" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png" group-title="LIVE FOOTBALL" ,21:00 Czech Third League Spolana Neratovice 0-0 FC Zenit Caslav
-https://livesport.io.vn/event.php?id=sd-6MweKfjcHpwD82c3zf
-
-#EXTINF:-1 tvg-id="sd-6MxjJtct9Ra5Tu3myH" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/57bb4f7957510c2da5fd076e75618f5f.png" group-title="LIVE FOOTBALL" ,21:00 Uruguay Primera Division Club Atletico Progreso 0-0 Racing Club Montevideo
-https://livesport.io.vn/event.php?id=sd-6MxjJtct9Ra5Tu3myH
-
-#EXTINF:-1 tvg-id="sd-6MvYqxjMrniVVjy3CT" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/ac9dcfa729f447a6a5dfd46154d45da4.png" group-title="LIVE FOOTBALL" ,21:00 Sweden Division 1 Laholms FK 0-0 Åtvidabergs FF
-https://livesport.io.vn/event.php?id=sd-6MvYqxjMrniVVjy3CT
-
-#EXTINF:-1 tvg-id="sd-6MxjZixtcFQ6sVg8wq" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/62cefd352c725cd96a32675d1089c10a.png" group-title="LIVE FOOTBALL" ,20:00 Greek Women's Super League OFI FC Women 1-1 AE Kifisias (W)
-https://livesport.io.vn/event.php?id=sd-6MxjZixtcFQ6sVg8wq
-
-#EXTINF:-1 tvg-id="sd-6MweZwMZT86yZUK1FM" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/67a530b2c82340aa15d70578e506deb2.png" group-title="LIVE FOOTBALL" ,21:00 English Football League Two Swindon Town 0-1 Accrington Stanley
-https://livesport.io.vn/event.php?id=sd-6MweZwMZT86yZUK1FM
-
-#EXTINF:-1 tvg-id="sd-6MvYqxjMhMRqnHFr1D" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/ac9dcfa729f447a6a5dfd46154d45da4.png" group-title="LIVE FOOTBALL" ,21:00 Sweden Division 1 Skovde AIK 0-0 BK Olympic
-https://livesport.io.vn/event.php?id=sd-6MvYqxjMhMRqnHFr1D
-
-#EXTINF:-1 tvg-id="sd-6MweZwMZSZ8mWGvFwu" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/67a530b2c82340aa15d70578e506deb2.png" group-title="LIVE FOOTBALL" ,21:00 English Football League Two Newport County 0-0 Grimsby Town
-https://livesport.io.vn/event.php?id=sd-6MweZwMZSZ8mWGvFwu
-
-#EXTINF:-1 tvg-id="sd-6MxipX2c4QCpbEGyfV" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/f195afb1838579b01cc8d0b55afa8a1c.png" group-title="LIVE FOOTBALL" ,21:00 German Women's Cup VfL Bochum Women 0-0 Werder Bremen Women
-https://livesport.io.vn/event.php?id=sd-6MxipX2c4QCpbEGyfV
-
-#EXTINF:-1 tvg-id="sd-6MweZzfVy8XviFGJk7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="LIVE FOOTBALL" ,21:00 English Football League One Cambridge United 0-0 AFC Wimbledon
-https://livesport.io.vn/event.php?id=sd-6MweZzfVy8XviFGJk7
-
-#EXTINF:-1 tvg-id="sd-6MweZwMZSricU7XbB5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/67a530b2c82340aa15d70578e506deb2.png" group-title="LIVE FOOTBALL" ,21:00 English Football League Two Fleetwood Town 0-0 Rochdale
-https://livesport.io.vn/event.php?id=sd-6MweZwMZSricU7XbB5
-
-#EXTINF:-1 tvg-id="sd-6MvYqxmaVKNZLo441V" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/ac9dcfa729f447a6a5dfd46154d45da4.png" group-title="LIVE FOOTBALL" ,21:00 Sweden Division 1 Jarfalla 0-0 A.F.C Eskilstuna
-https://livesport.io.vn/event.php?id=sd-6MvYqxmaVKNZLo441V
-
-#EXTINF:-1 tvg-id="sd-6MwarFoM23gGGRVxv3" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/d391cd85cedccdcc68243835aab46d77.png" group-title="LIVE FOOTBALL" ,20:30 Slovak 2.Liga Banik Lehota Pod Vtacnikom 0-2 Galanta
-https://livesport.io.vn/event.php?id=sd-6MwarFoM23gGGRVxv3
-
-#EXTINF:-1 tvg-id="sd-6MweKqWbhQiY97WKVy" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/c3ca567177713d1924f670d62e5f9da9.png" group-title="LIVE FOOTBALL" ,20:00 Russian First League Volga Ulyanovsk 0-0 FC Leningradets
-https://livesport.io.vn/event.php?id=sd-6MweKqWbhQiY97WKVy
-
-#EXTINF:-1 tvg-id="sd-6MweZzfVoRruuRmhUb" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="LIVE FOOTBALL" ,21:00 English Football League One Wycombe Wanderers 0-0 Reading
-https://livesport.io.vn/event.php?id=sd-6MweZzfVoRruuRmhUb
+#EXTINF:-1 tvg-id="sd-6MuSNSioTim1v24SEb" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/0f2d2e79833b106e3c0407d4c7131307.png" group-title="LIVE FOOTBALL" ,00:00 UEFA European U21 Championship qualification Malta U21 0-2 Northern Ireland U21
+https://livesport.io.vn/event.php?id=sd-6MuSNSioTim1v24SEb
 
