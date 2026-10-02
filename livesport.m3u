@@ -4,9 +4,9 @@
 # ======================================
 # Status       : ONLINE
 # Active Time  : 00:00 - 23:59
-# Updated      : 02/10/2026 15:54:48
-# Channels     : 140
-# Visits       : 19814
+# Updated      : 03/10/2026 06:36:42
+# Channels     : 162
+# Visits       : 19815
 # Script HB    : https://livesport.io.vn/ok/m3u.php
 # ======================================
 # Dùng OTT Navigator / TiviMate để xem
@@ -15,13 +15,13 @@
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TRẠNG THÁI : ONLINE
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 140
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",TỔNG KÊNH : 162
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 02/10/2026 15:54:48
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",CẬP NHẬT : 03/10/2026 06:36:42
 https://livesport.io.vn/spo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 19814
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Eu.gif" group-title="INFO",LƯỢT TRUY CẬP : 19815
 https://livesport.io.vn/spo.m3u8
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEMqanIDQi9wU5N0f8SMypPqU9TgxaclBSKHUKCtMu4u3DrURy_mpsYKJ&s=10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEMqanIDQi9wU5N0f8SMypPqU9TgxaclBSKHUKCtMu4u3DrURy_mpsYKJ&s=10" group-title="FIFA ASEAN CUP 2026" ,ASEAN CUP 1
@@ -602,4 +602,70 @@ https://livesport.io.vn/ok/smart.php?id=beinxtra
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-usa-network-74.png" group-title="US SPORTS" ,USA NETWORK
 https://livesport.io.vn/ok/iptv.php?id=usa
+
+#EXTINF:-1 tvg-id="sd-6MwarUrmyN67PH8WL7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/674ddb9d58a38edc0d15095dcec7fa1c.png" group-title="LIVE FOOTBALL" ,05:00 Colombian Torneo BetPlay Dimayor Atletico FC 1-1 Real Soacha Cundinamarca
+https://livesport.io.vn/event.php?id=sd-6MwarUrmyN67PH8WL7
+
+#EXTINF:-1 tvg-id="sd-6MwarmBEB2CpkEYzVV" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/a6350b03022c4e5344c808657c3282bb.png" group-title="LIVE FOOTBALL" ,06:00 Mexico Liga MX Femenil Santos Laguna Women 0-0 Puebla Women
+https://livesport.io.vn/event.php?id=sd-6MwarmBEB2CpkEYzVV
+
+#EXTINF:-1 tvg-id="sd-6MxiKXeLCYvse7KXWf" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/4c12fa77781f4ede0f0ca465a109addf.png" group-title="LIVE FOOTBALL" ,07:00 Bolivian Copa LFPB Real Potosi 0-0 Aurora
+https://livesport.io.vn/event.php?id=sd-6MxiKXeLCYvse7KXWf
+
+#EXTINF:-1 tvg-id="sd-6MxjZAKyNezVLNKdCs" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png" group-title="LIVE FOOTBALL" ,07:00 CONCACAF Nations League Barbados 0-0 Bermuda
+https://livesport.io.vn/event.php?id=sd-6MxjZAKyNezVLNKdCs
+
+#EXTINF:-1 tvg-id="sd-6MwcqNZMoxhYNdpzyM" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/b0557c0535e2990c0e6c9a7b17bd9465.png" group-title="LIVE FOOTBALL" ,07:00 United States Women's National Soccer League Orlando Pride Women 0-0 San Diego Wave Women
+https://livesport.io.vn/event.php?id=sd-6MwcqNZMoxhYNdpzyM
+
+#EXTINF:-1 tvg-id="sd-6MxjZALiMegBZw8Q3R" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png" group-title="LIVE FOOTBALL" ,07:00 CONCACAF Nations League Martinique 0-0 Honduras
+https://livesport.io.vn/event.php?id=sd-6MxjZALiMegBZw8Q3R
+
+#EXTINF:-1 tvg-id="sd-6MxjZAKxXcrh7ZHkij" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png" group-title="LIVE FOOTBALL" ,07:00 CONCACAF Nations League Bonaire 0-0 Grenada
+https://livesport.io.vn/event.php?id=sd-6MxjZAKxXcrh7ZHkij
+
+#EXTINF:-1 tvg-id="sd-6MvVNfQyJNw2jeJfeF" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png" group-title="LIVE FOOTBALL" ,06:45 Brazilian Serie B Esporte Clube Juventude 0-0 Operario Ferroviario PR
+https://livesport.io.vn/event.php?id=sd-6MvVNfQyJNw2jeJfeF
+
+#EXTINF:-1 tvg-id="sd-6MvVNfQyJVXUM5nR6w" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png" group-title="LIVE FOOTBALL" ,06:30 Brazilian Serie B Londrina PR 0-0 Criciuma
+https://livesport.io.vn/event.php?id=sd-6MvVNfQyJVXUM5nR6w
+
+#EXTINF:-1 tvg-id="sd-6MvYquV6wKTo37i9W7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/fee37a97f3d0e08209e4846fcff45cba.png" group-title="LIVE FOOTBALL" ,06:00 CHI Liga de Primera Universidad de Concepcion 0-1 Huachipato
+https://livesport.io.vn/event.php?id=sd-6MvYquV6wKTo37i9W7
+
+#EXTINF:-1 tvg-id="sd-6MvVNfQyJZvS63SFQj" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png" group-title="LIVE FOOTBALL" ,05:30 Brazilian Serie B Sao Bernardo 0-0 CRB AL
+https://livesport.io.vn/event.php?id=sd-6MvVNfQyJZvS63SFQj
+
+#EXTINF:-1 tvg-id="sd-6MweLB7XHHg3Fy8GbR" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/d9ffadf863b3490aaefe0c42b2570440.png" group-title="LIVE FOOTBALL" ,08:00 Mexico Ascenso MX Tepatitlan FC 0-0 Club Jaiba Brava
+https://livesport.io.vn/event.php?id=sd-6MweLB7XHHg3Fy8GbR
+
+#EXTINF:-1 tvg-id="sd-6MwdLb6FhJmRhabfoV" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" group-title="LIVE FOOTBALL" ,05:15 Argentine Division 1 CA Independiente 1-2 Instituto de Córdoba
+https://livesport.io.vn/event.php?id=sd-6MwdLb6FhJmRhabfoV
+
+#EXTINF:-1 tvg-id="sd-6MxjZALi2Kj7hFo1pB_md" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png" group-title="LIVE FOOTBALL" ,05:00 CONCACAF Nations League Suriname 0-0 Guatemala
+https://livesport.io.vn/event.php?id=sd-6MxjZALi2Kj7hFo1pB_md
+
+#EXTINF:-1 tvg-id="sd-6MxjJtbNqNSp6TaNKH" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png" group-title="LIVE FOOTBALL" ,07:00 International Friendly Colombia 0-0 Paraguay
+https://livesport.io.vn/event.php?id=sd-6MxjJtbNqNSp6TaNKH
+
+#EXTINF:-1 tvg-id="sd-6MvYqji7hYwvSHnEj1" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png" group-title="LIVE FOOTBALL" ,05:00 ARG Primera Nacional Ferrol Carril Oeste 0-0 Deportivo Madryn
+https://livesport.io.vn/event.php?id=sd-6MvYqji7hYwvSHnEj1
+
+#EXTINF:-1 tvg-id="sd-6MwdLb6GXMkjHv9iJK" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" group-title="LIVE FOOTBALL" ,07:30 Argentine Division 1 Boca Juniors 0-0 Club Atlético Unión
+https://livesport.io.vn/event.php?id=sd-6MwdLb6GXMkjHv9iJK
+
+#EXTINF:-1 tvg-id="sd-6MweaVyj2gwxQsvpAK" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="LIVE FOOTBALL" ,07:45 Categoría Primera A Deportivo Cali 0-0 Alianza Fútbol Club
+https://livesport.io.vn/event.php?id=sd-6MweaVyj2gwxQsvpAK
+
+#EXTINF:-1 tvg-id="sd-6MvVNc9zPWs2xgyzG7" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png" group-title="LIVE FOOTBALL" ,07:35 Brazilian Serie B Fortaleza 0-0 Nautico (PE)
+https://livesport.io.vn/event.php?id=sd-6MvVNc9zPWs2xgyzG7
+
+#EXTINF:-1 tvg-id="sd-6MweLB7XHnFHaCsBb5" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/d9ffadf863b3490aaefe0c42b2570440.png" group-title="LIVE FOOTBALL" ,08:00 Mexico Ascenso MX Correcaminos de la U.A.T. 0-0 Cruz Azul Hidalgo
+https://livesport.io.vn/event.php?id=sd-6MweLB7XHnFHaCsBb5
+
+#EXTINF:-1 tvg-id="sd-6MwarmBEB8oGMg2jxB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/a6350b03022c4e5344c808657c3282bb.png" group-title="LIVE FOOTBALL" ,08:00 Mexico Liga MX Femenil Unam Pumas Women 0-0 Tigres Women
+https://livesport.io.vn/event.php?id=sd-6MwarmBEB8oGMg2jxB
+
+#EXTINF:-1 tvg-id="sd-6MwdLb6FhRMsK25RGB" group-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif" tvg-logo="https://img.thesports.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" group-title="LIVE FOOTBALL" ,07:30 Argentine Division 1 Independiente Rivadavia 0-0 Gimnasia La Plata
+https://livesport.io.vn/event.php?id=sd-6MwdLb6FhRMsK25RGB
 
