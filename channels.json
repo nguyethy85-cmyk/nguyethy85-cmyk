@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-10T02:36:07.589006Z",
+  "update_time": "2026-10-10T08:57:04.923771Z",
   "channels": {
     "index": "505",
     "missing": [
@@ -1256,7 +1256,7 @@
         "thumbnail": "https://freem3u.xyz/static/images/hplus/htv5.png",
         "urls": [
           {
-            "url": "https://freem3u.xyz/api/live/play.json?vid=151"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=151"
           }
         ],
         "group": [
@@ -2889,7 +2889,10 @@
         "title": "KTV HD | TH Khánh Hòa",
         "urls": [
           {
-            "url": "https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=65"
+          },
+          {
+            "url": "https://cdnbaokhanhhoa.com/live/1332e3a79e27_std.m3u8"
           },
           {
             "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
@@ -2917,7 +2920,10 @@
         "title": "KTV1 HD | TH Khánh Hòa",
         "urls": [
           {
-            "url": "https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=76"
+          },
+          {
+            "url": "https://cdnbaokhanhhoa.com/live/90405a889081_std.m3u8"
           },
           {
             "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
@@ -3125,7 +3131,10 @@
         "title": "ĐTV | TH Điện Biên",
         "urls": [
           {
-            "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=52"
+          },
+          {
+            "url": "https://live.mediatech.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8"
           }
         ],
         "thumbnail": "https://freem3u.xyz/static/images/diaphuong/dienbien.png",
@@ -3141,10 +3150,10 @@
         "title": "BHTTV HD | TH Hà Tĩnh",
         "urls": [
           {
-            "url": "https://wse.hatinhtv.net/live/httv1/playlist.m3u8"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=58"
           },
           {
-            "url": "https://liveh34.vtvprime.vn/hls/HATINH/index.m3u8"
+            "url": "https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8"
           }
         ],
         "thumbnail": "https://freem3u.xyz/static/images/diaphuong/hatinh_new.png",
@@ -3160,7 +3169,7 @@
         "title": "THP HD | TH Hải Phòng",
         "urls": [
           {
-            "url": "https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8"
+            "url": "https://cdn.thhp.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8"
           },
           {
             "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
@@ -3188,7 +3197,7 @@
         "title": "THP3 HD | TH Hải Phòng",
         "urls": [
           {
-            "url": "https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8"
+            "url": "https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8"
           },
           {
             "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
@@ -3275,7 +3284,7 @@
         "title": "LTV HD | TH Lai Châu",
         "urls": [
           {
-            "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=68"
           }
         ],
         "thumbnail": "https://freem3u.xyz/static/images/diaphuong/laichau.png",
@@ -3320,6 +3329,9 @@
         "urls": [
           {
             "url": "https://live.baolaocai.vn/channel2/stream.m3u8"
+          },
+          {
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=71"
           }
         ],
         "thumbnail": "https://freem3u.xyz/static/images/diaphuong/laocai.png",
@@ -3425,7 +3437,10 @@
         "title": "QTV1 HD | TH Quảng Ninh",
         "urls": [
           {
-            "url": "https://live.baoquangninh.vn/qtvlive/tv1live.m3u8"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=82"
+          },
+          {
+            "url": "https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/playlist.m3u8"
           },
           {
             "url": "https://api.vieon.vn/backend/cm/v5/slug/livetv/detail?platform=web&ui=012021",
@@ -3543,12 +3558,10 @@
         "title": "TTV HD | TH Thanh Hóa",
         "urls": [
           {
-            "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni"
+            "url": "https://baothanhhoa.vn/ptth/tv-m3u8"
           },
           {
-            "url": "https://c.baothanhhoa.vn/media/dembeds/1c334aa83c91f92e9338dba80/desktop?dapp=baothanhhoa.vn&ids=livetv-baothanhhoa%3Bliveradio-baothanhhoa",
-            "provider": "json",
-            "jsonPath": "data[0].src"
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=89"
           }
         ],
         "thumbnail": "https://freem3u.xyz/static/images/diaphuong/thanhhoa.png",
