@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-22T12:32:03.833768Z",
+  "update_time": "2026-10-22T17:33:34.535918Z",
   "channels": {
     "index": "505",
     "missing": [
@@ -3231,6 +3231,7 @@
         "group": [
           "Âm Nhạc"
         ],
+        "isHidden": true,
         "channelIndex": 133
       },
       {
@@ -4733,6 +4734,21 @@
           "Radio VOV"
         ],
         "channelIndex": 219
+      },
+      {
+        "id": "VOV_Sonata_FM89",
+        "title": "VOV Sonata FM89",
+        "isAudio": true,
+        "thumbnail": "https://freem3u.xyz/static/images/vov/VOV_Sonata_FM89.png",
+        "urls": [
+          {
+            "url": "https://audio-lss.vov.vn/live/sonata.m3u8"
+          }
+        ],
+        "group": [
+          "Radio VOV"
+        ],
+        "channelIndex": 220
       },
       {
         "id": "vov_world_service",
