@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-12T07:55:04.092963Z",
+  "update_time": "2026-11-12T16:30:53.724308Z",
   "channels": {
     "index": "505",
     "missing": [
@@ -1682,17 +1682,13 @@
         "thumbnail": "https://freem3u.xyz/static/images/sctv/sctv5.png",
         "urls": [
           {
-            "url": "https://freem3u.xyz/api/live/play.json?sid=sctv5",
-            "provider": "flow"
-          },
-          {
-            "url": "https://liveh12byt.vtvprime.vn/hls/SCTV5/index.m3u8"
+            "url": "https://freem3u.xyz/shaka.html?videoUrl=https://liveatmvng.vtvprime.vn/live/data8/SCTV5/Live_DASHDRM/SCTV5.mpd&keys=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5",
+            "provider": "webview"
           }
         ],
         "group": [
           "SCTV"
         ],
-        "isHidden": true,
         "channelIndex": 55
       },
       {
@@ -2284,6 +2280,78 @@
           "Miền Nam"
         ],
         "channelIndex": 97
+      },
+      {
+        "id": "thvli_phim-th-vinh-long",
+        "tvgId": "thvli_phim.VN",
+        "title": "THVL Phim | TH Vĩnh Long",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/vinhlong_phim.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?vl=fast_thvl-phim",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "THVL",
+          "Miền Nam"
+        ],
+        "channelIndex": 98
+      },
+      {
+        "id": "thvli_giai_tri-th-vinh-long",
+        "tvgId": "thvli_giai_tri.VN",
+        "title": "THVL Giải Trí | TH Vĩnh Long",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/vinhlong_giaitri.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?vl=fast_thvl-giai-tri",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "THVL",
+          "Miền Nam"
+        ],
+        "channelIndex": 99
+      },
+      {
+        "id": "thvli_thieunhi-th-vinh-long",
+        "tvgId": "thvli_thieu_nhi.VN",
+        "title": "THVL Thiếu Nhi | TH Vĩnh Long",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/vinhlong_thieunhi.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?vl=fast_thvl-thieu-nhi",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "THVL",
+          "Miền Nam"
+        ],
+        "channelIndex": 112
+      },
+      {
+        "id": "thvli_chuyen_de-th-vinh-long",
+        "tvgId": "thvli_chuyen_de.VN",
+        "title": "THVL Chuyên Đề | TH Vĩnh Long",
+        "thumbnail": "https://freem3u.xyz/static/images/diaphuong/vinhlong_chuyende.png",
+        "urls": [
+          {
+            "url": "https://freem3u.xyz/api/live/play.json?vl=fast_thvl-chuyen-de",
+            "provider": "flow"
+          }
+        ],
+        "group": [
+          "Địa Phương",
+          "THVL",
+          "Miền Nam"
+        ],
+        "channelIndex": 120
       },
       {
         "id": "tayninhtv",
