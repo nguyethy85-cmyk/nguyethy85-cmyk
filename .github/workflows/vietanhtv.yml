@@ -3,11 +3,15 @@ name: Auto Update M3U
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+  - cron: "* * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: auto-update-m3u
+  cancel-in-progress: true
 
 jobs:
   update-m3u:
@@ -16,35 +20,54 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Download M3U playlist
         env:
           M3U_URL: "https://tv.vietanhtv.top/tivi/index.php?u=loc_1234&p=chanbomaydi"
         run: |
-          curl -L \
-            --fail \
-            --silent \
-            --show-error \
-            --retry 3 \
+          set -e
+
+          curl -fLsS \
+            --retry 5 \
+            --retry-delay 5 \
+            --retry-all-errors \
+            --connect-timeout 30 \
+            --max-time 180 \
             "$M3U_URL" \
             -o playlist.m3u
 
-          if ! grep -qE '^#EXTM3U' playlist.m3u; then
-            echo "Invalid M3U playlist!"
+          if [ ! -s playlist.m3u ]; then
+            echo "ERROR: Playlist is empty!"
             exit 1
           fi
 
-      - name: Commit changes
+          if ! head -c 500 playlist.m3u | grep -q '#EXTM3U'; then
+            echo "ERROR: Invalid M3U playlist!"
+            head -c 500 playlist.m3u
+            exit 1
+          fi
+
+          echo "Playlist downloaded successfully!"
+          echo "File size: $(wc -c < playlist.m3u) bytes"
+
+      - name: Commit and push changes
         run: |
+          set -e
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add playlist.m3u
 
-          if ! git diff --cached --quiet; then
-            git commit -m "Auto update M3U playlist"
-            git push
-          else
+          if git diff --cached --quiet; then
             echo "Playlist unchanged."
+            exit 0
           fi
+
+          git commit -m "Auto update M3U playlist"
+
+          git push origin HEAD:${GITHUB_REF_NAME}
           
